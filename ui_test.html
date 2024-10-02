@@ -6,28 +6,28 @@
 body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box;}
 
-/* Button used to open the contact form - fixed at the bottom of the page */
-.open-button {
-  background-color: #555;
-  color: white;
-  padding: 16px 20px;
-  border: none;
-  cursor: pointer;
-  opacity: 0.8;
-  position: fixed;
-  bottom: 23px;
-  right: 28px;
-  width: 280px;
+/* Hold images and form in a container */
+.main-container {
+  display: flex;
+  justify-content: space-between; /* Distribute items evenly */
+  align-items: flex-start; /* Align items to the top */
+  padding: 20px;
+  gap: 20px;
+  border: 2px solid green;
 }
 
-/* The popup form - hidden by default */
-.form-popup {
-  display: none;
-  position: fixed;
-  bottom: 0;
-  right: 15px;
-  border: 3px solid #f1f1f1;
-  z-index: 9;
+.image-container{
+  flex: 1; /* Allow images to take remaining space */
+  display: flex;
+  flex-wrap: wrap; /* Wrap images to next line if no space */
+  max-width: 75%;
+  border: 2px solid red;
+}
+
+.image-container img {
+  max-width: 100%; /* Ensure images dont overflow */
+  height: auto;
+  border: 2px solid #000;
 }
 
 /* Add styles to the form container */
@@ -35,6 +35,16 @@ body {font-family: Arial, Helvetica, sans-serif;}
   max-width: 300px;
   padding: 10px;
   background-color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 1.0;
+  position: fixed;
+  top: 30px;
+  right: 30px;
+  width: 280px;
+  border: 3px solid #000000;
+  z-index: 9; /*To place popup form infront of text */
 }
 
 /* Full-width input fields */
@@ -67,13 +77,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 </style>
 </head>
 <body>
-
-<h2>Popup Form</h2>
-<p>Click on the button at the bottom of this page to open the login form.</p>
-
-<button class="open-button" onclick="openForm()">Open Form</button>
-
-<div class="form-popup" id="myForm">
+<div class="main-container">
   <form class="form-container" onsubmit="submitForm(event)">
     <h1>Job scraper</h1>
 
@@ -82,27 +86,78 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
     <label for="location"><b>Location</b></label>
     <select name="location" id="location">
-        <option value="Singapore">Singapore</option>
-        <option value="Malaysia">Malaysia</option>
+      <!-- Countries added dynamically using JavaScript -->
     </select>
     <br><br>
-    <button type="submit" class="btn">Filter</button>
+    <button type="submit" class="btn">Filter</button>  
 
   </form>
+
+  <div class="image-container">
+    <!-- Images/graphs to be tested -->
+  </div>
 </div>
 
 <script>
-function openForm() {
-    document.getElementById("myForm").style.display = "block";
-}
+// List of all countries in a simple list / array.
+// Sorted alphabetical by country name (special characters on bottom)
+const countries = [
+      "Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Antigua and Barbuda", "Argentina", 
+      "Armenia", "Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh", "Barbados", 
+      "Belarus", "Belgium", "Belize", "Benin", "Bhutan", "Bolivia", "Bosnia and Herzegovina", "Botswana", 
+      "Brazil", "Brunei", "Bulgaria", "Burkina Faso", "Burundi", "Cabo Verde", "Cambodia", "Cameroon", 
+      "Canada", "Central African Republic", "Chad", "Chile", "China", "Colombia", "Comoros", "Congo", 
+      "Costa Rica", "Croatia", "Cuba", "Cyprus", "Czech Republic", "Denmark", "Djibouti", "Dominica", 
+      "Dominican Republic", "East Timor", "Ecuador", "Egypt", "El Salvador", "Equatorial Guinea", "Eritrea", 
+      "Estonia", "Eswatini", "Ethiopia", "Fiji", "Finland", "France", "Gabon", "Gambia", "Georgia", 
+      "Germany", "Ghana", "Greece", "Grenada", "Guatemala", "Guinea", "Guinea-Bissau", "Guyana", "Haiti", 
+      "Honduras", "Hungary", "Iceland", "India", "Indonesia", "Iran", "Iraq", "Ireland", "Israel", "Italy", 
+      "Jamaica", "Japan", "Jordan", "Kazakhstan", "Kenya", "Kiribati", "Korea North", "Korea South", 
+      "Kosovo", "Kuwait", "Kyrgyzstan", "Laos", "Latvia", "Lebanon", "Lesotho", "Liberia", "Libya", 
+      "Liechtenstein", "Lithuania", "Luxembourg", "Madagascar", "Malawi", "Malaysia", "Maldives", "Mali", 
+      "Malta", "Marshall Islands", "Mauritania", "Mauritius", "Mexico", "Micronesia", "Moldova", "Monaco", 
+      "Mongolia", "Montenegro", "Morocco", "Mozambique", "Myanmar", "Namibia", "Nauru", "Nepal", "Netherlands", 
+      "New Zealand", "Nicaragua", "Niger", "Nigeria", "North Macedonia", "Norway", "Oman", "Pakistan", "Palau", 
+      "Panama", "Papua New Guinea", "Paraguay", "Peru", "Philippines", "Poland", "Portugal", "Qatar", "Romania", 
+      "Russia", "Rwanda", "Saint Kitts and Nevis", "Saint Lucia", "Saint Vincent and the Grenadines", "Samoa", 
+      "San Marino", "Sao Tome and Principe", "Saudi Arabia", "Senegal", "Serbia", "Seychelles", "Sierra Leone", 
+      "Singapore", "Slovakia", "Slovenia", "Solomon Islands", "Somalia", "South Africa", "South Sudan", 
+      "Spain", "Sri Lanka", "Sudan", "Suriname", "Sweden", "Switzerland", "Syria", "Taiwan", "Tajikistan", 
+      "Tanzania", "Thailand", "Togo", "Tonga", "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan", 
+      "Tuvalu", "Uganda", "Ukraine", "United Arab Emirates", "United Kingdom", "United States", "Uruguay", 
+      "Uzbekistan", "Vanuatu", "Vatican City", "Venezuela", "Vietnam", "Yemen", "Zambia", "Zimbabwe"
+    ];
 
+//get the select element for location list
+const selectlocation = document.getElementById('location');
+
+//Defines default country at the top of the list
+const defaultOption = document.createElement('option');
+defaultOption.value = 'Singapore';
+defaultOption.text = 'Singapore';
+defaultOption.selected = true;
+selectlocation.appendChild(defaultOption);
+
+//Populate the select element with countries
+countries.forEach(location => {
+  //if condition to exclude Singapore from 
+  //the list since its at the top
+  if (location !== 'Singapore') {
+    const option = document.createElement('option');
+    option.value = location;
+    option.text = location;
+    selectlocation.appendChild(option);
+  }
+});
+
+//Submits form and sends data to Flask backend
 function submitForm(event) {
     event.preventDefault(); //Prevents form submission
     const title = document.getElementById('title').value;
     const location = document.getElementById('location').value;
 
     //Prepare data to send
-    const data = {
+    const data = { 
         title: title,
         location: location
     };
@@ -117,7 +172,7 @@ function submitForm(event) {
     })
     .then(response => response.json())
     .then(data => {
-        console.log('Response from Python program', data.message); //replace data with data.result if function is added
+        console.log('Response from Python program', data.message);
         alert(`Form submitted successfully! Title: ${data.title}, Location: ${data.location}`);
         //alert(`Python program processed the data! Result: ${data.result})
     })
