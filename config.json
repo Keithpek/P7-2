@@ -6,14 +6,9 @@
     "resume_path": "full local path to your resume in PDF format",
     "search_queries": [
         {
-            "keywords": "Software Engineer",
-            "location": "Singapore",
+            "keywords": "Data engineer",
+            "location": "Japan",
             "f_WT": ""
-        },
-        {
-            "keywords": "Software Engineer",
-            "location": "Singapore",
-            "f_WT": "2"
         }
     ],
     "desc_words": [
@@ -47,7 +42,7 @@
     ],
     "title_exclude": [
         "frontend",
-        "fron end",
+        "front end",
         "game"
     ],
     "title_include": [
