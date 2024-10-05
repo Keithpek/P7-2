@@ -1,0 +1,3 @@
+ensure config file has results 
+for now if config file has parameters that result in 0 jobs found it 
+will have error
