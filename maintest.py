@@ -65,7 +65,7 @@ def transform(soup):
         joblist.append(job)
     return joblist
 
-    # def transform_job(soup):
+    #def transform_job(soup): #Function to get the job description from the job details page
     div = soup.find('div', class_='description__text description__text--rich')
     if div:
         # Remove unwanted elements
@@ -85,7 +85,6 @@ def transform(soup):
         return text
     else:
         return "Could not find Job Description"
-
 
 def safe_detect(text):
     try:
