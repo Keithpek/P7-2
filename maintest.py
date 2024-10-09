@@ -276,7 +276,9 @@ def wait_for_html():
                 print("Error checking form input")
         except requests.exceptions.ConnectionError:
             print("Waiting for form input...")
-        time.sleep(1)
+        except Exception as e:
+            print(f"An error occurred: {e}")
+        tm.sleep(1)
 
 def reset_form_submission():
     try:
@@ -289,10 +291,14 @@ def reset_form_submission():
         print("Error connecting to server to reset form submission")
 
 if __name__ == "__main__":
-    subprocess.Popen(['python', 'flask_test.py']) #Runs flask code in non-blocking way
-    webbrowser.open('ui_test.html') #Runs html file
+    subprocess.Popen(['python3', 'flask_test.py'], start_new_session=True) #Runs flask code in non-blocking way #Runs flask code in non-blocking way
     wait_for_flask()
     reset_form_submission()
+    try:
+        webbrowser.open('ui_test.html')  # Runs html file
+        print("HTML file opened successfully")
+    except Exception as e:
+        print(f"An error occurred while opening the HTML file: {e}")
     wait_for_html()
     config_file = 'config.json'  # default config file
     main(config_file)
