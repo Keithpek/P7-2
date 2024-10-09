@@ -1,56 +1,46 @@
 title,company,location,date,job_url,job_description
-AEM Developer,Vertis,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043549026/,"java, go, apache, javascript, angular, r"
-AI Voice Algorithm Engineer,BIGO,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043536338/,"pytorch, r, go, tensorflow"
+AI/HPC Infrastructure Engineer,DSO National Laboratories,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3742046433/,"spark, tensorflow, pytorch, apache, r, docker, kubernetes"
 AWS Cloud Engineer,Peoplebank,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4045735951/,r
-"Algorithm Engineer (Platform Governance), TikTok e-Commerce",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3592063011/,"r, python, go, linux"
-"Algorithm Engineer, Global Live - Operation Intelligence - Singapore",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3847970245/,"spark, r, hive, go"
-"Algorithm Engineer, TikTok e-Commerce",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3794307509/,"spark, python, hadoop, java, go, sql, r, hive"
-"Associate Engineer, SRE",Rakuten Viki,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3993389046/,r
-Associate Software Engineer,Exasoft,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4045712043/,"kubernetes, cicd, openshift, r, aws"
-Backend Engineer - Global Live (LLM),TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3908182322/,r
-"Backend Engineer Intern (Machine Learning Infrastructure), AML - 2024",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3678264265/,"spark, python, hadoop, tensorflow, go, pytorch, r"
-"Backend Engineer Intern, Global E-commerce (Commercial Platform) - 2024 Start",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3675431580/,"python, kafka, mysql, go, java, r"
-Backend Software Engineer - Global E-commerce (Customer Business),Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042968063/,r
-"Backend Software Engineer, Global E-commerce (Customer Business)",Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042967353/,"go, r, python, java"
-"Backend Software Engineer, Global E-commerce (Governance and Experience)",Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042962851/,"python, kafka, mysql, rust, java, go, r"
-"Big Data Engineer, TikTok",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3632020795/,"nosql, spark, go, r, hive"
-Chinese Speaking Cloud Platform Engineer,FORESTOWN INTERNATIONAL CONSULTING INC.,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4046230604/,r
-Cloud Security Engineer,Cygnify,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4036381832/,"iam, encryption, firewalls, gcp, r, aws"
-"Data Center Engineering Ops Engineer, Data Center Engineering Operations",Amazon Web Services (AWS),"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4010586412/,"rust, amazon web services, go, r, aws"
-"Developer, Trilogy (Remote) - $100,000/year USD",Crossover,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4046058782/,"r, python, go, aws"
+"Algorithm Engineer (Platform Governance), TikTok e-Commerce",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3592063011/,r
+"Algorithm Engineer, Global Live - Operation Intelligence - Singapore",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3847970245/,r
+"Algorithm Engineer, TikTok e-Commerce",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3794307509/,"spark, go, hadoop, sql, r, java, python, hive"
+"Backend Engineer Intern (Machine Learning Infrastructure), AML - 2024",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3678264265/,r
+"Backend Engineer Intern, Global E-commerce (Commercial Platform) - 2024 Start",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3675431580/,r
+"Backend Software Engineer, Global E-commerce (Customer Business)",Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042967353/,r
+"Backend Software Engineer, Global E-commerce (Governance and Experience)",Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042962851/,r
+"Big Data Development Engineer (Tea), Data Platform",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3809565807/,r
+Big Data Engineer (Libra) - Data Platform,TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3809562317/,r
+"Big Data Engineer, TikTok",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3632020795/,r
+Chinese Speaking Cloud Platform Engineer,FORESTOWN INTERNATIONAL CONSULTING INC.,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4046230604/,"go, r, kubernetes, python, ansible, aws, linux"
+Cloud Engineer,Virtusa,"Kallang, Central Singapore Community Development Council, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4016108701/,r
+Cloud Security Engineer,CareCone Group,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4041451806/,"r, kubernetes"
+Cloud Security Engineer,Cygnify,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4036381832/,"r, gcp, encryption, iam, aws, firewalls"
+"Data Center Engineering Ops Engineer, Data Center Engineering Operations",Amazon Web Services (AWS),"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4010586412/,"go, r, aws, rust, amazon web services"
+Developer,Wipro,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043573472/,"r, go, javascript, java"
 FileNet Developer,HTC Global Services,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043549790/,r
-"Graduate Engineer, Embedded Software",Espressif Systems,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043536902/,"r, python, go"
-IT ENGINEER,Micron Technology,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043546412/,r
-Information Technology - Cloud/DevOps Engineer,Singapore Airlines,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3744648812/,"kubernetes, docker, ansible, python, gcp, terraform, openshift, r, aws"
-Information Technology - Full Stack Developer (E-Commerce) (Malaysia),Singapore Airlines,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3744654077/,"typescript, css, go, javascript, angular, r, html"
-Information Technology - Infrastructure Engineer,Singapore Airlines,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3744650674/,r
-Information Technology - Lead/Systems Engineer (CDN/Web Security/Monitoring & Logging Tools),Singapore Airlines,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3744649735/,"r, splunk, terraform"
-Information Technology - Systems Technology Engineer,Singapore Airlines,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3744653094/,"r, splunk, aws"
-IoT Engineer,Evolution Singapore,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043577466/,r
-Lead Engineer - Security Operations,Marina Bay Sands,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4045745850/,r
-"ML Engineer, Exciting AI Startup",Kerry Consulting,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4042901035/,"pytorch, r, cicd, tensorflow"
+Golang Engineer,Canonical,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4046270959/,"go, r, python, linux, rust"
+"Graduate Engineer, Embedded Software",Espressif Systems,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043536902/,"r, go, python"
+Information Technology - Cloud/DevOps Engineer,Singapore Airlines,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3744648812/,r
+Information Technology - Full Stack Developer (E-Commerce) (Malaysia),Singapore Airlines,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3744654077/,r
+Lead Engineer - Security Operations,Marina Bay Sands,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4045745850/,"r, sql, java"
+"ML Engineer, Exciting AI Startup",Kerry Consulting,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4042901035/,"r, tensorflow, cicd, pytorch"
 MSCRM Developer,HTC Global Services,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043552530/,r
-"Machine Learning Engineer (Aftersale Experience), TikTok E-commerce Governance",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3933547529/,"r, python, go, linux"
-"Machine Learning Engineer (Model Inference), Machine Learning System - 2025 Start",ByteDance,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4045850167/,r
-"Machine Learning Engineer (Recommendation), TikTok e-Commerce Alliance",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3509694999/,"spark, python, r, tensorflow, go, pytorch, sql, hive"
-"Machine Learning Engineer (Recommendation), TikTok e-Commerce Data Compass",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3516040129/,"spark, python, tensorflow, go, pytorch, r"
-"Machine Learning Engineer Intern (Recommendation), TikTok e-Commerce - 2024",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3675017587/,r
-Production System Engineer - Bytedance Infrastructure,ByteDance,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3772496487/,"ansible, python, hadoop, linux, rust, go, sql, r, hive"
-Python Developer,Cygnify,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4036384173/,"nosql, python, r, pandas, go, sql"
-Quantexa Lead Data Engineer,Randstad Singapore,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4039121802/,"kubernetes, spark, docker, python, ansible, jenkins, hadoop, splunk, gcp, java, cicd, openshift, r, hive, aws"
+"Machine Learning Engineer (Recommendation), TikTok e-Commerce Data Compass",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3516040129/,"spark, tensorflow, go, pytorch, r, python"
+"Machine Learning Engineer Intern (Recommendation), TikTok e-Commerce - 2024",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3675017587/,"r, tensorflow, go, pytorch"
+Production System Engineer - Bytedance Infrastructure,ByteDance,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3772496487/,"hadoop, go, sql, r, python, ansible, linux, rust, hive"
+Python Developer,Cygnify,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4036384173/,"go, sql, r, nosql, python, pandas"
+Quantexa Lead Data Engineer,Randstad Singapore,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4039121802/,"hadoop, spark, r, java, docker, gcp, openshift, kubernetes, python, jenkins, cicd, ansible, aws, splunk, hive"
 Quantitative Software Developer,GQR,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3950623322/,r
-R&D Software Engineer (Data Engineer - Quantum),Keysight Technologies,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4039790529/,r
-"Research Engineer (Computer Vision), Intelligent Creation",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3592059299/,"pytorch, r, go"
-"Research Engineer/Senior Research Engineer (1-year contract), SMC",Singapore Management University,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4044332238/,"r, java, go"
-Resident Engineer,Logicalis Asia Pacific,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3840259148/,"r, go"
-Salesforce Developer,RiDiK (a Subsidiary of CLPS. Nasdaq: CLPS),"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043607468/,r
+"Research Engineer/Senior Research Engineer (1-year contract), SMC",Singapore Management University,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4044332238/,r
+"SQL Developer (Bangkok Based, Relocation Provided)",Agoda,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4045404967/,"r, go, sql, tableau"
 Senior Associate Engineer - #catalystWSP,Singtel,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3976278807/,"r, go"
-Senior Murex Developer,Helius Technologies,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043536751/,"sap, sql, r, unix"
-Senior Security Engineer,Open Government Products,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043537986/,"typescript, r, go, aws"
-Software Engineer,Hconnect,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4043604458/,"r, go"
-Software Engineer,POWER IT SERVICES,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043362461/,"sap, r, html"
+Senior Murex Developer,Helius Technologies,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043536751/,r
+Senior Security Engineer,Open Government Products,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043537986/,r
+Software Engineer,Hconnect,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4043604458/,r
+Software Engineer 1,PayPal,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043321174/,"sql, go, r, java, nosql, jenkins"
 Solutions Engineer - Singapore,HashiCorp,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3951422489/,r
-"Staff/Lead Application Security Engineer (Bangkok based, relocation provided)",Agoda,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4027501301/,"iam, python, sap, rust, gcp, go, openshift, r, aws"
-System Engineer,Carrier,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4044371696/,r
-Trading Operations Engineer,WorldQuant,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3859886289/,"sql, r, python, go"
-Windows 11 Engineer,Avensys Consulting,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4044611283/,"rust, r, go"
+System Engineer,Shell Infotech,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043570545/,"r, go, windows server"
+"Systems Engineer, C3",NCS Group,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4045471411/,r
+Trading Operations Engineer,WorldQuant,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3859886289/,r
+Windows 11 Engineer,Avensys Consulting,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4044611283/,r
+[LPS] Oracle Database Engineer,LPS,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4025575058/,"unix, sql, go, r, rust"

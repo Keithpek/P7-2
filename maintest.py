@@ -11,9 +11,11 @@ from langdetect.lang_detect_exception import LangDetectException
 import re
 import nltk
 from nltk.corpus import stopwords 
+import subprocess
+import webbrowser
 
 #Comment this line if you have already downloaded the stopwords
-nltk.download('stopwords')
+#nltk.download('stopwords')
 
 def load_config(file_name):
     # Load the config file
@@ -245,6 +247,8 @@ def main(config_file):
 
 
 if __name__ == "__main__":
+    subprocess.Popen(['python', 'flask_test.py']) #Runs flask code in non-blocking way
+    webbrowser.open('ui_test.html') #Runs html file
     config_file = 'config.json'  # default config file
     if len(sys.argv) == 2:
         config_file = sys.argv[1]
