@@ -6,7 +6,7 @@
     "resume_path": "full local path to your resume in PDF format",
     "search_queries": [
         {
-            "keywords": "Computer Engineer",
+            "keywords": "data engineer",
             "location": "Singapore",
             "f_WT": ""
         }

@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="faviconv2.jpg" type="image/png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JobScout Pro</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        * {
+            box-sizing: border-box;
+        }
+
+        /* Header */
+        header {
+            background-color: #008080;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            position: relative;
+        }
+
+        header img {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 50px; /* Adjust size as needed */
+            height: auto;
+        }
+
+        /* Navigation tabs */
+        nav {
+            background-color: #005757;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+        }
+        nav a:hover {
+            background-color: #007575;
+        }
+
+        /* Main container */
+        .main-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            padding: 20px;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Image container */
+        .image-container {
+            flex: 1;
+            display: flex;
+            flex-wrap: wrap;
+            max-width: 75%;
+            gap: 10px;
+        }
+
+        .image-container img {
+            flex: 1 1 300px;
+            height: auto;
+            border-radius: 5px;
+            border: 2px solid #ccc;
+        }
+
+        /* Form container */
+        .form-container {
+            max-width: 300px;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Input fields */
+        .form-container input[type="text"],
+        .form-container select {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background: #f9f9f9;
+        }
+
+        /* Button styles */
+        .form-container .btn {
+            background-color: #04AA6D;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+            transition: background 0.3s;
+        }
+
+        .form-container .btn:hover {
+            background-color: #039a56;
+        }
+
+        /* Responsive design */
+        @media (max-width: 768px) {
+            .main-container {
+                flex-direction: column;
+                align-items: center;
+            }
+            .image-container {
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="faviconv2.jpg" alt="Logo"> <!-- Your icon -->
+    <h1>JobScout Pro</h1>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="about.html">About Us</a>
+</nav>
+
+<div class="main-container">
+    <form class="form-container" onsubmit="submitForm(event)">
+        <h2>Filter Jobs</h2>
+
+        <label for="title"><b>Title</b></label>
+        <input type="text" placeholder="Enter Job Title" name="title" id="title" required>
+
+        <label for="location"><b>Location</b></label>
+        <select name="location" id="location">
+            <!-- Countries added dynamically using JavaScript -->
+        </select>
+
+        <button type="submit" class="btn">Filter</button>  
+    </form>
+
+    <div class="image-container" id="results">
+        <!-- Images/graphs to be tested -->
+        <img src="https://via.placeholder.com/300" alt="Sample Image 1">
+        <img src="https://via.placeholder.com/300" alt="Sample Image 2">
+        <img src="https://via.placeholder.com/300" alt="Sample Image 3">
+    </div>
+</div>
+
+<script>
+// JavaScript code for countries and form submission
+const countries = ['Singapore', 'Malaysia', 'Thailand', 'Indonesia', 'Philippines']; // Example countries
+
+// Get the select element for location list
+const selectLocation = document.getElementById('location');
+
+// Defines default country at the top of the list
+const defaultOption = document.createElement('option');
+defaultOption.value = 'Singapore';
+defaultOption.text = 'Singapore';
+defaultOption.selected = true;
+selectLocation.appendChild(defaultOption);
+
+// Populate the select element with countries
+countries.forEach(location => {
+    if (location !== 'Singapore') {
+        const option = document.createElement('option');
+        option.value = location;
+        option.text = location;
+        selectLocation.appendChild(option);
+    }
+});
+
+// Submits form and sends data to Flask backend
+function submitForm(event) {
+    event.preventDefault(); // Prevents form submission
+    const title = document.getElementById('title').value;
+    const location = document.getElementById('location').value;
+
+    // Prepare data to send
+    const data = { 
+        title: title,
+        location: location
+    };
+
+    // Send data to Flask backend
+    fetch('http://127.0.0.1:5000/submit_form', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data), // Convert data into JSON
+    })
+    .then(response => response.json())
+    .then(data => {
+        console.log('Response from Python program', data.message);
+        // Display confirmation message in the results container
+        const resultsContainer = document.getElementById('results');
+        const resultDiv = document.createElement('div');
+        resultDiv.innerHTML = `<p><strong>Submitted Job:</strong> ${title} <br><strong>Location:</strong> ${location}</p>`;
+        resultsContainer.appendChild(resultDiv);
+    })
+    .catch((error) => {
+        console.error('Error:', error);
+    });
+}
+</script>
+
+</body>
+</html>
