@@ -200,31 +200,30 @@ def cleanfile():
         'Salesforce', 'SAP', 'Power BI', 'Tableau', 'MATLAB', 'Splunk', 'Elasticsearch'
         ]
 
-    excel_file = 'jobs.csv'
     #convert excel_file into a dataframe
+    excel_file = 'jobs.csv'
     df = pd.read_csv(excel_file)
 
     #drop rows with missing values
     df = df.dropna() 
 
-    #Deletes columns 0,7,8,9,10
+    #Deletes columns 6,7,8,9 that have values of 0
     df = df.drop(df.columns[[6,7,8,9]], axis=1) 
 
     #Removes leading and trailing whitespaces
     df = df.apply(lambda x: x.str.strip() if x.dtype == "object" else x) 
 
-    #Removes URLs from the dataframe
+    #-----Cleaning job_description column-----
+    #Removes URLs
     url_pattern = re.compile(r'https?://\S+|www\.\S+')
     df['job_description'] = df['job_description'].str.replace(url_pattern, '', regex=True) 
-
-    #Removes special characters from the dataframe
+    #Removes special characters
     df['job_description'] = df['job_description'].str.replace(r'[^a-zA-Z0-9\s]', '', regex=True) 
-
-    #Removes stopwords from the Job Description column
+    #Removes stopwords
     df['job_description'] = df['job_description'].apply(lambda x: ' '.join([word for word in x.split() if word.lower() not in (stop)])) 
-
-    #Extracts skills from the Job Description column
+    #Extracts skills
     df['job_description'] = df['job_description'].apply(lambda x: extract_skills(x, skills))
+    #-----End of job_description column cleaning-----
 
     #Save the cleaned dataframe to a new csv file
     df.to_csv('jobs_cleaned.csv', index=False)
