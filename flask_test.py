@@ -45,6 +45,22 @@ def update_search_queries(title, location):
     except Exception as e:
         return f"An error occurred: {str(e)}"
 
+@app.route('/')
+def index():
+    return "Flask server is running"
+
+#Check form submission
+@app.route('/check_form', methods=['GET'])
+def check_form():
+    try:
+        with open(json_file_path, 'r') as file:
+            data = json.load(file)
+            if data.get('form_submitted', False):
+                return jsonify(status="success", message="Form submitted")
+            else:
+                return jsonify(status="pending", message="Form not submitted yet")
+    except Exception as e:
+        return jsonify(status="error", message=str(e))
 
 # Define route to handle form submission
 @app.route('/submit_form', methods=['POST'])
@@ -57,17 +73,33 @@ def submit_form():
     # update search queries in json file with new data
     result = update_search_queries(title, location)
 
-    # Run main program after updating config.json
-    main_program = main(json_file_path)
+    #Set form_submitted to True
+    with open(json_file_path, 'r+') as file:
+        data = json.load(file)
+        data['form_submitted'] = True
+        file.seek(0) # Move cursor to start of file
+        json.dump(data, file, indent=4) # Writes updated data back to json, pretty-print with indent
+        file.truncate() #Truncate file to remove any extra data
 
     # Return response to front-end
-    return jsonify({
+    return jsonify(status="success", message="Input received", data={
         "message": result,
         "title": title,
-        "location": location,
-        "main_program": main_program
+        "location": location
     })
 
+@app.route('/reset_form', methods=['POST'])
+def reset_form():
+    try:
+        with open(json_file_path, 'r+') as file:
+            data = json.load(file)
+            data['form_submitted'] = False
+            file.seek(0)
+            json.dump(data, file, indent=4)
+            file.truncate()
+        return jsonify(status="success", message="Form reset")
+    except Exception as e:
+        return jsonify(status="error", message=str(e))
 
 # Run app
 if __name__ == '__main__':

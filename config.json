@@ -6,22 +6,15 @@
     "resume_path": "full local path to your resume in PDF format",
     "search_queries": [
         {
-            "keywords": "Data Analyst",
+            "keywords": "Computer Engineer",
             "location": "Singapore",
             "f_WT": ""
         }
     ],
-    "desc_words": [
-
-    ],
-    "title_exclude": [
-
-    ],
-    "title_include": [
-
-    ],
-    "company_exclude": [
-    ],
+    "desc_words": [],
+    "title_exclude": [],
+    "title_include": [],
+    "company_exclude": [],
     "languages": [
         "en"
     ],
@@ -32,5 +25,6 @@
     "pages_to_scrape": 10,
     "rounds": 3,
     "days_to_scrape": 10,
-    "app_table": "jobs"
+    "app_table": "jobs",
+    "form_submitted": true
 }
