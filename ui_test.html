@@ -173,8 +173,8 @@ function submitForm(event) {
     .then(response => response.json())
     .then(data => {
         console.log('Response from Python program', data.message);
-        alert(`Form submitted successfully! Title: ${data.title}, Location: ${data.location}`);
-        //alert(`Python program processed the data! Result: ${data.result})
+        //data.data.title is because the data is nested
+        alert(`Form submitted successfully! Title: ${data.data.title}, Location: ${data.data.location}`);
     })
     .catch((error) => {
         console.error('Error:', error);
