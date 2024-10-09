@@ -8,7 +8,12 @@ import pandas as pd
 from urllib.parse import quote
 from langdetect import detect
 from langdetect.lang_detect_exception import LangDetectException
+import re
+import nltk
+from nltk.corpus import stopwords 
 
+#Comment this line if you have already downloaded the stopwords
+nltk.download('stopwords')
 
 def load_config(file_name):
     # Load the config file
@@ -69,7 +74,7 @@ def transform(soup):
         joblist.append(job)
     return joblist
 
-    # def transform_job(soup):
+def transform_job(soup):
     div = soup.find('div', class_='description__text description__text--rich')
     if div:
         # Remove unwanted elements
@@ -147,13 +152,97 @@ def get_jobcards(config):
 
 def exporttoexcel(all_jobs):
     df = pd.DataFrame(all_jobs)
-    df.to_csv('jobs.csv', index=False, header=False)
+    df.to_csv('jobs.csv', index=False, header=True)
 
+def extract_skills(text, skillset):
+    pattern = '|'.join([re.escape(skill) for skill in skillset])
+    found_skills = re.findall(pattern, text, flags=re.IGNORECASE)
+    return ', '.join(set([skill.lower() for skill in found_skills]))
+
+def cleanfile():
+    stop = stopwords.words('english')
+    new_words = ['show','less']
+    stop = stop + new_words
+
+    #List of skillsets
+    skills = [
+        # Programming Languages
+        'Python', 'Typescript', 'Nestjs', 'JavaScript', 'Java', 'C#', 'C++', 'Go', 'Ruby', 'Swift', 'PHP', 'Rust', 'R', 'Perl',
+        
+        # Web Development
+        'HTML', 'CSS', 'React', 'Angular', 'Vue.js', 'Node.js', 'Express.js',
+        
+        # Database Technologies
+        'SQL', 'NoSQL', 'MySQL', 'PostgreSQL', 'MongoDB', 'Redis', 'Elasticsearch',
+        
+        # Cloud Platforms
+        'Google Cloud Platform', 'GCP', 'AWS', 'Amazon Web Services', 'Microsoft Azure', 'IBM Cloud', 'Oracle Cloud',
+        
+        # DevOps and Automation
+        'CICD', 'Jenkins', 'Ansible', 'Terraform', 'Chef', 'Puppet', 'GitLab CI/CD',
+        
+        # Containerization and Orchestration
+        'Docker', 'Kubernetes', 'OpenShift', 'Helm',
+        
+        # Operating Systems
+        'Linux', 'Unix', 'Windows Server',
+        
+        # Networking & Security
+        'TCP/IP', 'VPN', 'Firewalls', 'Nginx', 'Apache', 'SSL/TLS', 'Encryption', 'IAM', 'OAuth',
+        
+        # Data Engineering & Analytics
+        'Kafka', 'Hadoop', 'Spark', 'Hive', 'Apache Airflow',
+        
+        # Machine Learning & Data Science
+        'TensorFlow', 'PyTorch', 'Scikit-learn', 'Pandas', 'Numpy', 'Keras', 'D3.js',
+        
+        # Other Tools/Frameworks
+        'Salesforce', 'SAP', 'Power BI', 'Tableau', 'MATLAB', 'Splunk', 'Elasticsearch'
+        ]
+
+    excel_file = 'jobs.csv'
+    #convert excel_file into a dataframe
+    df = pd.read_csv(excel_file)
+
+    #drop rows with missing values
+    df = df.dropna() 
+
+    #Deletes columns 0,7,8,9,10
+    df = df.drop(df.columns[[6,7,8,9]], axis=1) 
+
+    #Removes leading and trailing whitespaces
+    df = df.apply(lambda x: x.str.strip() if x.dtype == "object" else x) 
+
+    #Removes URLs from the dataframe
+    url_pattern = re.compile(r'https?://\S+|www\.\S+')
+    df['job_description'] = df['job_description'].str.replace(url_pattern, '', regex=True) 
+
+    #Removes special characters from the dataframe
+    df['job_description'] = df['job_description'].str.replace(r'[^a-zA-Z0-9\s]', '', regex=True) 
+
+    #Removes stopwords from the Job Description column
+    df['job_description'] = df['job_description'].apply(lambda x: ' '.join([word for word in x.split() if word.lower() not in (stop)])) 
+
+    #Extracts skills from the Job Description column
+    df['job_description'] = df['job_description'].apply(lambda x: extract_skills(x, skills))
+
+    #Save the cleaned dataframe to a new csv file
+    df.to_csv('jobs_cleaned.csv', index=False)
 
 def main(config_file):
     config = load_config(config_file)
     all_jobs = get_jobcards(config)
+    job_list = []
+    if len(all_jobs) > 0:
+        for job in all_jobs:
+            desc_soup = get_with_retry(job['job_url'], config)
+            job['job_description'] = transform_job(desc_soup)
+            job_list.append(job)
+            #jobs_to_add = remove_irrelevant_jobs(job_list, config)
+            df = pd.DataFrame(job_list)
+            df.to_csv('jobs.csv', index=False, header=True)
     exporttoexcel(all_jobs)
+    cleanfile()
 
 
 if __name__ == "__main__":

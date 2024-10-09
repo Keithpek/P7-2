@@ -1,17 +1,1287 @@
-AI Engineer - Singapore,Yeah! Global,"Singapore, Singapore",2024-10-01,https://www.linkedin.com/jobs/view/4040226091/,,0,0,0,0
-"AI Software Engineer, IgniteTech (Remote) - $100,000/year USD",Crossover,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4040256508/,,0,0,0,0
-"Artificial Intelligence Engineer, IgniteTech (Remote) - $100,000/year USD",Crossover,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4040257097/,,0,0,0,0
-Data Engineer - Finance Industry,Teradata,Greater Tokyo Area,2024-10-01,https://www.linkedin.com/jobs/view/4037509353/,,0,0,0,0
-Flutter Engineer - Nas.io,Nas Company,Singapore,2024-10-02,https://www.linkedin.com/jobs/view/4037974785/,,0,0,0,0
-"Full Stack Engineer, 2 Hour Learning (Remote) - $100,000/year USD",Crossover,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4040253896/,,0,0,0,0
-IT Engineers (Job Opportunities in Japan!),JELLYFISH,"Tokyo, Japan",2024-10-02,https://www.linkedin.com/jobs/view/4037950041/,,0,0,0,0
-OTA Senior Software Engineer ：世界中から人が集まる人気企業,Randstad Japan,"Tokyo, Tokyo, Japan",2024-10-02,https://www.linkedin.com/jobs/view/4002384908/,,0,0,0,0
-Python Engineer,Calyptus,Singapore,2024-10-02,https://www.linkedin.com/jobs/view/4038227949/,,0,0,0,0
-Robotics Software Engineer (System),Progressive Recruitment,"Tokyo, Japan",2024-10-01,https://www.linkedin.com/jobs/view/4040032214/,,0,0,0,0
-Senior Front-end Developer,Binance,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/3986960329/,,0,0,0,0
-"Senior Full Stack Developer, 2 Hour Learning (Remote) - $100,000/year USD",Crossover,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4040252887/,,0,0,0,0
-Smart Contract Engineer - Web3,Trust Wallet,Singapore,2024-10-01,https://www.linkedin.com/jobs/view/4039845643/,,0,0,0,0
-Software Engineer,With Wonder Inc.,Fukuoka Metropolitan Area,2024-10-02,https://www.linkedin.com/jobs/view/3913833937/,,0,0,0,0
-Software Engineer/Work–life balance/Hybrid work [外国人Welcome],Flux Agent,Greater Tokyo Area,2024-10-02,https://www.linkedin.com/jobs/view/4037964792/,,0,0,0,0
-【AI Engineer (Robot system Development PJ)】Fully Remote Work / In-house Products/ JLPT N2 Level,G Talent,"Tokyo, Tokyo, Japan",2024-10-02,https://www.linkedin.com/jobs/view/4037954432/,,0,0,0,0
-【Software Engineer(data/AI)】Global IT Company / Hybrid Work /Japanese N2 level,G Talent,"Tokyo, Tokyo, Japan",2024-10-02,https://www.linkedin.com/jobs/view/4037963071/,,0,0,0,0
+title,company,location,date,job_url,job_description,applied,hidden,interview,rejected
+AEM Developer,Vertis,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043549026/,"About Us:
+Innovate. Create. Elevate. 
+At Vertis, we are on a mission to constantly innovate and create exceptional digital solutions. Our goal is to elevate our clients’ brands and the experiences they deliver to their customers through the power of technology-driven creativity. Our people are the catalyst, empowering our clients to successfully transform their businesses - join our team of able, confident, and motivated superstars.
+About the job:
+We are seeking a talented and experienced AEM Developer to play a key role in developing and enhancing our Adobe Experience Manager (AEM) platform. As an AEM Developer, you will have the opportunity to collaborate with cross-functional teams, including designers, backend developers, and content strategists, to deliver outstanding digital experiences. If you are a tech savvy professional with a passion for crafting captivating websites and applications, this is the perfect opportunity for you! 
+ 
+Key Responsibilities: 
+• Design, develop, and implement bespoke AEM components and functionalities that extend platform capabilities. 
+• Optimize AEM performance and scalability to handle high traffic and deliver flawless user experiences. 
+• Seamlessly integrate AEM with other marketing and business systems for a unified digital ecosystem. 
+• Proactively troubleshoot AEM issues and provide technical support to internal teams and clients. 
+• Stay abreast of the latest AEM trends, technologies, and best practices to ensure our solutions remain cutting-edge. 
+ 
+Requirements and Qualification: 
+• Bachelor's degree in Computer Science, Software Engineering, or a related field. 
+• Min 4 years’ experience as an AEM Developer with a strong understanding of the platform's architecture and functionalities. 
+• Proven experience as an AEM Developer or similar role, with a strong understanding of AEM architecture and customization. 
+• Mastery of Java, JEE, XML, and JSON, with proficiency in at least one JavaScript Framework (React, Vue.js, or AngularJS). 
+• Deep understanding of AEM backend development, including Sling Servlets, OSGi Components, and JCR Queries. 
+• Expert knowledge of Touch UI, Sightly (HTL), and Sling Models. Core frameworks such as Apache Sling and Apache Felix. 
+• Familiarity with REST APIs, unit testing, Git source control, agile methodologies, and software design patterns. 
+• Strong problem-solving skills and the ability to work independently as well as in a team environment. 
+• Excellent communication and collaboration skills.
+Benefits:
+• Best in class compensation
+• Medical Benefits
+• International and multicultural environment
+• Training & Development
+• Career opportunities in a successful, fast-growing company
+Preferably looking for Singaporean or PR        
+            
+                            
+            ",0,0,0,0
+AI Engineer,,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4043365332/,"Our client is looking for an experienced AI Engineer to develop, deploy, and maintaining AI models tailored to the organization’s needs. You will ensure the successful implementation of AI tools, including custom GPT models, and will play a key role in integrating these tools into the organization’s workflows. 
+Responsibilities
+- Design, build, and deploy custom AI models (e.g., GPT-based tools) for a variety of organizational needs, including automating tasks like meeting minutes, customer support, and internal knowledge management. 
+- Integrate AI tools with existing enterprise systems, communication platforms, and databases. Develop APIs or use third-party tools to ensure seamless integration of AI models into workflows.
+- Gather and prepare training data for AI models, ensuring data privacy and compliance with organizational policies. Ensure secure data retention and processing standards for AI deployments, especially when dealing with sensitive company information.
+- Continuously improve and fine-tune models based on user feedback, performance analysis, and evolving business needs. Regularly update the models to ensure they align with new trends, data, and organizational demands.
+- Work closely with cross-functional teams (HR, IT, Operations) to identify AI opportunities and provide scalable solutions. Collaborate with external AI vendors when necessary to implement advanced AI solutions.
+Requirements
+- Bachelor's Degree in Computer Science, Artificial Intelligence, or a related field.
+- 3-5 years of experience in AI development.
+- Proficiency with AI and ML libraries (TensorFlow, PyTorch), OpenAI API, and NLP tools.
+- Familiarity with enterprise systems, APIs, and system integration techniques.
+- Strong programming skills (Python, Java) and knowledge of data handling and security practices.
+- 2 Positions Available 
+Office Location: Central
+Kindly indicate your current/last salary details and also your notice period
+Interested candidates kindly forward your CV to 
+dorothyma@peoplesearch.jobs
+ (Dorothy Ma Li, Reg No: R1769176).Feel free to forward this great opportunity to someone who would be a great fit for this role.
+All information will be kept strictly confidential. We regret to inform that only successful applicants will be contacted.
+PeopleSearch Pte Ltd
+EA License No: 16S8057        
+            
+                            
+            ",0,0,0,0
+AI Voice Algorithm Engineer,BIGO,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043536338/,"AI Voice Algorithm Engineer
+Responsibilities:
+1.Responsible for tracking and developing cutting-edge technologies in one or more areas of speech recognition, voice conversion, or speech synthesis.
+2.Provide algorithmic solutions based on business needs, offer solutions to problems encountered in the business, and ensure the smooth delivery of solutions.
+3.Continuously improve the effectiveness of speech recognition, voice conversion, or speech synthesis based on the latest academic and industrial achievements.
+Requirements:
+1.Master's degree or above in voice, signal processing, computer science, or related fields.
+2.Strong engineering implementation ability, familiar with voice processing tools and libraries, proficient in at least one deep learning framework (such as TensorFlow, PyTorch, etc.).
+3.Clear logical thinking, good analytical and communication skills, capable of independently optimizing technical points.
+4.Priority will be given to candidates who have published papers in internationally renowned AI conferences or have won awards in ACM competitions.        
+            
+                            
+            ",0,0,0,0
+AWS Cloud Engineer,Peoplebank,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4045735951/,Could not find Job Description,0,0,0,0
+"Algorithm Engineer (Platform Governance), TikTok e-Commerce",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3592063011/,"Responsibilities
+ TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok's sponsorship of a visa.
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. 
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. 
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. 
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. 
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. 
+Join us.
+About the team
+The Platform Governance team is focused to support the businesses by building a healthy E-commerce ecosystem and improve platform service capabilities with the most advanced AI technology. The team use the most advanced AI technology to combat various risks/violations in Bytedance's e-commerce platform, maintain platform security, build a good e-commerce ecosystem, and empower business teams to improve work efficiency. We pursue the ultimate risk detection capability. The fairness and sustainability of the e-commerce ecosystem, high-quality content and merchandise are areas where we are constantly striving for improvement.
+Responsibilties:
+- Optimization of NLP/Computer Vision/MultiModal algorithms for content understanding, and applying them to the scenarios of e-Commerce.
+- Responsible for the recognition of the risk/low quality/style issue in the e-Commerce scenario (including product, shopping TikTok video, shopping livestream etc) and applying them to review system or recommendation traffic control.
+- Responsible for recognition and control of the risky seller and low-quality e-Commerce anchors via user profile.
+- Responsible for building the anti-fraud model to recognize illegal behaviors and events in the e-Commerce scenario.
+- Support the production of scalable and optimised AI/machine learning (ML) models 
+- Focus on building algorithms for the extraction, transformation and loading of large volumes of realtime, unstructured data to deploy AI/ML solutions from theoretical data science models. 
+- Run experiments to test the performance of deployed models, and identifies and resolves bugs that arise in the process. 
+- Work in a team setting and apply knowledge in statistics, scripting and programming languages required by the firm.
+-  Work with the relevant software platforms in which the models are deployed. 
+Qualifications
+ - At least 5 years of experience in related field.
+- Computer Science or related major, bachelor's degree or above.
+- Master machine learning/deep learning theoretical knowledge, and have rich practical experience.
+- Familiar with 1-2 fields in Data Mining, NLP, Computer Vision or Graph Algorithm.
+- Possess Linux environment R&D capabilities, proficient in Python/Go/C++.
+- Excellent analysis and problem-solving skills, passion for challenging problems.
+- Have a good team spirit and strong communication skills.
+Preferred Qualifications:
+- Received best paper or equivalent awards in the aforementioned conferences.
+- Winner of international academic competitions.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            ",0,0,0,0
+"Algorithm Engineer, Global Live - Operation Intelligence - Singapore",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3847970245/,"Responsibilities
+ About TikTok
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo. 
+--- Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. 
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. 
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. 
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. 
+Join us.
+--- About 
+Team Introduction 
+The Live Platform Intelligence team's mission is to use model-driven and data-driven ways to promote core indicators on LIVE revenue and creator engagement, which includes: Build models for automated and intelligent operations to improve the efficiency and effectiveness of TT Live supply end, as well as discover and handle inappropriate user behavior and business anomaly, to assure the steady and persistent running of TT Live business. Spearheading analytical excellence with a penchant for creative problem-solving, our team functions at the intersection of data science and live content, ensuring an engaging and personalized experience for our global community of creators and viewers.
+--- Responsibilities
+1. Participate in the optimization of ByteDance LIVE business and serve the LIVE experience of billions of global users. 
+2. Adopt cutting-edge machine learning models to improve business metrics (LIVE revenue and LIVE content quality), and bring creators/operators the ultimate experience in LIVE business. 
+3. Deeply participate in product/business discussions, analyze and understand user behaviour patterns, and provide optimization directions for improvement. 
+Qualifications
+ Minimum Qualifications
+ - Master's degree or above in Computer Science, or equivalent practical experience
+ - Familiar with commonly used machine learning and deep learning algorithms, including but not limited to DNN, NLP, CV, etc.
+ - Familiar with at least one of Flink, Spark, Hive etc., with big data parallel processing experience
+ - Excellent problem-solving and critical thinking skills, and solid maths foundation, including probability statistics, numerical optimization, etc.
+--- Preferred Qualifications
+  - Experience in large-scale recommend/advertising systems, risk control systems or LLM is preferred
+--- TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+---                 
+            
+                            
+            ",0,0,0,0
+"Algorithm Engineer, TikTok e-Commerce",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3794307509/,"Responsibilities
+ TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok's sponsorship of a visa.
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. 
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. 
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. 
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. 
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. 
+Join us.
+About the Team
+The E-commerce Global Supply Chain and Logistics team is dedicated to enhancing clients' shopping experience and reducing logistics operational cost in  TikTok E-commerce. We are currently looking for talented software engineers that have a deep understanding of machine learning (ML), operations research (OR), data mining and statistical inference. 
+Responsibilities
+- Participate in the construction of the full-link intelligent system of ByteDance e-commerce supply chains, and be responsible for business-oriented data mining and continuous iteration of algorithms.
+- Combined with massive e-commerce information, through data mining and machine learning, predict the performance of products in traffic/conversion throughout the whole lifespan, improve the efficiency of product operation, and assist in optimizing traffic distribution, to satisfy the requirements of product growth, hero product incubation, content-based product operation and some other scenarios.
+- Participate in the full process operation of inventory, investment attraction, product selection, and placement in key channels, activities and mega campaigns, and provide algorithm suggestions from the dimensions of selecting sellers and products.
+- Explore the impact mechanism of products on user behavior, and meet the business needs of increasing new customer acquisition, repurchase rate, and active user numbers through product selection strategies. 
+Qualifications
+ - Master's or PhD degree in Computer Science, Engineering, Operations Research or related fields.
+- Familiar with at least one of the machine learning/deep learning/casual inference, with at least 1 year of relevant experience.
+- Proficient in one or more languages such as Python/Java, able to abstract problems and model optimization independently, familiar with big data processing technologies such as Spark/Hadoop/Hive. 
+- Proficient in SQL language
+- Self-confidence, initiative and communication. Be able to take the initiative to deeply understand business and adapt to rapid business changes, have good personal expression and organizational communication skills, and be able to push things forward.
+Preferred Qualifications
+- Work experience in e-commerce, supply chain, logistics, transportation or related fields is preferred. 
+- Publications at KDD、NeurIPS、WWW、SIGIR、WSDM、CIKM、ICLR、ICML、IJCAI、AAAI and related conferences.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            ",0,0,0,0
+"Associate Engineer, SRE",Rakuten Viki,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3993389046/,Could not find Job Description,0,0,0,0
+Associate Software Engineer,Exasoft,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4045712043/,"Responsibilities
+- Translate business requirements into detail module or component level design
+- Participate in solution design in hybrid cloud environment
+- Hands-on coding on the assigned modules or components
+- Work closely with DevOps engineer for Release management
+Requirements
+- Bachelor's Degree, Post Graduate Diploma, Professional Degree in Computer Science, Information Technology.
+- 4+ years of relevant work experience in software product development.
+- Hands-on development experience for Backend application (C# .Net core)
+- Knowledge and experience in frontend development (e.g. Reactjs) will be advantageous
+- Design and implementation of REST API and backend business logic, and ensure the API is compliant to healthcare industry standards HL7 FHIR
+- Knowledge and experience in application design patterns
+- Knowledge and experience in Azure DevOps or equivalent CI/CD
+- Experience developing applications using native cloud service offer by AWS or Azure will be advantageous
+- Experience with Containers and Orchestration such as Kubernetes/OpenShift will be advantageous
+- Experience in Microservice architecture design and implementation will be advantageous        
+            
+                            
+            ",0,0,0,0
+Backend Engineer - Global Live (LLM),TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3908182322/,Could not find Job Description,0,0,0,0
+"Backend Engineer Intern (Machine Learning Infrastructure), AML - 2024",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3678264265/,"Responsibilities
+ TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok's sponsorship of a visa.
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. 
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
+About the Team
+The mission of our Applied Machine learning (AML) team is to push next-generation machine learning algorithms and platform for the recommendation system, ads ranking and search ranking in our company. We also drive substantial impact for core businesses of the company. Currently we are looking for Research Interns to join our team to support and advance that mission.
+We are looking for talented individuals to join us for an internship in 2024. Internships at TikTok aim to offer students industry exposure and hands-on experience. Watch your ambitions become reality as your inspiration brings infinite opportunities at TikTok.
+Successful candidates must be able to commit to one of the following internship cycles below: - (Note: Please edit the time period accordingly)
+1. Summer Internship - 06 May 2024 to 26 July 2024 (12 weeks)
+2. Off cycle / Credit bearing - Starting 08 January 2024 or 12 August 2024
+We will prioritize candidates who are able to commit in either internship period. Please state your availability clearly in your resume (Start date, End date).
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+Responsibilities
+- Build new features that touch hundreds of millions of people around the world
+- Solve unique, large-scale, highly complex technical problems
+- Build the next-generation monetization platform to help millions of customers grow their businesses
+- Work with your mentor to deliver product features and make engineering improvements;
+- Build world-class web applications that combine usability, accessibility, elegance, performance, and maintainability. 
+Qualifications
+ - Undergraduate or Postgraduate currently pursuing a Degree/Master/PhD in Software Development, Computer Science, Computer Engineering, or a related technical discipline
+- Proficient in C/C++/Python, and have solid programming skills.
+- Familiar with deep learning frameworks (TensorFlow/Pytorch).
+- Experience in developing and deploying large-scale systems.
+- Ability to work independently and complete projects from beginning to end and in a timely manner.
+- Good communication and teamwork skills to clearly communicate technical concepts with other teammates.
+Preferred Qualifications
+- Experience contributing to an open sourced machine learning framework (TensorFlow/PyTorch).
+- Experience in big data frameworks (e.g., Spark/Hadoop/Flink), experience in resource management and task scheduling for large scale distributed systems.
+- Strong background in one of the following fields: Hardware-Software Co-Design, High Performance Computing, ML Hardware Acceleration (e.g., GPU/TPU/RDMA) or ML for Systems.
+- Demonstrated software engineering experience from previous internship, work experience, coding competitions, or publications
+- High levels of creativity and quick problem-solving capabilities
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy.
+If you have any questions, please reach out to us at apac-earlycareers@tiktok.com.
+                
+            
+                            
+            ",0,0,0,0
+"Backend Engineer Intern, Global E-commerce (Commercial Platform) - 2024 Start",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3675431580/,"Responsibilities
+ TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. 
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
+We are looking for talented individuals to join us for an internship in 2024. Internships at TikTok aim to offer students industry exposure and hands-on experience. Watch your ambitions become reality as your inspiration brings infinite opportunities at TikTok.
+Successful candidates must be able to commit to one of the following internship cycles below:
+1. Summer Internship - 06 May 2024 to 26 July 2024 (12 weeks)
+2. Off cycle / Credit bearing - Starting 08 January 2024 or 12 August 2024
+We will prioritize candidates who are able to commit in either internship period. Please state your availability clearly in your resume (Start date, End date).
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to TikTok and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+About the Team
+The e-commerce industry has seen tremendous growth in recent years and has become a hotly contested space amongst leading Internet companies, and its future growth cannot be underestimated.
+With millions of loyal users globally, we believe TikTok is an ideal platform to deliver a brand new and better e-commerce experience to our users. Our product engineering team is responsible for building an e-commerce ecosystem that is innovative, secure and intuitive for our users. We are looking for passionate and talented people to join us as we drive the future of e-commerce here at TikTok. 
+Responsibilities
+- Architect and develop efficient, highly scalable and secured services that power e-commerce products.
+- Optimise backend systems and services for data security, modularity, computational efficiency and scalability.
+- Design and develop data pipelines and analytics platforms for e-commerce applications.
+- Develop best-in-class user privacy and data security engineering practices across all product engineering disciplines. 
+Qualifications
+ - Undergraduate or Postgraduate currently pursuing a Degree/Master/PhD in Software Development, Computer Science, Computer Engineering, or a related technical discipline.
+- Experience developing highly scalable backend services and systems using at least one of Java/Golang/Python/Scala/C++.  
+- Strong software programming capabilities, exhibits good code design and coding style.
+- Deep understanding of data structure, algorithm design and analysis, networking, data security and highly scalable systems design.
+- In depth knowledge of common databases and messaging frameworks like MySQL/Redis/Kafka etc.
+Preferred Qualifications
+- Agile, quick self learner, highly self-motivated with strong sense of product ownership and creative problem solver.
+- Deeply passionate about software coding/development and building great mobile/web applications.
+- Good collaborator and team player, comfortable working in a fast moving, culturally diverse and globally distributed team environment.   
+- Professional level proficiency in written and spoken English.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://careers.tiktok.com/legal/privacy.
+If you have any questions, please reach out to us at apac-earlycareers@tiktok.com
+                
+            
+                            
+            ",0,0,0,0
+Backend Software Engineer - Global E-commerce (Customer Business),Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042968063/,Could not find Job Description,0,0,0,0
+"Backend Software Engineer, Global E-commerce (Customer Business)",Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042967353/,"About TikTok
+TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok sponsorship of a visa.
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. Join us.
+About The Team
+The e-commerce industry has seen tremendous growth in recent years and has become a hotly contested space amongst leading Internet companies, and its future growth cannot be underestimated. With millions of loyal users globally, we believe TikTok is an ideal platform to deliver a brand new and better e-commerce experience to our users. We aim to bring discovery, inspiration, and joy back to shopping by making TikTok the commerce channel of choice for merchants, creators, and affiliates.With millions of loyal users globally, we believe TikTok is an ideal platform to deliver a brand new and better e-commerce experience to our users. We are looking for passionate and talented people to join our product and operations team, to build an e-commerce ecosystem that is innovative, secure and intuitive for our users and brands.
+About The Team
+The team is responsible for developing all of TTS South East Asia businesses - which will involve exciting projects covering user growth, homepage, discovery channel. You'll be tasked with creating a Global e-Commerce Shopping Platform, collaborating closely with engineers around the globe.
+Responsibilities
+-  Develop efficient, highly scalable, and secured services to build/integrate e-Commerce solutions for TikTok Shop.
+-  Collaborate with Product Managers, Designers, and other disciplines to explore the next generation of shopping experiences on TikTok.
+-  Be responsible for building an intuitive and reliable shopping experience, including browsing product details, check-out, shopping, return, refund etc.
+-  Be responsible for TikTok's Shop Tab, building platforms and tools for merchants, clients, and businesses to manage campaigns, deliver the best results, and receive actionable insights.
+-  Research, design, and develop computer and network software or specialised utility programs.
+-  Analyse user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis.
+-  Update software, enhances existing software capabilities, and develops and direct software testing and validation procedures.
+Qualifications
+-  Bachelor's or higher degree in Computer Science, Information Technology, Programming & System Analysis, Science (Computer Studies) or related discipline.
+-  Candidates should have at least 2 years of experience in developing highly scalable backend services and systems using at least one of the following programming languages: Java, Golang, or Python.
+-  Work experience with E-Commerce Products and/or a vertical industry (including Monetization, Retail, Travel, Financial Service, etc).
+-  Strong knowledge of data structures and algorithms, proficient in at least one coding language, including but not limited to Go, Java, C++.
+-  Great to have hybrid cross-platform development experience.
+-  Good understanding of business, technical abstraction and system module design.
+-  Have large-scale website architecture experience.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            ",0,0,0,0
+"Backend Software Engineer, Global E-commerce (Governance and Experience)",Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042962851/,"About TikTok
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+Join us.
+About The Team
+Global e-commerce is a content e-commerce business with an international short video product as the carrier. We are committed to becoming the first choice for users to discover and purchase good products at affordable prices. The Global e-commerce business team aims to provide users with more tailored, active, and efficient consumption experiences, enabling merchants to receive stable and reliable platform services in different scenarios, such as live e-commerce and short video content e-commerce, thus making affordable and high-quality products easily accessible, and a better life within reach.
+E-Commerce's Governance and Experience is a global team responsible for ensuring a safe and trustworthy marketplace not only for our buyers but also for our sellers and creators. We constantly work on areas such as risk detection abilities, fairness and sustainability of the E-Commerce ecosystem, content and commodity quality, and friction-free experiences to drive improvement.
+Responsibilities
+-  Develop efficient, highly scalable, and secured services to build/integrate e-Commerce solutions for TikTok Shop.
+-  Develop backend systems and services for info-security, compliance, anti-fraud, business governance, customer service, etc.
+-  Implement best-in-class real-time computing, high concurrency, and high scalability engineering practices across all product engineering disciplines.
+-  Research, design, and develop computer and network software or specialised utility programs.
+-  Analyse user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis.
+-  Update software, enhances existing software capabilities, and develops and direct software testing and validation procedures.
+Qualifications
+-  Bachelor's or higher degree in Computer Science, Information Technology, Programming & System Analysis, Science (Computer Studies) or related discipline.
+-  Candidate should have at least 2 years of experience in developing highly scalable backend services and systems using at least one of the following programming languages: Java, Golang, or Python.
+-  Strong problem-solving skills and proficiency in software programming are essential, with a focus on good code design and coding style.
+-  A deep understanding of data structures, algorithm design and analysis, networking, data security, and highly scalable systems design is expected.
+-  Should be capable of providing elegant and efficient design solutions.
+-  In-depth knowledge of common databases and messaging frameworks such as MySQL, Redis, Kafka, and MQ is required.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            ",0,0,0,0
+"Big Data Engineer, TikTok",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3632020795/,"Responsibilities
+ TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. 
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. 
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. 
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. 
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. 
+Join us.
+Team Introduction
+The mission of the Data Platform Singapore Business Partnering (DPSG BP) team is to empower the TikTok Business with data. Our goal is to build a Data Warehouse that can cater to batch and streaming data, Data Products that provide useful information to build efficient data metrics & dashboards which will be used to make smarter business decisions to support business growth. If you're looking for a challenging ground to push your limits, this is the team for you!
+- Translate business requirements & end to end designs into technical implementations and responsible for building batch and real-time data warehouse
+- Manage data modeling design, writing, and optimizing ETL jobs
+- Collaborate with the business team to building data metrics based on data warehouse
+- Responsible for building and maintaining data products 
+- Involvement in rollouts, upgrades, implementation, and release of data system changes as required for streamlining of internal practices
+- Develop and implement techniques and analytics applications to transform raw data into meaningful information using data-oriented programming languages and visualisation software. 
+- Apply data mining, data modelling, natural language processing, and machine learning to extract and analyse information from large structured and unstructured datasets. 
+- Visualise, interpret, and report data findings and may create dynamic data reports as well. 
+Qualifications
+ - At least 3 years in software engineering and 2 years of relevant experience in data engineering
+- Proficient in creating and maintaining complex ETL pipeline end-to-end while maintaining high reliability and security
+- Familiar with data warehouse concept and have production experience in modeling design
+- Familiar with at least 1 distributed computing engine (e.g. Hive, Spark, Flink)
+- Familiar with at least 1 NoSQL database is a plus (e.g. HBase)
+- Excellent interpersonal and communication skills with the ability to engage and managing internal and external stakeholders across all levels of seniority 
+- Strong collaboration skills with the ability to build rapport across teams and stakeholders
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            ",0,0,0,0
+Chinese Speaking Cloud Platform Engineer,FORESTOWN INTERNATIONAL CONSULTING INC.,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4046230604/,Could not find Job Description,0,0,0,0
+Cloud Security Engineer,Cygnify,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4036381832/,"Role: Cloud Security Engineer – Financial Services
+Location:
+ Singapore
+Experience:
+ 7+ years
+Industry:
+ Financial Services
+Employment Type:
+ Full-time
+Our client, a leading financial services firm in Singapore, is looking for an experienced Cloud Security Engineer to ensure the integrity, confidentiality, and security of their cloud infrastructure. This is a key role in strengthening their cybersecurity posture as they continue to adopt cutting-edge cloud technologies.
+Key Responsibilities
+:
+- Design, implement, and manage cloud security solutions to protect the company's infrastructure, data, and applications
+- Monitor and respond to security incidents, vulnerabilities, and threats across cloud environments (AWS, Azure, GCP)
+- Ensure compliance with industry regulations, including MAS TRM, PDPA, and Cybersecurity Act, ensuring secure cloud practices
+- Collaborate with DevOps and IT teams to embed security controls and best practices into cloud deployments
+- Conduct regular security assessments, audits, and penetration testing to identify and mitigate risks
+- Stay updated on emerging cloud security threats and implement proactive measures
+The Ideal Candidate
+:
+- Proven experience as a Cloud Security Engineer or similar role, preferably within the financial services or fintech sectors
+- Strong knowledge of cloud platforms (AWS, Azure, GCP) and cloud security tools (IAM, encryption, firewalls, etc.)
+- Familiarity with regulatory frameworks such as MAS TRM, PDPA, and ISO 27001
+- Expertise in threat detection, incident response, and vulnerability management in cloud environments
+- Relevant certifications (e.g., AWS Certified Security Specialty, Certified Cloud Security Professional - CCSP) are a plus
+- Strong communication and problem-solving skills, with the ability to work in a fast-paced environment        
+            
+                            
+            ",0,0,0,0
+DATA CENTRE SITE ENGINEER (PERM),,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4043367080/,"Data Centre Site Engineer
+- Permanent role
+- Work location: East
+The Opportunity
+The Engineer position is a contributing member to the site level Data Center Operations team assigned to one or more of our data center properties reporting directly to the Manager of Facility Engineering.
+- You will gain a complete understanding of all aspects of data center operations including the operation, maintenance and repair of all mission critical equipment and systems supporting a 24x7 data center operation to achieve 100% uptime and 100% compliance with all customer SLAs.
+- Contribute to the daily site operation, including creation and modification of site operating procedures
+- Contribute to creation of change management tickets, creation of timely incident reporting, site maintenance and repairs/inspections to help ensure Digital Realty’s data center operations achieve the highest level of availability.
+- Ability to effectively troubleshoot site mechanical and electrical systems.
+- Ability to respond to unplanned events without immediate supervision.
+- Ability to efficiently complete rounds/inspections and to detect anomalies during those rounds.
+- Develop or improve SOPs for site specific equipment.
+Your Background
+- Bachelor's Degree
+- Minimum 5 years’ experience in data centre mission critical facilities operating / engineering or equivalent equipment experience including assets associated with mission critical engineering relevant to the specific site. (UPS, HVAC, generators, fire/life safety systems).
+- Hands-on electrical or mechanical skill and competence in the area of non-expertise (for example, electrical expertise with mechanical competence, or vice-versa).
+- Strong knowledge of various UPS Systems, various cooling systems and architectures.
+- Strong understanding of infrastructure redundancy configurations and equipment and their risks (N+1, 2N, ATS/ STS, Failover Scenarios)
+- Strong knowledge of energy efficiency principal
+Interested parties please click ""
+Apply Now
+"" or contact 
+May Anne Ramos
+ (EA Reg no: R1110127) at 
+mayanne.ramos@peoplebank.asia
+ for more information.
+Peoplebank Singapore Pte Ltd, EA Licence Number: 08C5248.
+                
+            
+                            
+            ",0,0,0,0
+"Data Center Engineering Ops Engineer, Data Center Engineering Operations",Amazon Web Services (AWS),"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4010586412/,"Description
+AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.
+You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.
+The Infrastructure Operations (Data Center) Team is the backbone of AWS, supporting the rapidly growing AWS business and customers 24/7. We are committed to maintain the physical infrastructure of AWS, ensuring the standards for operational performance in the areas of safety, security, availability, productivity, capacity, efficiency, and cost.
+We are looking for a Data Center Engineering Operations (DCEO) Engineer with experience in critical facilities management, and a result-driven individual with strong technical understanding and the drive and vision to take our data center engineering operations to the next level. The DCEO Engineer is responsible for engineering operations including risk management and mitigation, planning, implementation of corrective and preventative maintenance for critical infrastructure and vendor management within our AWS Data Center environment. They are responsible for day-to-day operational excellence, maintenance of the critical infrastructure, supervising specialist vendors, acting as first responders to incidents, and becoming subject matter experts for the facility.
+Key job responsibilities
+The Data Center Engineering Operation Engineer is responsible for ensuring that all electrical, mechanical, and fire/life safety equipment within the data center is operating within contract parameters within facilities. Often this will be including risk management and mitigation, corrective and preventative maintenance of critical infrastructure, vendor management and metric reporting.
+-  Act as the site primary point of contact for internal and external stakeholders involving communication and relationship management.
+-  Meet daily hours of operations, on call requirements and response during rotations.
+-  Manage minor and major planned and unplanned site works for critical infrastructure, with a solid understanding of the works involved, risks, mitigation and seeking approvals within relevant SLA’s as required.
+-  Responsible for the on-site management of contractors, sub-contractors and vendors, ensuring that all work performed is in accordance with established practices, procedures & local legislation.
+-  Establish performance benchmarks, conduct analysis, and prepare reports on all aspects of the data center facility infrastructure operations and maintenance.
+-  Generate change management requests & incident management tickets for DCEO activities.
+-  Work with DCO managers (IT), Networking, Logistics, Safety, Security and other business leaders and operating partners to coordinate projects, manage capacity, and optimize plant safety, performance, reliability, sustainability and efficiency.
+-  Establish documentation relevant to technical support of business & facility operations.
+-  Drive & implement projects to increase current facility capacity, efficiency, sustainability & reliability.
+-  Assist in recruiting efforts.
+-  Support operating partners in the resolution of any infrastructure engineering issues
+A day in the life
+-  Troubleshoot facility and rack-level events within internal Service Level Agreements (SLA).
+-  Perform rack installs, rack decommissioning, and facility management.
+-  Provide operational readings and key performance indicators to make sure uptime is maintained
+-  Responsible for the on-site management of contractors, sub-contractors and vendors, ensuring that all work performed is in accordance with established practices, procedures & local legislation.
+-  Performance and oversight of maintenance and operations on all electrical, mechanical, and fire/life safety equipment within the data center.
+-  Work schedule changes depending on specific site needs. Shifts can be up to 12-hours and may rotate on a predefined schedule. Some locations have on-call rotations.
+About The Team
+Diverse Experiences
+AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+Why AWS
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+Inclusive Team Culture
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+Mentorship and Career growth
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+Work/Life Balance
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+Basic Qualifications
+-  5+ years of relevant work experience in maintaining electrical, mechanical, HVAC, fire systems experience in a data center or critical space facility
+-  Familiar with the concepts and interaction of Service Management systems (Problem and Change).
+-  Ability to participate in a 24 x 7 rotating shift roster.
+Preferred Qualifications
+-  Bachelor’s Degree in either Electrical Engineering, HVAC, Mechanical Engineering or relevant technical (military/trade school) degree and relevant experience in a critical environment.
+-  Understanding of the electrical and mechanical systems used in a data center environment, including but not limited to DRUPS, Transformers, Generators, Switchgear, UPS systems, ATS/STS units, PDUs, Chillers, AHUs and CRAC units.
+-  Experience in management of vendors/contractors performing construction, maintenance and upgrading works in large-scale critical environment.
+Company
+ - Amazon Asia-Pacific Resources Private Limited (Singapore)
+Job ID: A2744820
+                
+            
+                            
+            ",0,0,0,0
+Data Platform Engineer,,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4043361941/,"We are looking to speak to Data Platform Engineers!
+Responsibilities
+- Research and Development: Design and deploy essential software tools (e.g., DataIku, MLOps, graph databases) for the AI factory team and its customers.
+- Software Maintenance: Update existing software, enhance capabilities, and implement testing and validation procedures.
+- Infrastructure Integration: Collaborate with infrastructure operations to integrate hardware and software systems, defining performance specifications to ensure a quality platform experience.
+- Security and Upgrades: Manage software vulnerabilities and ensure infrastructure assets are updated to prevent obsolescence.
+- User Needs Analysis: Assess scalability, availability, and security needs to design effective infrastructure and software solutions.
+- Support and Troubleshooting: Provide assistance for critical business needs, addressing platform troubleshooting and scalability issues.
+- Monitoring Solutions: Configure custom monitoring systems for proactive platform management.
+- User Assistance: Support users in deploying DataIku projects and collaborate with data scientists to optimize workflows.
+- Documentation: Create documentation and best practices to guide users on platform capabilities.
+- Integration Support: Ensure seamless integration of DataIku projects with existing systems and data sources.
+Requirements
+- Educational Background:Bachelor’s degree in Computer Science, Software Engineering, or a related field.
+- Professional Experience:Minimum of 5 years in a software engineering role, preferably within the banking sector.
+- Tool Proficiency:Experience with DataIku development or similar data analytics tools.
+- Infrastructure Experience:Proven experience in building and maintaining infrastructure, whether on-premises or in the cloud.
+- Technical Skills:Strong knowledge of virtual machines and proficiency in setting up and managing Kubernetes and Docker environments.
+- Programming Skills:Proficiency in Python programming and shell scripting.
+- Troubleshooting Abilities:Strong troubleshooting and debugging skills, particularly in Linux operating systems and networking environments. 
+Preferred Skills
+- Data Knowledge: Familiarity with data modeling, data science, and data processing.
+- Cloud Infrastructure: Exposure to cloud-based infrastructure and #DevFinSecOps practices.
+- ITIL Knowledge: Understanding of ITIL processes and policies.
+This role is pivotal for ensuring that the AI factory operates smoothly and efficiently, allowing data scientists and analysts to focus on their work while the platform engineer manages the underlying infrastructure and tools.
+""Sanderson-iKas"" is the brand name for iKas International (Asia) Pte Ltd, a company incorporated in Singapore under Company UEN No.: 200914065E with EA license number 16S8086.
+Website: www.sanderson-ikas.sg
+                
+            
+                            
+            ",0,0,0,0
+"Developer, Trilogy (Remote) - $100,000/year USD",Crossover,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4046058782/,"Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+Ready to leverage your mastery of LLMs to drive productivity? At Trilogy, we're opening doors to an exceptional tech career, welcoming those who've honed their AI skills to elevate their expertise in a dynamic environment. We're offering a rare chance where your primary focus will be to further expand your proficiency in LLMs.
+In an industry often filled with more buzzwords than tangible progress, Trilogy stands out as a hub of genuine innovation. Our focus is on practical, real-world applications aimed at reshaping industries. Imagine creating AI-driven tools that streamline workflow, automate tasks, or enhance decision-making processes, all to significantly boost productivity.
+Your mandate? Harnessing LLMs to revolutionize how businesses operate, improving efficiency and effectiveness. You'll be architecting solutions that integrate AI seamlessly, making intricate processes more accessible and refining workflows for maximum output. Here, you won't be lost in bureaucratic hurdles or pitching ideas into the void. Instead, you'll witness the direct impact of your efforts, as your work directly influences the evolution of productivity tools.
+Ready to unleash your expertise and become a force of change? Let's explore if you're the catalyst we're seeking for this exciting opportunity!
+What You Will Be Doing
+- Designing and building high-quality AI automations to streamline processes, enhance productivity, and deliver robust, scalable solutions across diverse applications
+- Experimenting with state-of-the-art AI tools like GPT-4 Vision and Amazon CodeWhisperer, integrating them into our developmental process to assess and enhance their utility
+- Evaluating and optimizing the implementation of AI solutions across various infrastructures, including AWS, to ensure seamless performance and integration
+What You Won’t Be Doing
+- Traditional coding - our AI does the heavy lifting, freeing you to innovate and strategize
+- Being stuck on repetitive tasks - no two problems are the same
+Developer Key Responsibilities
+Architecting and deploying sophisticated, fully-automated AI systems that require zero human intervention for a truly scalable impact
+Basic Requirements
+- Advanced generative AI proficiency (i.e., use of multiple AI tools, ability to automate workflows and custom GPTs); if you've only used LLMs for research, learning, brainstorming, or content generation, that will be deemed insufficient
+- At least 3 years of professional work experience
+- Proficiency in Python and API integration
+- Proficiency in AWS
+About Trilogy
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+Working with Crossover
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+What to expect next:
+- You will receive an email with a link to start your self-paced, online job application.
+- Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+Important!
+ If you do not receive an email from us:
+- First, emails may take up to 15 minutes to send, refresh and check again.
+- Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+- Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+- If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+Crossover Job Code: LJ-5105-SG-Singapor-Developer.004        
+            
+                            
+            ",0,0,0,0
+FileNet Developer,HTC Global Services,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043549790/,"6 years in File net developer
+#FileNetDeveloper        
+            
+                            
+            ",0,0,0,0
+"Graduate Engineer, Embedded Software",Espressif Systems,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043536902/,"Job Responsibilities
+Embedded software engineers will participate in projects related to wireless protocol stacks (Wi-Fi / Bluetooth / 802.15.4) or multimedia solutions (algorithms / protocols / applications of video/audio). To design and develop Espressif's AIoT Chips, SDKs, and solutions. You will be responsible for:
+Design and develop wireless protocol stacks such as Wi-Fi / Bluetooth / 15.4 and coexistence among them.
+Develop multimedia algorithms such as H264, JPEG, and audio codecs; Develop multimedia protocols such as DLNA, and VOIP; Develop other components used in Multimedia SDK.
+Design and implement embedded multimedia solutions based on Wi-Fi/Bluetooth Chips and SDKs, such as voice-controlled loudspeakers and IOT devices.
+By analyzing, positioning, and solving customer problems, better assist customers in completing product and project development.
+Job Requirements
+Bachelor’s degree or above, majoring in Computer, Electronic Engineering, Communication, Automation, and other related majors.
+Proficiency in C/C++ language.
+Familiar with at least one scripting language, Python is preferred.
+Familiar with FreeRTOS or another RTOS.
+Knowledge of hardware communication protocols: SPI, UART, I2C, I2S.
+Excellent English reading and writing skills, able to read English documents and specs fluently.
+Keen interest in the development of single-chip microcomputers and protocol stacks, experience in complete embedded-related projects or embedded-related competitions is a plus.
+Have a solid technical foundation for embedded software development, experience in ESP8266 / ESP32 development is preferred.        
+            
+                            
+            ",0,0,0,0
+IT ENGINEER,Micron Technology,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043546412/,Could not find Job Description,0,0,0,0
+Information Technology - Cloud/DevOps Engineer,Singapore Airlines,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3744648812/,"Job Description
+The successful candidate will join the one of SIA Group's Cloud/DevOps teams.
+Key Responsibilities Include
+- Administering cloud-based Infrastructure deployment which includes tasks such as provisioning/de-provisioning of resources, maintaining security posture, user administration, monitoring computing resource utilization, network setup, backup/restore and incident management.
+- Performs system administration activities in accordance with company policies and procedures.
+- Troubleshoot, performs root cause analysis, implements corrective/preventive actions during and after an incident.
+- Create and maintain documentation and processes for troubleshooting, maintaining, and configuring systems.
+- Operates within assigned budget and demonstrates fiscal responsibility.
+- Support audit and infrastructure/network security scans, disaster recovery and security related drills.
+- Build automation wherever possible to improve development team’s agility.
+- Implement Infrastructure-as-Code (IaC) on AWS, Azure or GCP.
+- Provide training or conduct talks to the cloud community within the company.
+- Explore, learn and deploy new technologies that will help the company to reduce cost or improve operational efficiencies.
+- This position requires periodic system administration outside normal business hours.
+- Note: You could be posted to any subsidiary in SIA Group.
+Requirements
+- Possess a degree in Information Technology or related fields.
+- Minimum of 3 years of IT experience with at least 1 year of hands-on experience in AWS Cloud.
+- AWS Certified Solution Architect (Associate) preferred.
+- Conversant with infrastructure definition tools such as Cloud Formation and Terraform, and with YAML/JSON deployment templates.
+- Advanced python/ansible scripting skills for provisioning and automating dynamic cloud infrastructure.
+- Hands-on experience with Docker containerization and Kubernetes orchestration preferred.
+- Strong analytical, project management, communications and interpersonal skills.
+- Demonstrate strong knowledge in infrastructure areas such as virtual server technologies, networking, internet protocols, scripting & monitoring tools and IT Security.
+- Experience in API Management (AWS API Gateway, Tibco Mashery), Platform as a Service (OpenShift, Cloud Foundry) and DevOps are preferred.
+We thank all candidates for your interest in Singapore Airlines, and regret that only shortlisted candidates will be notified.
+                
+            
+                            
+            ",0,0,0,0
+Information Technology - Full Stack Developer (E-Commerce) (Malaysia),Singapore Airlines,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3744654077/,"Job Description
+The working location for this role is based in Malaysia, either Penang or Kuala Lumpur.
+Key Responsibilities
+- Develop modern web development and DevOps practices to develop, test, debug and deploy.
+- Develop responsive and mobile friendly web design.
+- Develop robust solutions with consideration to security, performance, internationalization, and browser-compatibility.
+- Use the business process requirements to drive the detailed design of the application and technical architecture components.
+- Configure, build, and test the application or technical architecture components.
+- Work with other developers, designers, and architects to make sure that the configuration and custom components meet application requirements and performance goals.
+- Plan and execute all required process steps as defined in our methodologies.
+- Anticipate, identify, track, and resolve issues and risks affecting the delivery.
+- Any relevant ad-hoc duties.
+- This is an individual contributor role.
+Requirements
+- Bachelor's Degree in Computer Science or relevant field
+- At least 4 years' experience in full stack development framework
+- Ability to gain an understanding of customer process and issues
+- Ability to work in teams and individually when needed
+- Ability to demonstrate excellence in communicating and presenting complex information to technical and non-technical stakeholders, both verbally and in written form
+- Familiar with the following technologies:
+- Script: JavaScript, jQuery, TypeScript, ES6, jQuery
+- Design & Style: HTML5, Responsive/Adaptive Design, Design Thinking, Usability Design, CSS3, LESS, SASS, Bootstrap
+- Frameworks: (At least one of the following) ReactJS, AngularJS, Vue.js
+- Web DevOps & Test: Git, Grunt, Bower, npm, Jasmine, Selenium
+- Backend: REST API with Spring, SpringBoot, Node.js
+We thank all candidates for your interest in Singapore Airlines, and regret that only shortlisted candidates will be notified.
+                
+            
+                            
+            ",0,0,0,0
+Information Technology - Infrastructure Engineer,Singapore Airlines,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3744650674/,Could not find Job Description,0,0,0,0
+Information Technology - Lead/Systems Engineer (CDN/Web Security/Monitoring & Logging Tools),Singapore Airlines,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3744649735/,"Job Description
+The successful candidate will join the Information Technology Division, System Technology department and will be responsible for managing Content Delivery Network (CDN) which includes Cyber Security, as well as administering Monitoring and Log Management Tools.
+Key Responsibilities Include
+- Work closely with CDN providers and application teams to ensure internet websites/mobile apps are healthy in terms of availability, response time and security posture.
+- Conduct regular security reviews and finetune WAF and BOT rules to mitigate any cyber threats.
+- Administer various monitoring and logging tools, which includes application onboarding and advanced configuration.
+- Perform system administration activities such as troubleshooting, root cause analysis and implement corrective/preventive actions during and after an incident.
+- Support audit and infrastructure/network security scans, disaster recovery and security related drills and operate within assigned fiscal budget.
+- Build automation wherever possible to improve development team’s agility and reduce human errors.
+- Explore, learn and deploy new technologies and provide training to the IT community within the company.
+- This position requires periodic system administration outside normal business hours. 
+Requirements
+- Possess a degree in Information Technology or related fields.
+- Minimum of 3 years of IT Infrastructure experience with at least 1 year of hands-on experience in managing the infrastructure of an eCommerce website.
+- Experience with Akamai or equivalent CDN providers preferred.
+- Demonstrate strong knowledge in infrastructure areas such as Content Delivery Network (CDN), Cyber Security (WAF and Bot Mitigation), internet protocols, DNS, virtual server technologies, networking (LAN, WAN, SDN), Integration and Messaging Platform, scripting and monitoring tools.
+- Administrator experience with Application Performance Monitoring (APM) tools such as Dynatrace and Log Management System (LMS) such as Splunk.
+- Conversant with infrastructure definition tools such as Cloud Formation and Terraform, and with YAML/JSON deployment templates.
+- Strong analytical, project management, communications and interpersonal skills.
+We thank all candidates for your interest in Singapore Airlines, and regret that only shortlisted candidates will be notified.
+                
+            
+                            
+            ",0,0,0,0
+Information Technology - Systems Technology Engineer,Singapore Airlines,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3744653094/,"Job Description
+We are seeking a highly-skilled, technology-driven IT professional with a deep understanding and extensive experience in managing application security, performance monitoring and API gateways. The ideal candidate must demonstrate practical expertise in tools like Imperva, Akamai, Apigee, AWS API Gateway, Tibco Mashery, Splunk, Dynatrace & etc. The successful candidate will join SIA Group's IT Infrastructure team.
+Key Responsibilities Include
+- Implement, refine, and oversee IT security measures focusing on enhancing the application security using tools like WAF and bot control. You will be expected to devise methods and strategies to improve application security.
+- Manage API gateway, and work with development teams to ensure seamless and secure data transit between services. Knowledge of Apigee and Tibco Mashery will be considered a significant advantage.
+- Leverage your hands-on expertise in application performance monitoring to ensure optimal system performance and identify potential areas of improvement.
+- Proficiently use software tools like Imperva, Akamai, Dynatrace, and Splunk to meet operational needs and project requirements, demonstrating an agile response to changing tech needs.
+- Project management, including responsibility for the initiation, planning, design, execution, monitoring, controlling, and closure of large-scale IT infrastructure projects.
+- Keep abreast of the latest technologies in IT, network, and cloud computing spaces, with a willingness to continuously learn and implement new technologies and trends.
+- Note: You could be posted to any subsidiary in SIA Group.
+Requirements
+- A bachelor’s degree in information technology, Computer Science, or a related field.
+- A minimum of 5 years of experience in IT with expertise in application security, API management, network & cloud computing.
+- Expert-level skills with tools like Imperva, Akamai, and Apigee.
+- Proven experience in managing large-scale infrastructure projects from initiation to closure.
+- Excellent problem-solving skills and the ability to communicate complex technology concepts clearly.
+- AWS/Azure Solution Architect, PMP, or other relevant certifications are highly desirable.
+We thank all candidates for your interest in Singapore Airlines, and regret that only shortlisted candidates will be notified.
+                
+            
+                            
+            ",0,0,0,0
+IoT Engineer,Evolution Singapore,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043577466/,Could not find Job Description,0,0,0,0
+Lead Engineer - Security Operations,Marina Bay Sands,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4045745850/,Could not find Job Description,0,0,0,0
+"ML Engineer, Exciting AI Startup",Kerry Consulting,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4042901035/,"We are partnering with an exciting AI startup to identify a ML engineer to play a critical role in implementing and optimizing ML models. 
+ 
+ 
+Responsibilities
+ 
+ 
+ 
+You will be collaborating with AI Engineers in developing Large Language Models and ensuring the reliability and efficiency of the models. You will also be developing tools to scale and improve the performance of the ML models. You will be ensuring CI/CD and automated testing are done to provide reliability and consistently document to ensure best practices. 
+ 
+ 
+Requirements
+ 
+ 
+ 
+You should have at least 2 years as an ML Engineer and have deep experience with MLOps. Your experience in cloud and open-source tools such as TensorFlow, PyTorch, LangChain, HuggingFace will be useful. You should be entrepreneurial and be able to drive innovative solutions. 
+ 
+ 
+To apply, please submit your resume to Nexen Tok at nt@kerryconsulting.com quoting the job title. We regret that only successful shortlisted candidates will be notified. 
+ 
+ 
+License Number: 16S8060 / R24122812        
+            
+                            
+            ",0,0,0,0
+MSCRM Developer,HTC Global Services,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043552530/,"6 years in MSCRM developer
+#MSCRMDeveloper        
+            
+                            
+            ",0,0,0,0
+"Machine Learning Engineer (Aftersale Experience), TikTok E-commerce Governance",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3933547529/,"Responsibilities
+ TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok's sponsorship of a visa.
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+Join us.
+About the team
+The team use the most advanced AI technology to combat various risks/violations in TikTok's e-commerce platform, maintain platform security, build a good e-commerce ecosystem, and empower business teams to improve work efficiency. We pursue the ultimate risk detection capability. The fairness and sustainability of the e-commerce ecosystem, high-quality content and merchandise are areas where we are constantly striving for improvement.
+- Utilize algorithms to expand the coverage of user rights in the after-sales process, ensuring a comprehensive and satisfactory experience for our customers.
+- Develop and implement uplift models to optimize subsidy ranges in the after-sales domain, maximizing the return on investment (ROI) for subsidy projects.
+- Collaborate with cross-functional teams, including data scientists, software engineers, and product managers, to gather requirements, design solutions, and integrate algorithms into our e-commerce platform.
+- Conduct data analysis and experimentation to identify patterns, trends, and opportunities for improving the after-sales experience and subsidy strategies.
+- Continuously monitor and evaluate the performance of implemented algorithms, making necessary adjustments and improvements based on feedback and data insights.
+- Stay updated with the latest industry trends, research advancements, and best practices in e-commerce algorithms and after-sales optimization techniques. 
+Qualifications
+ - Bachelor's degree or above in computer science or related field
+- Solid coding skills, ability to develop in a Linux environment, proficient in Python, Go, or C++
+- Solid foundation in data structures/algorithms, proficient in machine learning/deep learning theory, and rich practical experience
+- Familiar with 1-2 areas in Uplift Model, Causal Inference model, Causal Forest, GBDT
+- Excellent analytical and problem-solving skills, passionate about challenging problems
+- Good team spirit and strong communication skills
+Preferred Qualifications:
+- Experience in user growth/subsidy/marketing plan/platform governance or overseas internet/e-commerce business is preferred.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            ",0,0,0,0
+"Machine Learning Engineer (Model Inference), Machine Learning System - 2025 Start",ByteDance,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4045850167/,Could not find Job Description,0,0,0,0
+"Machine Learning Engineer (Recommendation), TikTok e-Commerce Alliance",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3509694999/,"Responsibilities
+ TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok's sponsorship of a visa.
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. 
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. 
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. 
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. 
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. 
+Join us.
+About the team
+The e-commerce alliance team aims to serve merchants and creators on the e-commerce platform to meet merchants' business indicators and improve creators' creative efficiency. By cooperating with merchants and creators, we aim to provide high-quality content and a personalized shopping experience for TikTok users, create efficient shopping tools at seller centers, and promote cooperation between merchants and creators.
+Responsibilities
+- Build and design large-scale machine learning algorithms to model the real-time interests of creators to improve conversion efficiency
+- Optimize TikTok's massive commodity relationship mining and ranking and recall of creators' product recommendations, and improve the overall GMV of the platform
+- Use the large scale of data to deeply analyze the behavior of creators and merchants and build targeted algorithm strategies to empower creators and merchants, improve merchants' monetization efficiency, and boost industrial upgrading
+- Support the rapid development of TikTok's e-commerce business, serve millions of merchants, explore more efficient business models, satisfy users with the best shopping experience, and promote ecological development
+- Support the production of scalable and optimised AI/machine learning (ML) models 
+- Focus on building algorithms for the extraction, transformation and loading of large volumes of realtime, unstructured data to deploy AI/ML solutions from theoretical data science models
+- Run experiments to test the performance of deployed models, and identifies and resolves bugs that arise in the process
+- Work in a team setting and apply knowledge in statistics, scripting and programming languages required by the firm
+-  Work with the relevant software platforms in which the models are deployed 
+Qualifications
+ - Bachelor's or Master's or PhD degree in Computer Science or related fields.
+- Experience in C++ and Python. Proficiency in at least one Big Data tool (e.g., Hive SQL, Spark, MapReduce) and at least one Deep Learning tool (e.g., TensorFlow, PyTorch).
+- Applied machine learning experience, familiarity with algorithms such as Collaborative Filtering, Matrix Factorization, Factorization Machines, Word2vec, Logistic Regression, Gradient Boosting Trees, Deep Neural Networks, etc.
+- Industry experience in personalized recommendation, online advertising, information retrieval, or related fields.
+Preferred Qualifications:
+- Excellent learning ability and good communication and cooperative spirit.
+- Passionate about techniques and solving challenging problems.
+- Publications at KDD, NeurIPS, WWW, SIGIR, WSDM, CIKM, ICLR, ICML, IJCAI, AAAI, RecSys, and related conferences.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            ",0,0,0,0
+"Machine Learning Engineer (Recommendation), TikTok e-Commerce Data Compass",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3516040129/,"Responsibilities
+ TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok's sponsorship of a visa.
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo.
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. 
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. 
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. 
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. 
+Join us.
+About the team
+The e-commerce compass team aims to serve merchants and creators on the e-commerce platform to improve the operating efficiency of merchants and creators. The main work of this team is to improve the efficiency of merchandise strategy, user operation, marketing and other directions through algorithm strategy.
+Responsibilities
+- Improve the working efficiency of e-commerce merchants, influencers, and account managers to boost the growth of sellers' products, customers, and revenue.
+- Participate in the optimization of sellers' operations, such as marketing insights, assortment planning, customer relationship management (CRM), anomaly detection, and diagnostic attribution.
+- Participate in the optimization of merchandise operations, such as seasonal and trend analysis, supply and demand analysis, new product and product growth analysis, and improving the alignment of products and associated traffic.
+- Participate in the optimization of the marketing strategies and Return on Investment (ROI) of sellers and influencers in TikTok e-commerce live streaming, short video, and ShopTab.
+- Analyze and conduct feature engineering for massive data such as customer profiling, e-commerce transactions, relationships between products, business opportunities, and deploy the model pipeline.
+- Use techniques such as representation learning, graph modeling, causal inference, and time series forecasting to assist merchants and influencers in problem-solving and discovering growth opportunities. 
+Qualifications
+ - Bachelor's degree with a strong preference for fields of study in computer science, statistics, and data mining.
+- Experienced with feature engineering from massive raw data, such as customer/shop/influencer profiling and e-commerce transactions.
+- Solid understanding and hands-on experience with data structures algorithms, machine learning models such as boosting trees, logistic regression, and clustering.
+- Proficient coding skills using Python, Spark, Tensorflow/PyTorch, and other deep learning tools.
+- Experience in search and recommendation systems, with an emphasis on AIGC field is a plus.
+- A strong desire to learn and discover new things, result-oriented, customer-oriented, team player, and self-driven.
+- At least 1 year of relevant experience.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            ",0,0,0,0
+"Machine Learning Engineer Intern (Recommendation), TikTok e-Commerce - 2024",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3675017587/,Could not find Job Description,0,0,0,0
+Privileged Access Management Engineer,,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4043366289/,"- Mandatory Skills Roles and Responsibility:
+- The suitable candidate will join a team of engineers and operations specialists enterprise privileged access management infrastructure and operations. He/She will be responsible for the end to end design, deployment and operations. 
+- Key responsibilities
+- -  Drive the automation and integration of privileged access management infrastructure to other systems to achieve straight through processing and reduce manual work.
+- -  Responsible for the day to day support, monitoring, upgrades, patching, configuration and management of privileged access infrastructure. 
+- -  Provide on-going operations support including management reporting and operations dashboards relating to the governance oversight of privileged accounts and passwords.
+- Requirements
+- The ideal candidate must be 'hands-on', well organised, risk and compliance focused, and self-driven as this is a fast-paced and highly technical environment. Someone wanting to learn and grow with an organisation will thrive in this role. The role requires excellent prioritisation, responsiveness, along with excellent verbal and written communication skills.
+- -  Requires 5 or more years of related technical experience in Cyberark, including deployment, configuration, management, and support of all Cyberark infrastructure components. This includes regional support and integration of Cyberark via APIs. Cyberark certifications are preferred.
+- -  Able to write Powershell scripts and SQL statements to develop management reports on the usage and operations management of privileged accounts.
+- -  Experience with Tableau data visualization tool for dashboarding, Angular JS for web development.
+- -  Strong understanding of enterprise privileged access management, risk management, compliance, governance and control. 
+- -  Strong understanding of key platform OS/databases e.g. Windows, Unix, MSSQL, MariaDB. Prior experience in administering such key platforms is preferred. 
+- -  Experience in working in banking environment is preferred.
+- -  Bachelor’s degree in Computer Science, Information Systems, or Engineering (or similar) OR combination of relevant professional experience and education, such as Cyberark certifications.
+- Requires 5 or more years of related technical experience in Cyberark, including deployment, configuration, management, and support of all Cyberark infrastructure components. This includes regional support and integration of Cyberark via APIs. Cyberark certifications are preferred.
+- Experience with Tableau data visualization tool for dashboarding, Angular JS for web development.
+- Strong understanding of enterprise privileged access management, risk management, compliance, governance and control.
+- Strong understanding of key platform OS/databases e.g. Windows, Unix, MSSQL, MariaDB. Prior experience in administering such key platforms is preferred.
+- Experience in working in banking environment is preferred.
+Bachelor’s degree in Computer Science, Information Systems, or Engineering (or similar) OR combination of relevant professional experience and education, such as Cyberark certifications
+                
+            
+                            
+            ",0,0,0,0
+Production System Engineer - Bytedance Infrastructure,ByteDance,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3772496487/,"Responsibilities
+About ByteDance
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+Why Join Us
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible. Together, we inspire creativity and enrich life - a mission we aim towards achieving every day. To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve. Join us.
+About The Team
+The Infrastructure Engineering team supports the company's fast growth by building and operating hyperscale datacenters. The team manages the end to end lifecycle of server fleet, providing cloud solutions and various infrastructure services ensuring that they are scalable and are reliable.
+Embark on an exciting expedition to explore the rapidly expanding ByteDance domain in the United States, Europe, and Asia. Here, the Infrastructure Engineering team is crafting monumental data citadels that encircle the planet, sheltering legions of hundreds of thousands of servers. As the maestro of our production systems, you will embark on a captivating odyssey, taming the life cycles of these servers. Your adventure will begin with the orchestration of their initial deployment, navigating the intricate terrain of OS installation, summoning services like a digital magician, and maintaining vigilant watch over our inventory. But, like any epic tale, there will be times of challenge when you become a troubleshooter extraordinaire, mending and restoring with unwavering dedication. Eventually, you'll guide them into the sunset, orchestrating their decommissioning and ensuring their rebirth through recycling, all while contributing to the pulsating rhythm of ByteDance's technological evolution.
+Key Responsibilities
+-  Operation: As a Production Systems Engineer, your mission is to contribute to enhancing the quality, reliability, efficiency, effectiveness, and scalability of our data center operations, platform, and service on a worldwide scale.
+-  Lifecycle Improvement: Engage in and improve the whole lifecycle of Infrastructure systems - from system design consulting through to launch reviews, deployment, operation, and refinement.
+-  Automation: Deliver tools and solutions to improve the automation, reliability, scalability, and operability of services.
+-  Monitoring: Deliver tools and solutions to improve monitor availability, latency, and overall service, server infrastructure and network health.
+-  Disaster Recovery: Troubleshoot and resolve complex technical issues in a high-pressure, time-sensitive environment. Conduct high-level root-cause analysis for service interruption and establish preventive measures. Practice sustainable incident response and postmortem.
+-  Cross-team Collaboration: Partner with stakeholders like infrastructure architects, project managers, data center operations engineers, platform developers, supply chain teams, and our internal customers to understand overarching business objectives. You will also have the opportunity to design and implement innovative solutions for our Core IDCs and CDN/Edge Services.
+-  Technical Documentation: Create and maintain standard operating procedures and knowledge bases.
+-  On-call: Participate in our on-call across continents and incident response teams to solve critical problems in production.
+Qualifications
+Qualifications
+-  Education: Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+-  Experience: Minimal 3 years of experience in systems infrastructure operations or related fields, working with data center or CDN production systems and system design/validation.
+-  Server Hardware: We seek individuals with more than just a basic understanding. You should be at an intermediate level, where your hands-on experience in labs or data centers has forged a deep connection with server architecture.
+-  Data Center: An intermediate level of expertise is preferred here. We're on the lookout for those who are well-versed in the intricate details of operations, from small things like OS installations and break-fix to high-impact projects like planning and operations (covering the full infrastructure lifecycle) to the new design-build facilities or renovations to existing systems.
+-  Monitoring: Your knowledge should transcend the ordinary; we prefer intermediate-level skills. We expect you to be a maestro in the orchestration of tools and designs for monitoring server health, network switches, and the power and temperature conditions of the data center.
+-  Automation: We welcome those who have delved into the realm of automation, ideally at an intermediate level. Your qualifications should reflect at least one automation project, showcasing your commitment to streamlining processes.
+-  Linux: In the realm of Linux, we are in search of individuals with intermediate-level proficiency. Your mastery of this operating system should shine brightly.
+-  Coding: As you navigate the digital landscape, fluency in Bash, Python, and Golang is strongly favored. Your coding skills will be your trusty companions on this adventure.
+-  Network: When it comes to networks, we're seeking at least a basic-level understanding. Your ability to chart the course through the network labyrinth is essential.
+-  Communication: Experience managing and coordinating teams in the global environment.
+-  Project Management: Experience in the preparation of project plans and specifications, drafting scopes of work, and managing multiple projects simultaneously.
+-  Experience in Agile methodologies (e.g., Kanban, Scrum) with experience in user stories, sprint planning, and backlog management.
+-  Preferred But Not Required Skills: Golang, REST APIs, Gin, Ansible, Load Balancer, SQL, Hive, Hadoop, Clickhouse, Message Queue, Redis.
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            ",0,0,0,0
+Python Developer,Cygnify,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4036384173/,"Role: Python Developer – Financial Services
+Location:
+ Singapore
+Experience:
+ 6+ years
+Industry:
+ Financial Services
+Employment Type:
+ Full-time
+Our client, a leading financial services firm in Singapore, is seeking a skilled 
+Python Developer
+ to join their technology team. This role offers the opportunity to work on cutting-edge financial solutions, collaborating with talented professionals to drive innovation in the industry.
+Key Responsibilities
+:
+- Design, develop, and maintain robust Python-based applications for financial services
+- Collaborate with cross-functional teams to implement scalable, high-performance systems
+- Write clean, efficient, and testable code, adhering to best practices in software development
+- Work closely with data scientists and quantitative analysts to develop and optimize algorithms
+- Contribute to the architecture of new applications and enhance existing platforms
+- Ensure systems comply with regulatory requirements (MAS, PDPA) and meet security standards
+The Ideal Candidate
+:
+- Proven experience as a Python Developer, ideally within the financial services or fintech sector
+- Strong understanding of financial systems, trading platforms, or related technologies
+- Experience with frameworks like Django, Flask, or Pandas is highly advantageous
+- Familiarity with databases (SQL, NoSQL) and data visualization tools
+- Excellent problem-solving skills and the ability to work in a fast-paced environment        
+            
+                            
+            ",0,0,0,0
+Quantexa Lead Data Engineer,Randstad Singapore,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4039121802/,"About The Company
+Join a prominent financial institution that is committed to leveraging technology to enhance customer experiences and streamline banking operations. With a strong focus on innovation and digital transformation, this organization is dedicated to providing cutting-edge solutions that meet the evolving needs of its clients.
+About The Job
+As a Lead Data Engineer, you will be instrumental in designing, building, and optimizing data infrastructure that supports advanced analytics initiatives. You will lead a team of data engineers, collaborating closely with data analysts, DevOps teams, and other stakeholders to deliver high-quality data solutions. Your work will primarily involve the Quantexa platform, where you'll develop and implement robust data processing pipelines and applications.
+Skills And Experience Required
+- Bachelor’s degree in Computer Science, Data Engineering, Information Technology, or a related field.
+- At least 10 years of experience as a Data Engineer, with expertise in Hadoop, Spark, and data processing technologies in large-scale environments.
+- Quantexa certification as a data engineer or data architect, with proficiency in the tool.
+- Strong skills in designing and developing data infrastructure using Hadoop, Spark, and related tools (HDFS, Hive, Ranger, etc.).
+- Experience with containerization platforms like OpenShift and container orchestration using Kubernetes.
+- Proficiency in programming languages commonly used in data engineering, such as Spark, Python, Scala, or Java.
+- Knowledge of DevOps practices, CI/CD pipelines, and infrastructure automation tools (e.g., Docker, Jenkins, Ansible, BitBucket).
+- Familiarity with monitoring tools such as Grafana, Prometheus, and Splunk is a plus.
+- Strong problem-solving and troubleshooting skills, with a proactive approach to technical challenges.
+- Excellent collaboration and communication skills for effective cross-functional teamwork.
+- Ability to manage multiple priorities and deliver high-quality results in a fast-paced environment.
+- Experience with cloud platforms (e.g., AWS, Azure, GCP) and their data services is advantageous.
+To apply online please use the 'apply' function, alternatively you may contact Nandini at +65 87148870 (EA:94C3609/R1434239)
+#seeingthepossibleinyou
+                
+            
+                            
+            ",0,0,0,0
+Quantitative Software Developer,GQR,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3950623322/,Could not find Job Description,0,0,0,0
+R&D Software Engineer (Data Engineer - Quantum),Keysight Technologies,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4039790529/,Could not find Job Description,0,0,0,0
+"Research Engineer (Computer Vision), Intelligent Creation",TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3592059299/,"Responsibilities
+ About Tiktok
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. 
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. Join us.
+About the Team
+Our team's mission is to empower TikTok users to turn creativity into reality via videos. We build the core video creation product to support tens of millions of TikTok creators every day. All the viral props and effects you find on TikTok are developed by us, via close collaboration with TikTok AR effects and multimedia teams. Our team focuses on the research of next-gen technologies such as AIGC. Our mission is to make cutting-edge AI technology accessible, and bring possibilities to all TikTok users.
+About the Role
+We are looking for a highly motivated research engineer to join our computer vision team in Singapore. In this role, you will work with a team of leading researchers and experienced engineers working in the AIGC domain. You will be responsible for building & maintaining data pipelines, writing bug-free machine learning code, and implementing the sciences behind the systems. The ideal candidate should be experienced in processing large datasets (e.g. Images, videos, texts), and have past experience in building computer vision and/or generative models using pytorch framework, and to be comfortable working with large-scale distributed machine learning training pipelines. 
+Responsibilities
+• Develop and improve current data loading and processing pipelines on a very large scale (e.g. On PBs scale). 
+• Work along with researchers and engineers to help improve current generative modeling pipelines. 
+• Be self-motivated to come up with new solutions that can improve modeling outputs, training pipelines and datasets. 
+• Be responsible for maintaining and improving codebases. Attend research & paper reading groups for ideas brainstorming. 
+Qualifications
+ • At least a Bachelor’s degree in any of these faculties: Computer Science, Information Technology, Programming & Systems Analysis, Science (Computer Studies)
+• Minimum 3 years of experience as an AI researcher/scientist with strong programming skills
+• Strong background in computer vision, including experience with deep learning frameworks such as PyTorch
+• Experience with image and video processing techniques and libraries
+• Experience with computer vision modeling and training
+• Experience in processing large-scale datasets, including images, videos or texts
+• Experience in building large-scale distributed machine learning systems will be a plus
+• Self-motivated and driven to learn & try new things (e.g. open sourced github repos), especially in AIGC
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            ",0,0,0,0
+"Research Engineer/Senior Research Engineer (1-year contract), SMC",Singapore Management University,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4044332238/,"Company Description
+Singapore Management University is a place where high-level professionalism blends together with a healthy informality. The 'family-like' atmosphere among the SMU community fosters a culture where employees work, plan, organise and play together building a strong collegiality and morale within the university.
+Our commitment to attract and retain talent is ongoing. We offer attractive benefits and welfare, competitive compensation packages, and generous professional development opportunities all to meet the work-life needs of our staff. No wonder, then, that SMU continues to be given numerous awards and recognition for its human resource excellence.
+Responsibilities
+- To apply machine learning techniques to improve the accuracy of the inferencing system
+- To select and analyze specific Android brand/model on their compatibility with the side-channel inferencing system
+- To evaluate the performance overhead and accuracy of the inferencing system prototype
+Qualifications
+- Bachelor or Master Degree in Computer Science, Information Technology, Information Systems, Computer Engineering, or related disciplines
+- Project experience in machine learning or Android security is a plus
+- Good communication skills in English
+- Advanced level of programming and software implementation, especially in C/C++ and Java
+- Good understanding of existing machine learning techniques
+- Good understanding of Android architecture and Android executables
+- Good analytical, technical, and problem-solving skills
+- Self-motivated and willing to work in a term        
+            
+                            
+            ",0,0,0,0
+Resident Engineer,Logicalis Asia Pacific,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3840259148/,"Why choose Logicalis?
+As Architects of Change, Logicalis' focus is to design, support and execute clients' digital transformation by uniting their vision with their technology expertise and industry insights. The company, through its deep understanding of key IT industry drivers such as security, cloud, data management and IoT, can address customer priorities such as revenue growth and business, operational efficiency, innovation, risk and compliance, data governance and sustainability.
+We strengthen our purpose: to design, support, and execute our customers' digital transformation by converging their vision with our technological expertise and knowledge of the industry. The brand refresh underpins both the evolution of Logicalis’ positioning as well as our strategic vision for growth.
+Responsibilities
+- Daily operational health checks for the IT infrastructure. 
+- Monitor alarms & report to customer via email/mobile (if any major severity seen.)
+- Firmware update & patch management and ensure that the environment is bug/vulnerable free by keeping system with up-to-date software. 
+- Creation of change request plan and submit to customer operation manager or supervisor for review and approval. 
+- Maintain, track and update physical and logical diagram changes. 
+- Manage & track all cabling/ patching records. 
+- Work and liaise with appointed partners/vendor for necessary site survey and discussions. 
+- Preparing weekly ticket tracking list for outstanding & resolved tickets. 
+- Prepare and provide monthly equipment status (system events, severity alerts, violations, overall status, etc..) report to customer. 
+- Work with appointed vendors and internal stakeholders to ensure internal audit compliance. 
+- Ensure that all correspondence with customers is performed in a prompt and courteous manner. 
+- Work closely with various team of engineers (internal & external) for troubleshooting. 
+- Ownership on critical incidents for customers to deliver resolution within SLA. 
+- Troubleshoot production issues and network/security problems to fix any infra related issues and work with principal vendors and customer to provide the resolution within the proposed timelines. 
+- Perform L3 escalation to appointed partner and/or principal vendor. 
+- Performing RMA for hardware failures and replacement in production environment
+- Perform health checks for the critical environments and ensure the systems running up to the standard and no potential failures. 
+- Setup staging and simulation for customer activities for critical jobs before actual tasks in production environment. 
+- Able to follow and meet customer SLA for all the incidents and requests. 
+- Take ownership of incidents and service delivery in customer’s environment. 
+- Undertake escalation for networking related matters from desktop engineers, perform troubleshooting and hardware field replacement works for customers. Responsible for updating technical documentations for configuration changes. 
+- Responsible for opening and closing of support tickets in ServiceNow Platform providing timely updates to customer and service delivery manager for support cases that has been allocated to you. 
+Requirement: 
+- Graduates in relevant fields of studies (IT, Infocomm, Com Science, Etc..)
+- Ability to communicate fluently and write in the English language
+- Candidate should be customer oriented and able to communicate in a clear and concise manner. 
+- Existing knowledge/certification for network operations including network, wireless, security technologies will be an added advantage.        
+            
+                            
+            ",0,0,0,0
+Salesforce Developer,RiDiK (a Subsidiary of CLPS. Nasdaq: CLPS),"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043607468/,Could not find Job Description,0,0,0,0
+Senior Associate Engineer - #catalystWSP,Singtel,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3976278807/,"At Singtel, we believe in the strength of a vibrant, diverse and inclusive workforce where backgrounds, perspectives and life experiences of our people help us innovate and create strong connections with our customers. We strive to ensure all our people practices are non-discriminatory and provide a fair, performance-based work culture that is diverse, inclusive and collaborative.
+Join us and experience what it’s like to be with an Employer of Choice*. Together, let’s create a brighter digital future for all. *Awarded at the HR Fest Awards 2020.
+Be a Part of Something BIG! 
+Singtel x Singapore Institute of Technology have embarked on a Work-Study Programme (WSP) launched in Feb 2023. The WSP is called “The Catalyst Programme” which is a structured on-the-job (OJT) development WSP that allows Polytechnic Diploma holders to secure a full-time position with Singtel while pursuing a university honours degree in Infrastructure and Systems Engineering. This programme is open to Singtel’s internal employees as well as external polytechnic diploma holders preferably from the ICT domain. Non-ICT diploma holders are encouraged to apply as well. In line with building capability in Singapore ICT sector this program will develop & groom talent over a 3-year period completing micro-credentials for each module which eventually stack-up to an honours degree in Infrastructure and Systems Engineering. Candidates will be offered a specific role as the one shared below. Are you ready for this challenge?
+Make an Impact by
+-  To achieve the SLA (Service Level Agreement), closely coordinate with INOC/TAC/1608 on the prompt fault clearing and service restoration of access copper cable. 
+-  Troubleshoot the voice circuit fault. If necessary, escalation to tier two technical support. 
+-  Switch work execution in NGN/IPCTX/N2000 are executed in accordance with provided work orders instructions. 
+-  Manage and oversee the queue of pending activities related to work orders. 
+-  Ensure all queued activities are executed promptly to meet operational timelines. 
+-  Identify cases requiring the involvement of other stakeholders and reassign orders accordingly for necessary action. 
+-  Support actions to take for rerouting traffic during cable-related service outages. 
+-  Address inquiries, clarify instructions, and provide updates to stakeholders involved in work order processes. 
+-  Transform operation team for future way of work (automation, AI, ML) 
+-  Manage asset sighting, asset commissioning & condemning. 
+-  Perform any other duties as assigned by the supervisor. 
+Skills For Success
+- A completed diploma from a reputable Polytechnic.
+- 3 years or less work experience.
+- Able to work independently at the same time a team player.
+- Able to work under pressure and has good problem-solving skills.
+- Proactive, open-minded, take initiative to learn and innovate.
+- Possess growth mindset and strong desire to improve operational efficiency.
+-  Able to work during non-office hours on an occasional basis and be on 24-hour by 7-day standby alert for ad-hoc faults. 
+-  Good analytical troubleshooting skills in technical fault isolation. 
+Your Career Growth Starts Here. Apply Now!
+We are committed to a safe and healthy environment for our employees & customers and will require all prospective employees to be fully vaccinated.        
+            
+                            
+            ",0,0,0,0
+Senior Murex Developer,Helius Technologies,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043536751/,"Interested candidate please share your updated copy of resume at ashwani@helius-tech.com
+( To receive a quick response, kindly leave a message on the WhatsApp number
+ +65 96310776
+Role: Senior Murex Developer
+General Context of Project:
+- Implementation of MX.3 at banks in APAC Contributing to Reporting and Data Migration streams
+- Timely support to existing Murex clients in APAC investigations and solution providing via Murex CRM
+Required skills:
+- Minimum 6 years of experience in MX.3 Datamart, Dynamic tables, SQL
+- Technical skills: Reporting/BI SQL Unix
+- Involved in project deliverables related to his domain of expertise. Handles project deliverable end-to-end.
+- Sets the required organization that ensures it’s done according to the specifications agreed with the SL and completed timely.
+- Business requirements analysis
+- Specifications writing
+- Configuration, testing and validation
+- User assistance
+*****************************************************************************
+EA Personnel Registration Number: R. No: R1114530
+Singapore Employment Agency Licence No: 11C3373        
+            
+                            
+            ",0,0,0,0
+Senior Security Engineer,Open Government Products,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043537986/,"Who we are
+Open Government Products is an in-house team of engineers, designers, and product managers who build technology for the public good. We proactively identify areas where technology can help, test our prototypes with actual users, and bring our best ones to launch. This includes everything from building better frontend applications for citizens, to automating the internal operations of public agencies. We use and release open source software, keep a flat hierarchy, and bypass bureaucracy to focus on delivery. We work on real problems, build for the user, and push for change.
+Projects we have worked on include:
+Covid-19 Vaccination National Appointment System
+ - A suite of systems built to enable Singapore's national vaccination campaign for Covid-19. This includes informational sites, appointment booking systems, and records management systems.
+FormSG
+ - A form builder tool for agencies to self-service and create online forms that capture classified data, with the goal of replacing paper forms.
+Isomer
+ - Isomer provides government agencies with an easy-to-deploy static website building and hosting service to create usable, secure and faster informational websites quickly.
+An overview of other OGP products can be found on our website https://open.gov.sg
+What does a Security Engineer do?
+If you love to build and are interested in internal tools and platforms that make security easy, this is the team for you!
+The security engineering team supports OGP’s mission by solving real cybersecurity and application security problems. We develop guardrails and secure-by-default building blocks so that anyone can deliver secure products easily rather than relying on checklists or training.
+As a security engineer, you will:
+- Develop secure-by-default application and infrastructure components.
+- Build and deploy systems that automate detection, containment, and remediation of security failures.
+- Create distributed testing tools to measure security outcomes at OGP and across government.
+Strong software engineering skills are preferred.
+ You're not just here to identify security problems but also build the solutions.
+We use cloud services, open source software, and commodity hardware as much as possible. These often include, but are not limited to: Typescript, GitHub, AWS, Pulumi, DataDog, Okta, and Semgrep. Knowing what to build and what to reuse lets us avoid wasting time on solved problems and focus on delivering actual value.
+What it is like working here
+Rapid Prototyping
+ - Instead of spending too much time debating ideas we prefer testing them. This identifies potential problems quickly, and more importantly, conveys what is possible to others easily.
+Ownership
+ - In addition to technical responsibilities, this means having opinions on what is being done and having ideas on what should be done next. Building something that you believe in is the best way to build something good.
+Continuous Learning
+ - Working on new ideas often means not fully understanding what you are working on. Taking time to learn new architectures, frameworks, technologies, and even languages is not just encouraged but essential
+Who we are looking for
+We are look for security engineers who:
+Have a demonstrated ability to build software
+ - Prior work and personal projects count for much more than specific degrees. Security-related projects are a plus.
+Design practical solutions to solve security problems
+ - Clear thinking, scalability, and understanding the limits of an approach matter much more than getting the “correct” answer.
+Talk and reason about security issues with other engineers
+ - We work as a team and don’t work by top-down mandates, so you need to be able to not just solve security problems, but have other people understand and embrace your solutions.
+Take initiative to make things happen
+ - Our job is to push for change in government, so we need to challenge the status quo and not wait for instruction.
+Want to work for the public good
+ - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest.
+Overall we look for people who have ability, initiative, good communication, and strong values.        
+            
+                            
+            ",0,0,0,0
+Software Engineer,Hconnect,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4043604458/,"Gross Monthly salary
+Up to USD 6,500
+Job overview and responsibility
+- Develop and maintain Teammately products tailored for developers.
+- Take ownership of code throughout the entire development lifecycle, from initial design to deployment.
+- Collaborate with cross-functional teams to enhance the functionality and performance of our systems.
+- Contribute to the smooth operation of AI Engineer within our platform.
+Required skills and experiences
+- At least 3 years of experience as a Software Engineer.
+- Proficiency in Go (experience with frameworks such as Echo, Gin, or Fiber is required).
+- Strong knowledge of Node.js (specifically with Express).
+- Proficient in English (Note: While our base is in Tokyo, Japanese is not used within the development team.)
+Preferred skills and experiences
+- Experience contributing to open-source software (OSS).
+Why Candidate should apply this position
+- Innovative Environment: Be part of a dynamic team pushing the boundaries of AI technology.
+- Creative Ownership: Take charge of your projects and see your ideas come to life.
+- Impactful Work: Contribute to products that empower developers and shape the future of AI.
+- Collaborative Culture: Work alongside passionate individuals who value diversity and creativity.
+- Growth Opportunities: Enjoy mentorship from experienced founders and access to a global network.
+Report to
+Co Founder
+Interview process
+Screening > Coding Test > 2 - 3 Interviews with Founding and Engineering team        
+            
+                            
+            ",0,0,0,0
+Software Engineer,POWER IT SERVICES,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043362461/,"Must have: HTML5/REST/OData,SAP ABAP,SAP Interfaces
+Job Description:
+Position Overview: We are seeking a skilled SAP ABAP Software Engineer with expertise in HTML5,
+REST/OData, and SAP Interfaces to join our dynamic team. The ideal candidate will play a key role
+in developing and enhancing SAP applications, ensuring seamless integration and optimal
+performance.
+Key Responsibilities:
+• Develop and maintain SAP ABAP programs, including reports, interfaces, enhancements, and
+forms.
+• Design and implement RESTful web services and OData services for seamless integration with
+frontend applications.
+• Collaborate with cross-functional teams to gather requirements and translate them into
+technical specifications.
+• Optimize existing ABAP code for performance and efficiency.
+• Ensure best practices in coding, documentation, and deployment are followed.
+• Troubleshoot and resolve issues related to SAP interfaces and integrations.
+• Participate in code reviews and provide constructive feedback to team members.
+• Stay updated with the latest SAP technologies and best practices.        
+            
+                            
+            ",0,0,0,0
+Solutions Engineer - Singapore,HashiCorp,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3951422489/,Could not find Job Description,0,0,0,0
+"Staff/Lead Application Security Engineer (Bangkok based, relocation provided)",Agoda,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4027501301/,"About Agoda
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with a global network of 4.7M hotels and holiday properties worldwide, plus flights, activities, and more . Based in Asia and part of Booking Holdings, our 7,100+ employees representing 95+ nationalities in 27 markets foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+ Our Purpose – 
+ Bridging the World Through Travel 
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+Get to Know our Team:
+ 
+The Security Department oversees security, compliance, GRC, and security operations for all Agoda. We are vigilant in ensuring there is no breach or vulnerability threatening our company or endangering our employees in order to keep Agoda safe and protected. This would be a great challenge for those who want to work with the best technology in a dynamic and advanced environment.
+The Opportunity:
+You will be working in a fast paced DevSecOps environment where code change happens at a rapid speed and where it is paramount to control security testing into a continuous deployment/integration flow.
+In this Role, you’ll get to:
+- Play a lead role in developing and designing application-level security controls and standards. 
+- Perform application security design reviews against new products and services. 
+- Track and prioritize all security issues. 
+- Build internal security tools that help fix security problems at scale. 
+- Perform code review and drive remediation of discovered issues. 
+- Enable automated security testing at scale to measure vulnerability, and report on risk across all microservice, web and mobile platforms. 
+- Execute security tests on thousands of servers which are spread across on-premise and public cloud data centers. 
+What you’ll Need to Succeed:
+- Strong foundations in software engineering. 
+- Minimum of 7 years of technical experience with any combination of the following: threat modeling experience, secure coding, identity management and authentication, software development, cryptography, system administration and network security. 
+- Minimum 2 years experience with Software Development Life Cycle in one or more languages (Rust, Python, Go, Nodejs, etc.)
+- Minimum 1 year experience with public/private cloud environments (Openshift, Rancher, K8s, AWS, GCP, Azure, etc.)
+- Experience in running assessments using OWASP MASVS and ASVS
+- Working knowledge on exploiting and fixing application vulnerabilities
+- Strong background in threat modeling
+- In-depth knowledge of common web application vulnerabilities (i.e. OWASP Top 10)
+- Familiarity with automated dynamic scanners, fuzzers, and proxy tools
+- An analytical mind for problem solving, abstract thought, and offensive security tactics
+- Highly effective communication skills, in both verbal and written forms, to effectively convey technical and non-technical concepts to a wide variety of audiences 
+- Relocation package is provided in case you prefer to relocate to Bangkok, Thailand. Our benefits are…
+- Hybrid Working Model
+- WFH Set Up Allowance
+- 30 Days of Remote Working from anywhere globally every year
+- Employee discount for accommodation globally
+- Global team of 90+ nationalities
+- 40+ offices and 25+ countries
+- Annual CSR / Volunteer Time off
+- Benevity Subscription for employee donations
+- Volunteering opportunities globally
+- Free Headspace subscription
+- Free Odilo & Udemy subscriptions
+- Access to Employee Assistance Program (third party for personal and workplace support)
+- Enhanced Parental Leave
+- Life, TPD & Accident Insurance
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #jakarta #bali #dublin #telaviv #jerusalem #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #bucharest #doha #alrayyan #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #singapore #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #dubai #abudhabi #sharjah #london #manchester  #edinburgh #kiev #hcmc #hanoi #amsterdam #bucharest #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #Hyderabad #bangalore #Mumbai #Bengaluru #Chennai #Kolkata #Lucknow #bandung #yokohama #nagoya #okinawa #fukuoka #IT #4
+Equal Opportunity Employer 
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.        
+            
+                            
+            ",0,0,0,0
+System Engineer,Carrier,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4044371696/,Could not find Job Description,0,0,0,0
+Trading Operations Engineer,WorldQuant,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3859886289/,"WorldQuant develops and deploys systematic financial strategies across a broad range of asset classes and global markets. We seek to produce high-quality predictive signals (alphas) through our proprietary research platform to employ financial strategies focused on market inefficiencies. Our teams work collaboratively to drive the production of alphas and financial strategies – the foundation of a balanced, global investment platform.
+WorldQuant is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Excellent ideas come from anyone, anywhere. Employees are encouraged to challenge conventional thinking and possess an attitude of continuous improvement.
+Our goal is to hire the best and the brightest. We value intellectual horsepower first and foremost, and people who demonstrate an outstanding talent. There is no roadmap to future success, so we need people who can help us build it.
+The Role
+: We are seeking a highly-qualified Trading Systems Engineer to work in our Front Office Technology group. This team is responsible for building both the large-scale quantitative-research platforms that drive WorldQuant’s operations and for building the global execution systems that execute WorldQuant’s strategies in global financial markets. We are looking for someone who will be responsible for developing, extending, monitoring, configuring, and troubleshooting a complex and distributed platform. Responsibilities (include, but not limited to the following):
+- Provide support for the real-time global execution system. Manage and improve operational infrastructure
+- Troubleshoot critical production issues, identifying and patching bugs and inefficiencies
+- Handle configuration, testing, installation, monitoring of applications and back end processes of a complex platform
+- Handle numerous requests sent by users, follow-up with users, and work with other groups on resolving issues
+- Analyze and optimize latencies
+- Participate in all facets of a project’s life cycle from design, implementation, testing, documentation and deployment, with a focus on deployment and production support
+- Coordinate with other technology groups around releases and upgrades
+- Interact with developers, quants, portfolio managers, and remote support staff
+What You’ll Bring
+- Degree in engineering or related field
+- Experience with DevOps lifecycle
+- Strong ability to understand source control systems and how they work
+- Experience with Continuous Integration and Continuous Deployment (Experience with Gitlab CI is a plus)
+- Advanced working SQL knowledge and experience working with relational databases
+- Experience with Python scripting and debugging C++ code
+- Experience with change management in a regulated / critical environment such as finance
+By submitting this application, you acknowledge and consent to terms of the WorldQuant Privacy Policy. The privacy policy offers an explanation of how and why your data will be collected, how it will be used and disclosed, how it will be retained and secured, and what legal rights are associated with that data (including the rights of access, correction, and deletion). The policy also describes legal and contractual limitations on these rights. The specific rights and obligations of individuals living and working in different areas may vary by jurisdiction.
+Copyright © 2024 WorldQuant, LLC. All Rights Reserved.
+WorldQuant is an equal opportunity employer and does not discriminate in hiring on the basis of race, color, creed, religion, sex, sexual orientation or preference, age, marital status, citizenship, national origin, disability, military status, genetic predisposition or carrier status, or any other protected characteristic as established by applicable law.        
+            
+                            
+            ",0,0,0,0
+Windows 11 Engineer,Avensys Consulting,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4044611283/,"Avensys is a reputed global IT professional services company headquartered in Singapore. Our service spectrum includes enterprise solution consulting, business intelligence, business process automation and managed services. Given our decade of success we have evolved to become one of the top trusted providers in Singapore and service a client base across banking and financial services, insurance, information technology, healthcare, retail, and supply chain.
+We are currently looking to hire
+ Windows 11 Engineer.
+This is an exciting opportunity to expand your skill set, achieve job satisfaction and work-life balance. More details as below.
+Job Type:
+ One-year Renewable Contract
+Job Description:
+Key Responsibilities:
+- Image Creation and Management:
+ Develop, deploy, and maintain standardized Windows 10/11 images for endpoint devices across the organization, ensuring optimal performance and stability.
+- OS Deployment:
+ Configure, troubleshoot, update, and maintain global OS Deployment variants on SCCM.
+- Security Compliance:
+ Ensure that all Windows endpoint devices comply with company security policies and standards, conducting regular audits and updates, as necessary.
+- Technical Support:
+ Provide expert technical assistance for Windows endpoint devices, including desktops, laptops, and other devices. Troubleshoot and resolve software and hardware issues to maintain system reliability.
+- Project Coordination:
+ Coordinator of the Windows 11 migration project, tracking progress of timelines, gathering of information, issues tracking, and risk mitigation to ensure a smooth transition.
+- Collaboration:
+ Work closely with IT teams, partners, and other business departments to ensure project and operational objectives are met.
+- Issue Resolution:
+ Provide ongoing technical support during and after the migration, addressing and resolving any issues related to the transition, including deployment failures, application problems, and performance concerns.
+- Documentation:
+ Create and maintain detailed documentation for support procedures, configuration settings, and troubleshooting steps to ensure consistency and support efficiency.
+- Cross-Functional Coordination:
+ Collaborate with IT teams involved in patch management, security, and regional deskside support to ensure a seamless migration experience.
+Required Experience:
+- OS Expertise:
+ Extensive experience in troubleshooting and supporting Windows 10/11 operating systems.
+- Image Creation and Deployment: 
+Experience creating, maintaining, and deploying OS Images in a large enterprise environment.
+- Endpoint Management:
+ Proficiency with endpoint management tools such as Microsoft SCCM, MDT, Intune, or similar.
+- Security Practices:
+ Strong knowledge of endpoint security best practices and implementation.
+- Technical Understanding:
+ In-depth understanding of Active Directory, Group Policies, Networking, and Endpoint Security.
+- Scripting and Tools:
+ Experience with PowerShell, command-line scripts, and SysInternals tools.
+Desired Soft Skills:
+- Problem-Solving:
+ Exceptional problem-solving skills with a keen attention to detail and the ability to resolve complex issues effectively.
+- Communication:
+ Strong communication skills with the capability to work independently as well as collaboratively within a team environment.
+- Adaptability:
+ Ability to adapt to changing priorities and manage multiple tasks efficiently.
+WHAT’S ON OFFER
+You will be remunerated with an excellent base salary and entitled to attractive company benefits. Additionally, you will get the opportunity to enjoy a fun and collaborative work environment, alongside a strong career progression.
+To submit your application, please apply online or email your 
+UPDATED CV
+ in Microsoft Word format to 
+preethi@aven-sys.com. 
+Your interest will be treated with strict confidentiality.
+CONSULTANT DETAILS
+Consultant Name: Preethi Kanthappan
+Reg No: R1765546
+Avensys Consulting Pte Ltd
+ EA Licence 12C5759
+Privacy Statement: 
+Data collected will be used for recruitment purposes only. Personal data provided will be used strictly in accordance with the relevant data protection law and Avensys' privacy policy
+.        
+            
+                            
+            ",0,0,0,0
