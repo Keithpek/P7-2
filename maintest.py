@@ -72,7 +72,7 @@ def transform(soup):
         joblist.append(job)
     return joblist
 
-def transform_job(soup):
+  def transform_job(soup):#Function to get the job description from the job details page
     div = soup.find('div', class_='description__text description__text--rich')
     if div:
         # Remove unwanted elements
@@ -93,14 +93,13 @@ def transform_job(soup):
     else:
         return "Could not find Job Description"
 
-
 def safe_detect(text):
     try:
         return detect(text)
     except LangDetectException:
         return 'en'
 
-
+'''
 def remove_irrelevant_jobs(joblist, config):
     # Filter out jobs based on description, title, and language. Set up in config.json.
     new_joblist = [job for job in joblist if
@@ -118,6 +117,8 @@ def remove_irrelevant_jobs(joblist, config):
         config['company_exclude']) > 0 else new_joblist
 
     return new_joblist
+'''
+
 
 
 def remove_duplicates(joblist, config):
@@ -143,8 +144,8 @@ def get_jobcards(config):
     print("Total job cards scraped: ", len(all_jobs))
     all_jobs = remove_duplicates(all_jobs, config)
     print("Total job cards after removing duplicates: ", len(all_jobs))
-    all_jobs = remove_irrelevant_jobs(all_jobs, config)
-    print("Total job cards after removing irrelevant jobs: ", len(all_jobs))
+    #all_jobs = remove_irrelevant_jobs(all_jobs, config)
+    #print("Total job cards after removing irrelevant jobs: ", len(all_jobs))
     return all_jobs
 
 
@@ -223,6 +224,7 @@ def cleanfile():
     #Save the cleaned dataframe to a new csv file
     df.to_csv('jobs_cleaned.csv', index=False)
 
+
 def main(config_file):
     config = load_config(config_file)
     all_jobs = get_jobcards(config)
@@ -237,6 +239,8 @@ def main(config_file):
             df.to_csv('jobs.csv', index=False, header=True)
     exporttoexcel(all_jobs)
     cleanfile()
+
+
 
 
 if __name__ == "__main__":
