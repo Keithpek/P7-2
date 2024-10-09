@@ -65,26 +65,6 @@ def transform(soup):
         joblist.append(job)
     return joblist
 
-    #def transform_job(soup): #Function to get the job description from the job details page
-    div = soup.find('div', class_='description__text description__text--rich')
-    if div:
-        # Remove unwanted elements
-        for element in div.find_all(['span', 'a']):
-            element.decompose()
-
-        # Replace bullet points
-        for ul in div.find_all('ul'):
-            for li in ul.find_all('li'):
-                li.insert(0, '-')
-
-        text = div.get_text(separator='\n').strip()
-        text = text.replace('\n\n', '')
-        text = text.replace('::marker', '-')
-        text = text.replace('-\n', '- ')
-        text = text.replace('Show less', '').replace('Show more', '')
-        return text
-    else:
-        return "Could not find Job Description"
 
 def safe_detect(text):
     try:
@@ -92,25 +72,6 @@ def safe_detect(text):
     except LangDetectException:
         return 'en'
 
-'''
-def remove_irrelevant_jobs(joblist, config):
-    # Filter out jobs based on description, title, and language. Set up in config.json.
-    new_joblist = [job for job in joblist if
-                   not any(word.lower() in job['job_description'].lower() for word in config['desc_words'])]
-    new_joblist = [job for job in new_joblist if
-                   not any(word.lower() in job['title'].lower() for word in config['title_exclude'])] if len(
-        config['title_exclude']) > 0 else new_joblist
-    new_joblist = [job for job in new_joblist if
-                   any(word.lower() in job['title'].lower() for word in config['title_include'])] if len(
-        config['title_include']) > 0 else new_joblist
-    new_joblist = [job for job in new_joblist if safe_detect(job['job_description']) in config['languages']] if len(
-        config['languages']) > 0 else new_joblist
-    new_joblist = [job for job in new_joblist if
-                   not any(word.lower() in job['company'].lower() for word in config['company_exclude'])] if len(
-        config['company_exclude']) > 0 else new_joblist
-
-    return new_joblist
-'''
 
 
 
