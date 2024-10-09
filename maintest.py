@@ -68,10 +68,6 @@ def transform(soup):
             'date': date,
             'job_url': job_url,
             'job_description': job_description,
-            'applied': 0,
-            'hidden': 0,
-            'interview': 0,
-            'rejected': 0
         }
         joblist.append(job)
     return joblist
@@ -208,9 +204,6 @@ def cleanfile():
 
     #drop rows with missing values
     df = df.dropna() 
-
-    #Deletes columns 6,7,8,9 that have values of 0
-    df = df.drop(df.columns[[6,7,8,9]], axis=1) 
 
     #Removes leading and trailing whitespaces
     df = df.apply(lambda x: x.str.strip() if x.dtype == "object" else x) 
