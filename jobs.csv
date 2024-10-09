@@ -1,72 +1,1104 @@
 title,company,location,date,job_url,job_description
-(Contractor) Frontend Engineer - NextJS / CMS / Tailwind / Strapi,Trust Wallet,Singapore,2024-10-01,https://www.linkedin.com/jobs/view/4040068008/,
-*** C# Developer– Operations – Global Investment Asset Management firm (Singapore) ***,BAH Partners,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4038835410/,
-.NET Developer,RAPSYS TECHNOLOGIES PTE LTD,"Singapore, Singapore",2024-09-30,https://www.linkedin.com/jobs/view/4039209855/,
-AI Developer,Capgemini,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4033867188/,
-AI Software Engineer Intern,OMNIVISION,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4039912958/,
-Application Developer,Shell Infotech,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4042515275/,
-"Associate AI Developer/ AI Developer (Full stack) - Artificial Intelligence, SAP Labs Singapore",SAP,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4006539601/,
-"Back end Developer (C#.NETcore, MsSQL_RestAPIs_ETL)",Maltem Asia-Pacific,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4040813904/,
-Backend Developer (Golang),Trust Wallet,Singapore,2024-09-30,https://www.linkedin.com/jobs/view/4020975949/,
-Backend Software Engineer - Digital Bank,Shopee,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4038831473/,
-Backend Software Engineer - Social- 2025 Start,TikTok,Singapore,2024-10-04,https://www.linkedin.com/jobs/view/3990442202/,
-Backend Software Engineer | Java,ScienTec Consulting Pte. Ltd.,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4035066950/,
-C# .Net Developer [Junior role 3-5 years],Gravitas Recruitment Group (Global) Ltd,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4040411100/,
-"C# .Net Software Engineer, Global Banking Technology",Bank of America,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4022061024/,
-C# Developer,Selby Jennings,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4038802419/,
-C#/.Net Core Software Developer,Kerry Consulting,"Singapore River, Central Singapore Community Development Council, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4039113260/,
-Core Performance Software Engineer (C++) - Remote,ClickHouse,Singapore,2024-10-07,https://www.linkedin.com/jobs/view/4020328547/,
-Engineering TAC Engineer (ETAC),Palo Alto Networks,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4040598999/,
-Forex Associate Software Engineer (Fresh Graduate),Tencent,"Singapore, Singapore",2024-10-05,https://www.linkedin.com/jobs/view/4007503862/,
-Frontend Developer,Achieve Group,"Singapore, Singapore",2024-10-01,https://www.linkedin.com/jobs/view/4037169384/,
-Frontend Developer,The Software Practice Pte Ltd,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4042510602/,
-Frontend Software Engineer - Global E-Commerce (Commercial Platform),TikTok,Singapore,2024-10-02,https://www.linkedin.com/jobs/view/3802151468/,
-Full Stack Developer,IDEMIA,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4038801944/,
-Full Stack Engineer,Shell Infotech,"Singapore, Singapore",2024-10-01,https://www.linkedin.com/jobs/view/4037134135/,
-Full Stack Game Developer (Telegram),Kindred,Singapore,2024-10-04,https://www.linkedin.com/jobs/view/4039915981/,
-"Full Stack Web Developer, Associate",BlackRock,"Singapore, Singapore",2024-10-01,https://www.linkedin.com/jobs/view/4021655953/,
-Global Technology Full Time Analyst (Software Engineer) - 2025 - Singapore,Bank of America,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4020521119/,
-Java Application Developer,Crédit Agricole CIB,"Singapore, Singapore",2024-10-01,https://www.linkedin.com/jobs/view/4037145853/,
-Java Software Engineer,Adyen,Singapore,2024-10-02,https://www.linkedin.com/jobs/view/4016494675/,
-Java Software Engineer | Spring,ScienTec Consulting Pte. Ltd.,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4041031218/,
-Javascript Developer,HTC Global Services,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4042528177/,
-Lead Software Engineer (C++/C#) - DSC/JS/14255,ST Engineering,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4029898899/,
-Murex Flex Developer,Upskills,"Singapore, Singapore",2024-10-06,https://www.linkedin.com/jobs/view/4044197440/,
-Primary School English Curriculum Developer,MAE,Singapore,2024-10-01,https://www.linkedin.com/jobs/view/4037126915/,
-Python Developer (2-8 yoe) - Hedge Fund - Relocation to Singapore,BAH Partners,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4038864373/,
-Python/SQL Developer (MSSQL_DBTcore_SnowFlake),Maltem Asia-Pacific,"Singapore, Singapore",2024-10-05,https://www.linkedin.com/jobs/view/4041303679/,
-Robotics Software Engineer,Changi Airport Group,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/3874474957/,
-Salesforce Developer,Kerry Consulting,"Singapore River, Central Singapore Community Development Council, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4038867929/,
-Senior Java Developer,HCLTech,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4044510428/,
-Senior Java Software Engineer,IDEMIA,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4043201871/,
-Senior Java Software Engineer,RiDiK (a Subsidiary of CLPS. Nasdaq: CLPS),"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/3992837965/,
-Senior Software Developer,Visier Inc.,Singapore,2024-10-02,https://www.linkedin.com/jobs/view/3984813794/,
-Senior Software Engineer,Jobscentral,Singapore,2024-10-04,https://www.linkedin.com/jobs/view/4040869848/,
-Senior Software Engineer (Full Stack),Jobscentral,Singapore,2024-10-02,https://www.linkedin.com/jobs/view/4039033142/,
-Senior Software Engineer (OutSystem),Singtel,"Singapore, Singapore",2024-10-01,https://www.linkedin.com/jobs/view/4037135078/,
-Serverless Software Engineer,Changi Airport Group,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4027266248/,
-Sitecore Developer,Exasoft,"Singapore, Singapore",2024-10-01,https://www.linkedin.com/jobs/view/4039478503/,
-Software Application Developer (CRM-ERP-SCM) - Singapore East Region,Jobscentral,Singapore,2024-10-02,https://www.linkedin.com/jobs/view/4039029901/,
-Software Developer (Java),Capgemini,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4039847264/,
-Software Developer Intern,CTC Global Pte Ltd,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4037972767/,
-Software Engineer,ACP Group,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4041867905/,
-Software Engineer,BIPO,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4042517557/,
-Software Engineer,Talent Link by e2i,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4038382324/,
-Software Engineer,Wipro,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4040825456/,
-Software Engineer (Computer Vision),Hudson Singapore,"Singapore, Singapore",2024-10-01,https://www.linkedin.com/jobs/view/4039478171/,
-Software Engineer (NodeJS or Golang) - A24012,Activate Interactive,"Singapore, Singapore",2024-10-01,https://www.linkedin.com/jobs/view/4039834600/,
-Software Engineer (Solutions Delivery),Thunes,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4037982865/,
-Software Engineer - Developer Relation,Autodesk,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4039342136/,
-Software Engineer .NET,Nicoll Curtin,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4005779398/,
-Software Engineer Intern,Keysight Technologies,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4036395923/,
-"Software Engineer, Intern",Stripe,"Singapore, Singapore",2024-10-05,https://www.linkedin.com/jobs/view/4009096870/,
-"Software Engineer, NPI",Thales,"Singapore, Singapore",2024-09-30,https://www.linkedin.com/jobs/view/4020999090/,
-Software Quality Engineer,AvePoint,Singapore,2024-10-04,https://www.linkedin.com/jobs/view/4024994273/,
-Sr. Java Full-Stack Developer - AVP - C12 – Singapore,Citi,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4023152095/,
-Sr. Software Engineer,PayPal,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4039004551/,
-Staff Software Engineer,YouTrip,"Singapore, Singapore",2024-09-30,https://www.linkedin.com/jobs/view/4036944285/,
-"Vision Software Engineer (C#, PC Based)",Adecco,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4039118121/,
-[2025 H1 Term-time + Summer Internship] Application Development Intern,CPF Board,"Singapore, Singapore",2024-09-30,https://www.linkedin.com/jobs/view/4019727633/,
-[2025 H1 Term-time Internship] Java Development (HCA) Intern,CPF Board,"Singapore, Singapore",2024-09-30,https://www.linkedin.com/jobs/view/4019733268/,
-e-Course Developer (1-year contract),Singapore University of Social Sciences (SUSS),"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4040838658/,
-🚀 C++ Software Engineer – World’s Largest (Almost!) Supercomputer,Augmentti,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4004985375/,
+Analyst Programmer / Systems Analyst (Digital Solutions Department) [NIE],Jobscentral,Singapore,2024-10-07,https://www.linkedin.com/jobs/view/4041963493/,Could not find Job Description
+Android Software Engineer - Global E-commerce (Customer Business),Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042965396/,"About TikTok
+TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok sponsorship of a visa.
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. Join us.
+About The Team
+The e-commerce industry has seen tremendous growth in recent years and has become a hotly contested space amongst leading Internet companies, and its future growth cannot be underestimated. With millions of loyal users globally, we believe TikTok is an ideal platform to deliver a brand new and better e-commerce experience to our users. We aim to bring discovery, inspiration, and joy back to shopping by making TikTok the commerce channel of choice for merchants, creators, and affiliates.With millions of loyal users globally, we believe TikTok is an ideal platform to deliver a brand new and better e-commerce experience to our users. We are looking for passionate and talented people to join our product and operations team, to build an e-commerce ecosystem that is innovative, secure and intuitive for our users and brands.
+About The Team
+The team is responsible for developing all of TTS South East Asia businesses - which will involve exciting projects covering user growth, homepage, discovery channel. You'll be tasked with creating a Global e-Commerce Shopping Platform, collaborating closely with engineers around the globe.
+Responsibilities
+-  Develop efficient, highly scalable, and secured services to build/integrate e-Commerce solutions for TikTok Shop.
+-  Collaborate with Product Managers, Designers, and other disciplines to explore the next generation of shopping experiences on TikTok.
+-  Be responsible for building an intuitive and reliable shopping experience, including browsing product details, check-out, shopping, return, refund etc.
+-  Be responsible for TikTok's Shop Tab, building platforms and tools for merchants, clients, and businesses to manage campaigns, deliver the best results, and receive actionable insights.
+-  Research, analyse and evaluate requirements for existing or new web and mobile applications.
+-  Design, develop, test and maintain web and mobile solutions to meet the requirements.
+-  Evaluate programming codes to ensure that they are properly structured, meet industry standards and are compatible with browsers and devices.
+-  Develop website infrastructure and integrate websites with other computer applications.
+Qualifications
+-  Bachelor's or higher degree in Computer Science, Information Technology, Programming & System Analysis, Science (Computer Studies) or related discipline.
+-  Candidates should have at least 5 years of experience in a native Android development environment using Java or Kotlin.
+-  Familiar with mainstream frameworks like Android architecture Components, Retrofit etc.
+-  Experience with performance and reliability on mobile platforms, e-commerce experience is a plus.
+-  Strong data analysis skills, able to identify product opportunities from technical metrics analysis.
+-  Good understanding of business, technical abstraction and system module design.
+-  Experience in e-Commerce is a plus.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            "
+Associate Software Engineer,Exasoft,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4045712043/,"Responsibilities
+- Translate business requirements into detail module or component level design
+- Participate in solution design in hybrid cloud environment
+- Hands-on coding on the assigned modules or components
+- Work closely with DevOps engineer for Release management
+Requirements
+- Bachelor's Degree, Post Graduate Diploma, Professional Degree in Computer Science, Information Technology.
+- 4+ years of relevant work experience in software product development.
+- Hands-on development experience for Backend application (C# .Net core)
+- Knowledge and experience in frontend development (e.g. Reactjs) will be advantageous
+- Design and implementation of REST API and backend business logic, and ensure the API is compliant to healthcare industry standards HL7 FHIR
+- Knowledge and experience in application design patterns
+- Knowledge and experience in Azure DevOps or equivalent CI/CD
+- Experience developing applications using native cloud service offer by AWS or Azure will be advantageous
+- Experience with Containers and Orchestration such as Kubernetes/OpenShift will be advantageous
+- Experience in Microservice architecture design and implementation will be advantageous        
+            
+                            
+            "
+Backend Engineer (Machine Learning System) Intern - 2025 Start,ByteDance,Singapore,2024-10-03,https://www.linkedin.com/jobs/view/4006561658/,"Responsibilities
+About ByteDance
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+Why Join Us
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible.
+Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
+To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
+Join us.
+About The Team
+The ByteDance Large Model Team is committed to developing the most advanced AI large model technology in the industry, becoming a world-class research team, and contributing to technological and social development. The Large Model Team has a long-term vision and determination in the field of AI, with research directions covering NLP, CV, speech, and other areas. Relying on the abundant data and computing resources of the platform, the team has continued to invest in relevant fields and has launched its own general large model, providing multi-modal capabilities.
+The Machine Learning (ML) System sub-team combines system engineering and the art of machine learning to develop and maintain massively distributed ML training and inference system/services around the world, providing high-performance, highly reliable, scalable systems for LLM/AIGC/AGI.
+As a vital AI infrastructure for the company, our machine learning system integrates our most up-to-date R&D results in AI algorithms and systems. Come and join us, you will get the chance of building large-scale machine learning systems, and working with the best AI system and algorithm researchers and engineers.
+We are looking for talented individuals to join us for an internship in 2025. Internships at ByteDance aim to offer students industry exposure and hands-on experience. Watch your ambitions become reality as your inspiration brings infinite opportunities at ByteDance.
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to ByteDance and its affiliates' jobs globally.
+Applications will be reviewed on a rolling basis - we encourage you to apply early.
+Successful candidates must be able to commit to at least 3 months long internship period.
+Successful candidates must be able to commit to either of the following Internships
+-  From January to June
+-  From May to August (Summer)
+Responsibilities:
+-  Architect and develop efficient, highly scalable and secured services;
+-  Optimise backend systems and services for data security, modularity, computational efficiency and scalability;
+-  Analyse business and technical requirements carefully to solve challenging problems
+-  Participate in design reviews and code reviews
+-  Collaborate with fellow engineers, product managers, and business owners in the team to ensure timely delivery of business requirements
+Qualifications
+Minimum Qualifications:
+-  Undergraduate, or Postgraduate who is currently pursuing a degree/master in Software Development, Computer Science, Computer Engineering, Electrical Engineering or a related technical discipline.
+-  Strong software programming capabilities, exhibits good code design and coding style;
+-  Familiarity with at least one of the programming languages: Go, Python, Java or C++;
+-  Pragmatic understanding of data structure, algorithm design and analysis, networking, data security, distributed system, and highly scalable systems design.
+Preferred Qualifications:
+-  Agile, quick self learner, highly self-motivated with strong sense of product ownership and creative problem solver.
+-  Deeply passionate about software coding/development and building distributed system.
+-  Good collaborator and team player, comfortable working in a fast moving, culturally diverse and globally distributed team environment.
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://jobs.bytedance.com/en/legal/privacy.
+If you have any questions, please reach out to us at apac-earlycareers@bytedance.com.
+                
+            
+                            
+            "
+Backend Software Engineer (Risk Control) - Global E-commerce (Governance Platform),Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042961740/,Could not find Job Description
+"Backend Software Engineer (Wallet), TikTok - Singapore",TikTok,Singapore,2024-10-07,https://www.linkedin.com/jobs/view/3323570962/,Could not find Job Description
+Backend Software Engineer - Customer Service Platform,TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4045201269/,"Responsibilities
+ TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo. 
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. 
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. 
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. 
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. 
+Join us.
+We are the TikTok R&D team responsible for the construction of TikTok's global Customer Service Platform, which includes various services for both B-end and C-end. We are also responsible for understanding user feedback content, including identifying user intentions, and applying large language models such as ChatGPT in intelligent conversations.
+The role will be responsible for
+- the design and development of the TikTok customer service platform
+- deeply understand the business, provide users with intelligent and efficient service solutions through abstraction
+- reasonably decompose and implement product requirements of different periods and urgency levels
+- write technical documents and design plans for related products
+- learn and research advanced technologies in the industry to maintain technological progress 
+Qualifications
+ Minimum Qualifications
+- Proficient in at least one programming language, such as Java, Golang, Python, or C++
+- Bachelor Degree in Computer Science or related field
+Preferred Qualifications
+- Candidates with Java or Golang experience are preferred;
+- Familiar with common Internet technologies, including but not limited to Linux systems and principles, MySQL, RPC, MQ, caching technologies, and microservices architectures;
+- Possess good coding and documentation habits, pay attention to code style, familiar with basic design patterns and principles, and continuously focus and optimize projects
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            "
+Backend Software Engineer - Global E-Commerce (Logistics),Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042965630/,"TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+Join us.
+Global E-Commerce is a content e-commerce business with international short video product as the carrier. It is committed to becoming the first choice for users to discover and purchase good products with affordable prices. Global E-Commerce business team hopes to provide users with more tailored and efficient consumption experience, enabling merchants to receive reliable platform services in different scenarios such as live e-commerce, short video content e-commerce, so as to make more affordable and high-quality products sell easily and a better life within reach.
+The global supply chain and logistics team is at the forefront of revolutionizing e-commerce, powering the entire lifecycle of goods on our platform. From sourcing top-quality sellers and products to sparking interest sales and ensuring seamless fulfillment and delivery, we are crafting a cutting-edge digital supply chain solution that delivers unparalleled efficiency, collaboration, and management across multiple industries and roles.
+Our vision extends beyond the digital realm, as we build and optimize offline logistics capabilities, including state-of-the-art warehouses, streamlined customs processes, robust transportation networks, and efficient distribution systems. By integrating advanced data intelligence, smart equipment, and innovative operational strategies, we empower merchants with enhanced logistics capabilities, guaranteeing reliable fulfilment and elevating the consumer experience on our platform. Our technology also helps our third-party logistics partners improve their operations, ensuring orders reach our customers faster and cheaper, and reducing fault tolerance throughout an order's journey from seller to buyer.
+Responsibilities
+-  Responsible for the research and development & architecture of the international e-commerce logistics system, to provide efficient and intelligent solutions for international e-commerce.
+-  Design a system model and business architecture that meets international business needs and has scalability based on business characteristics and industry best practices.
+-  Provide effective solutions for technical problems such as high concurrency and performance bottlenecks in the business process.
+-  Maintain the quality and stability of the system, and guide engineers at all levels to continuously optimize various technical indicators of the system.
+-  Research, design, and develop computer and network software or specialised utility programs.
+-  Analyse user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis.
+-  Update software, enhances existing software capabilities, and develops and direct software testing and validation procedures.
+Qualifications
+Minimum Qualifications:
+-  Bachelor's or higher degree in Computer Science, Information Technology, Programming & System Analysis, Science (Computer Studies) or related discipline.
+-  Candidate should have at least 5 years of experience in at least one mainstream programming language such as Java/Golang/C++, and related technology stacks.
+-  Familiar with commonly used middleware, such as message queues, caches, scheduled tasks, etc., and understand the principles of middleware.
+-  Possess certain experience in architecture design and implementation, and have a good accumulation in high-availability, high-performance, and high-scalability architectures.
+-  Deeply understand the related theories of distributed systems, such as load balancing, distributed transactions, CAP/BASE, etc.
+Preferred Qualifications
+-  Have led the design or reconstruction of medium and large complex systems, experience in e-commerce and retail related fields is preferred.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            "
+Backend Software Engineer - Global E-commerce (Governance and Experience),Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042963505/,Could not find Job Description
+Backend Software Engineer - Infrastructure,Palantir Technologies,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4038823023/,Could not find Job Description
+Backend Software Engineer - Location,TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3648385179/,Could not find Job Description
+Backend Software Engineer - TikTok - Singapore,TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3475847712/,Could not find Job Description
+Backend Software Engineer - Trust and Safety Engineering,TikTok,Singapore,2024-10-09,https://www.linkedin.com/jobs/view/3502680030/,Could not find Job Description
+Backend Software Engineer | Java,ScienTec Consulting Pte. Ltd.,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4035066950/,Could not find Job Description
+"Backend Software Engineer, Global E-Commerce (Logistics)",Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042963500/,Could not find Job Description
+"Backend Software Engineer, Global LIVE Service Arch - 2025 Start",TikTok,Singapore,2024-10-07,https://www.linkedin.com/jobs/view/3690249377/,Could not find Job Description
+"Backend Software Engineer, Transaction Platform - 2025 Start",TikTok,Singapore,2024-10-06,https://www.linkedin.com/jobs/view/3991335183/,Could not find Job Description
+Backend software engineer- Paid Acquisition (SG),TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3933775479/,Could not find Job Description
+Cyber Security Software Engineer (Windows),Centre for Strategic Infocomm Technologies (CSIT),"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3455843827/,"We are looking for motivated and enthusiastic individuals to be part of a team that designs, develops and implements innovative software protection solutions to counter cyber threats.
+The team also conducts exploratory analysis and reverse engineering of emerging malware and defence technologies to develop tools that will help protect enterprise servers and endpoint Windows machines.
+Parts of the job will need you to investigate and analyze security incidents to refine existing software security strategies and solutions.
+Job Scope
+- Develop, test and maintain codebases on Windows
+- Perform reverse engineering and application development
+- Document deliverables for knowledge management
+Requirements
+- Degree in Computer Science, Infocomm Security, Computer Security, Computer/Electrical Engineering, Information Technology or equivalent
+- Strong interest and passion for the field of Infocomm Security
+- Strong background in programming
+- Strong background in C/C++ is an added advantage 
+- Senior and entry-level positions available
+- Applicants must be Singapore Citizens
+As CSIT is an agency under the Ministry of Defence (Singapore), only Singapore Citizens will be considered.        
+            
+                            
+            "
+Embedded Software Engineer,Hudson Singapore,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042916408/,"SOFTWARE ENGINEER
+Responsibilities
+-  Software development and implementation for high speed automated equipment
+-  Software design, coding, testing, debugging and validating
+-  Evaluating and establishing system performance and specifications
+-  Provide software technical support to a team of field service engineers
+-  Software maintenance of existing equipment
+Requirements
+-  Degree in any Engineering discipline with minimum 3 years of experience in software development in the automation / semiconductor industry
+-  Strong programming skills in C / C++
+-  Must have good hands-on experience in programming multi-threaded windows application using Visual C++
+-  Good knowledge of electronic components, motion control and interfacing with inspection systems
+-  Strong Mathematical and Algorithmic development skills
+-  Must be self-motivated and able to work independently
+-  Proficient in English (both written and spoken)
+-  Able to travel overseas for field support when required
+-  Must be prepared to work overtime when necessar
+Company Information
+EA No. 23C2056
+Registration No. 199501238M
+Privacy Statement
+Data collected will be used for recruitment purposes only. Personal data provided will be used strictly in accordance with the relevant data protection law and 
+Hudson's personal information and privacy policy = https://www.hudson.sg/privacy-policy/        
+            
+                            
+            "
+Embedded Software Engineer - AI Banking Solutions,Talent Analytica,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4036372213/,Could not find Job Description
+Frontend Software Engineer - Global E-commerce (Customer Business),Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042962800/,"About TikTok
+TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok sponsorship of a visa.
+TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+Join us.
+About The Team
+The e-commerce industry has seen tremendous growth in recent years and has become a hotly contested space amongst leading Internet companies, and its future growth cannot be underestimated. With millions of loyal users globally, we believe TikTok is an ideal platform to deliver a brand new and better e-commerce experience to our users. We aim to bring discovery, inspiration, and joy back to shopping by making TikTok the commerce channel of choice for merchants, creators, and affiliates.With millions of loyal users globally, we believe TikTok is an ideal platform to deliver a brand new and better e-commerce experience to our users. We are looking for passionate and talented people to join our product and operations team, to build an e-commerce ecosystem that is innovative, secure and intuitive for our users and brands.
+About The Team
+The team is responsible for developing all of TTS South East Asia businesses - which will involve exciting projects covering user growth, homepage, discovery channel. You'll be tasked with creating a Global e-Commerce Shopping Platform, collaborating closely with engineers around the globe.
+Responsibilities
+-  Develop efficient, highly scalable, and secured services to build/integrate e-Commerce solutions for TikTok Shop.
+-  Collaborate with Product Managers, Designers, and other disciplines to explore the next generation of shopping experiences on TikTok.
+-  Be responsible for building an intuitive and reliable shopping experience, including browsing product details, check-out, shopping, return, refund etc.
+-  Be responsible for TikTok's Shop Tab, building platforms and tools for merchants, clients, and businesses to manage campaigns, deliver the best results, and receive actionable insights.
+-  Research, design, and develop computer and network software or specialised utility programs.
+-  Analyse user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis.
+-  Update software, enhances existing software capabilities, and develops and direct software testing and validation procedures.
+Qualifications
+-  Bachelor's or higher degree in Computer Science, Information Technology, Programming & System Analysis, Science (Computer Studies) or related discipline with a minimum of 5 years of work experience is required.
+-  Should possess excellent web technology skills, particularly in HTML5, CSS3, and JavaScript.
+-  Experience with any major JavaScript framework such as ReactJS, AngularJS, VueJS, or equivalent is necessary.
+-  Experience with any major frontend technologies like Micro Frontends, BFF, Node build systems, asynchronous APIs or equivalent.
+-  Excellent problem-solving and analytical thinking skills.
+-  Having experience in large-scale website architecture would be a great advantage.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            "
+Frontend Software Engineer - Global Payment - Singapore,ByteDance,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3782490395/,"Responsibilities
+About ByteDance
+ByteDance will be prioritizing applicants who have a current right to work in Singapore, and do not require ByteDance sponsorship of a visa.
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+Why Join Us
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible.
+Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
+To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
+Join us.
+About Global Payment
+The Global Payment team of Bytedance provides payment solutions - including payment acquisitions, disbursements, transaction monitoring, payment method management, foreign exchange conversion, accounting, reconciliations, and so on to ensure that our users have a smooth and secure payment experience on ByteDance platforms including TikTok.
+Our Web and Client team in Global Payment is committed to building a highly integrated payment product that can be easily connected to the Web, App, cross-platform and other forms of Global Payment capabilities. In addition, we provide efficient and comprehensive services to developers, merchants and others through a series of platforms.
+Responsibilities
+-  Build global consumer digital wallets and payment products to support global ecosystem business and users. As part of the international payment team, participate in system design, research and development, technological innovation, etc;
+-  Build payment products for consumer users and cross platform products based on Web technology, including mobile and PC products;
+-  Collaborate with product design, product management and software engineering teams to drive business success in efficiency and safety;
+-  Keep at the forefront of emerging web-based technologies and trends, research and evaluate the latest web development frameworks, apply new technologies to drive iterative product improvements.
+Qualifications
+Qualifications
+-  Experience in developing frontend web applications
+-  Strong in JavaScript/HTML/CSS frontend experience, skilled in common web platforms such as React/Vue/Angular, and have good practise and understanding of common web compilation and bundling frameworks, including Webpack/Rollup/Babel/AST;
+-  Have solid experience in implementing web applications with high performance, high availability, and excellent user experience;
+-  Good problem solving skills and thinking patterns in web-based system design.
+Preferred Qualifications
+-  Minimum 3 years relevant work experience from a large-scale internet business.
+-  Experience in e-wallet and payment product development;
+-  Agile, quick self learner, highly self-motivated with a strong sense of product ownership and creative problem solver;
+-  Good collaborator and team player, comfortable working in a fast pace, diversified and global team environment.
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            "
+Frontend Software Engineer - TikTok Live - Singapore,TikTok,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3599611821/,Could not find Job Description
+Frontend software Engineer - Growth,TikTok,Singapore,2024-10-07,https://www.linkedin.com/jobs/view/3621184665/,"Responsibilities
+ TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. 
+Why Join Us
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok.
+The Growth team plays a core role in acquisition, activation, and retention of billions of users, through our globally popular products such as TikTok, Resso, CapCut, Helo, etc. We are building platform foundation, leveraging data and ML models, and providing end-to-end solutions to power global growth. Typical Growth projects including creative generating, attribution, ads bot, etc.
+Responsibilities
+- Responsible for the front-end research and development of the Growth Platform;
+- Participate in the construction of the front-end engineering system of the Growth Platform;
+- Responsible for user experience, R & D efficiency, stability, and provide solutions from a front-end perspective. 
+Qualifications
+ Job Requirements
+- Computing related major, bachelor degree or above;
+- Proficient in front-end technologies such as JavaScript/HTML/CSS, understand the operating principle of the browser, and be able to develop independently without Front-end libraries;
+- Familiar with front-end mainstream frameworks, JS libraries and related ecological tools, such as: React/Vue/AngularJS, etc., understand their design principles and application scenarios;
+- Familiar with various front-end related debugging and testing tools, and have independent problem-solving skills;
+- Experience with any major frontend technologies like Micro Frontends, BFF, or equivalent;
+- Excellent problem-solving and analytical thinking skills;
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            "
+"Frontend software Engineer, Growth",TikTok,Singapore,2024-10-07,https://www.linkedin.com/jobs/view/3613111610/,Could not find Job Description
+Full-Stack Software Engineer - 2025 Start,ByteDance,Singapore,2024-10-09,https://www.linkedin.com/jobs/view/3993532481/,"Responsibilities
+About the Company
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+Why Join Us
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible.
+Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
+To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
+Join us.
+Team Introduction
+The security operation center team is missioned to build innovative security solutions to protect our products, infrastructures, and customers from cyberattacks. We take on the challenges of fighting against ever evolving cyber threats and attacks. Our team is passionate about tackling sophisticated cyber security problems, through effective software engineering, solid computer science fundamentals, and curiosity about cyber warfare. We are a team who values trust in each other, and fosters collaboration across functional teams. We dream of ambitious goals and are determined to achieve them fast and energetically.
+We are looking for talented individuals to join us in 2025. As a graduate, you will get unparalleled opportunities for you to kickstart your career, pursue bold ideas and explore limitless growth opportunities. Co-create a future driven by your inspiration with ByteDance.
+Candidates can apply to a maximum of two positions and will be considered for jobs in the order you apply. The application limit is applicable to ByteDance and its affiliates' jobs globally. Applications will be reviewed on a rolling basis - we encourage you to apply early.
+Job Responsibilities
+-  Design, implement, and deploy security operation platforms, including but not limited to SIEM, SOAR, TIP, Incidence Management products.
+-  Design, deploy, and operate large scale distributed systems for global threat intelligence curation, threat activity monitoring, and data analysis.
+-  Collaborate with multiple cross-functional global teams, analyze product requirements, and deliver highly effective products rapidly.
+-  Manage individual project priorities, deadlines and deliverables.
+Qualifications
+Minimum Qualifications
+-  Final year or recent graduate with a background in Software Development, Computer Science, Computer Engineering, or a related technical discipline
+-  Bachelor's degree or above in Computer Science, Computer Engineering or other relevant majors
+-  Excellent algorithm, data structure, and programming skills; Proficiency in at least two general purpose programming languages.
+-  Proficiency in back-end development, including distributed data systems and computing systems.
+-  Proficiency in front-end development, including languages, layouts, runtimes, and frameworks.
+-  Ability to think critically and to formulate solutions to problems in a clear, concise and timely manner.
+Preferred Qualifications
+-  Familiarity with Computer, Network, and Cyber Security.
+-  Experience with security operation platforms such as SIEM, SOAR, TIP, and incident management for threat analysts and response teams, who use the platform to manage and triage threats and alerts.
+-  Experience with threat intelligence systems that collect, discover, monitor, and analyze cyber threat activities.
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+By submitting an application for this role, you accept and agree to our global applicant privacy policy, which may be accessed here: https://jobs.bytedance.com/en/legal/privacy.
+If you have any questions, please reach out to us at apac-earlycareers@bytedance.com
+                
+            
+                            
+            "
+"Intern - AI and Automation, Global Technology and Data APAC",DB Schenker,Singapore,2024-10-09,https://www.linkedin.com/jobs/view/4046618064/,Could not find Job Description
+Jan/Feb 2025 Software Engineer (HealthTech Associate Programme),Synapxe,"Singapore, Singapore",2024-10-05,https://www.linkedin.com/jobs/view/3973193169/,Could not find Job Description
+Java Software Engineer,Crédit Agricole CIB,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4022531994/,Could not find Job Description
+Junior/Senior R&D Software Engineer,Virtuos,Singapore,2024-10-07,https://www.linkedin.com/jobs/view/3772466069/,"Job Description
+PLAY, GROW and WIN
+To be a part of Virtuos means to be a creator. 
+At Virtuos, we harness the latest technologies to make games better and more immersive than ever before. That is why we pride ourselves in constantly pushing the boundaries of possibility since our founding in 2004. 
+Virtuosi is a team of experts – people who have come together to share their mutual passion for making and playing games. People with the same enthusiasm for exploring new ideas and the constant drive to excel in their field. People who believe in earning success through dedication.
+At Virtuos, we are at the forefront of gaming, creating exciting new experiences daily. Join us to Play, Grow and Win – together.
+About The Position
+As a senior member of Virtuos R&D team you will be involved in the design, implementation and optimization of deep learning applications that advance the state of the art in 3D content authoring tools for the entertainment industry.
+Your will develop applications using cutting edge technologies such as supervised and unsupervised learning, deep learning, convolutional neural networks and computer vision algorithms applied to video games assets and production resources.
+Responsibilities
+- Develop expertise in deep learning, computer vision and software engineering
+- Work with the other teammates to design, write and maintain tool software
+- Mentor junior staff and support them in their daily tasks
+- Analyse problems and list risks and dependencies across multiple domains
+- Help on creation and maintenance of technical design documents
+- Attend and contribute to team SCRUM planning meetings
+- Work with other departments to understand their workflows and toolset needs
+- Proficient in Python, C/C++ and C#
+- Good problem solving skills and innovative mindset
+- Interested in 3D Graphics and Tool programming
+- Experience with Python packages: Numpy, Pillow, Matplotlib and Scikit-Learn
+- Experience with Tensorflow of other Deep learning frameworks a plus
+Qualifications
+- Bachelor degree in computer science or software engineering from prestigious universities
+- More than 4 years of relevant work experience
+- Good communication skills in English, IELTS 6.5 or equivalent is required
+About Us
+Founded in 2004, Virtuos is one of the largest independent video game development companies. We are headquartered in Singapore with over 3,500 employees across 22 offices in Asia, Europe, and North America. Specializing in full-cycle game development and art production, we have delivered high-quality content for more than 1,500 console, PC, and mobile games. Our clients include 23 of the top 25 gaming companies worldwide. Visit www.virtuosgames.com to find out how we can make games better, together.
+About Our Team
+Virtuos first set foot in Singapore in 2018, establishing our new head office at the One-North technology park located just a few minutes away from the city center.
+Virtuos Singapore is home to several skilled executives and engineers who support our studios globally. Many of our corporate departments are located here, as well as our new R&D center, dedicated to developing new tools and techniques that allow our global studios to remain at the cutting edge of technology.
+As Virtuos continues to grow globally, our headquarters is constantly looking out for new and experienced talent to support our studios as they work on upcoming blockbuster titles.
+About The Team
+-  The headquarters of Virtuos: play an active role in the future of the company
+-  Be a part of the R&D center and work with cutting edge technology for gaming
+-  Group outings and activities
+-  Comprehensive medical healthcare provided for all staff
+-  Relocation support
+-  Career and international mobility opportunities with Virtuos Internal Mobility Program
+-  Access to various in-house and external learning opportunities
+People matter. Diverse opinions and experiences matter. At Virtuos, our talented teams are the cornerstone of our success, and we recognize that fostering and advocating for inclusivity is at the center of what we do best - we make games better, together. Virtuos is proud to be an equal opportunity employer that embraces diversity of thought, expression, culture, and backgrounds.
+                
+            
+                            
+            "
+Lead Software Engineer,Kerry Consulting,"Singapore River, Central Singapore Community Development Council, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4041934645/,Could not find Job Description
+Lead Software Engineer (C++/C#) - DSC/JS/14255,ST Engineering,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4029898899/,Could not find Job Description
+"Network Software Engineer, Network Systems",ByteDance,Singapore,2024-10-07,https://www.linkedin.com/jobs/view/3796125179/,"Responsibilities
+About ByteDance
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Helo, and Resso, as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+Why Join Us
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible.
+Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
+To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
+Join us.
+About The Team
+ByteDance Networking brings together innovative ideas and technologies from network architecture, intent-based networking, network virtualization, switch software and hardware co-design, and high-speed networking, to create hyperscale data-center networking solutions that power several of the most popular apps in the world, such as Douyin and TikTok, which serve hundreds of millions of users around the globe.
+ByteDance Networking is responsible for designing, building, and operating the global, intelligent network infrastructure to meet the requirements of high availability, scalability, and high-performance. By joining this team, you will gain marketable software development and/or network operation experience in data center networking at massive scale.
+Responsibilities:
+-  Participate in the fundamental capability building of a large-scale data center network platform;
+-  Develop services and tools for the full lifecycle operation management of a large-scale data center network;
+-  Research, design, and develop computer and network software or specialised utility programs;
+-  Analyse user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis;
+-  Update software, enhances existing software capabilities, and develop and direct software testing and validation procedures;
+-  Work with computer hardware engineers to integrate hardware and software systems and develop specifications and performance requirements
+Qualifications
+-  Bachelor's degree or above, in fields related to computer science, communication engineering, network engineering, or other relevant majors;
+-  Proficient in at least one or more backend programming languages, such as Python, Go, C, C++, etc;
+-  Have a strong commitment to code and design quality, place high importance on code reviews, and maintain excellent coding habits;
+-  Have a strong passion for knowledge, curiosity, and ambition, with the ability to stay current and learn the latest technologies in the industry promptly;
+-  Experience with developing large-scale management or operations platforms is a plus
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            "
+"Principal/Staff/Lead/Senior Software Engineer (backend, golang, Java, fintech, high concurrency, millions of users)",Dada Consultants,"Singapore, Singapore",2024-10-02,https://www.linkedin.com/jobs/view/4040776774/,Could not find Job Description
+SG/RD - Principal Software Engineer,Liteon Technology,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4041209156/,"地點: 新莊
+部門: System Dev (TW)
+學歷要求: 大學
+擬進用條件:
+職缺説明:
+工作簡述
+主要職責
+核心職能
+專業職能
+- 會執行並持續追蹤解決方案的成效
+- 會提出工作問題的改善或解決方案
+- 會找出現有工作方法或流程中可以改善的問題或機會
+- 全力以赴，達成具挑戰性的工作標準
+- 充分理解組織架構與系統，理解不同部門的需求及利益，並能夠瞭解項目或事件對其他部門的影響
+- 運用回饋機制，找出錯誤或問題並進行改正
+- 持續改善流程、方法，不斷提高工作品質
+領域知識與工具
+- 軟體程式設計
+- 軟體工程系統開發
+- 軟體品質與保證
+- C++
+- ReactJS
+- C
+- 專案管理軟體操作
+語言能力
+職缺ID: 18252
+                
+            
+                            
+            "
+Senior / Software Engineer (Full Stack),Jobscentral,Singapore,2024-10-02,https://www.linkedin.com/jobs/view/4039035014/,Could not find Job Description
+Senior C++ Software Engineer,Nicoll Curtin,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/3999628963/,Could not find Job Description
+Senior Java Software Engineer,Charterhouse Asia,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4038859495/,Could not find Job Description
+Senior Java Software Engineer,Crédit Agricole CIB,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4044645888/,"Crédit Agricole Corporate and Investment Banking (Crédit Agricole CIB) is the corporate and investment banking arm of Crédit Agricole Group, world’s 12th largest bank by total assets.
+- Our Singapore center (“ISAP” or “Information Systems Asia Pacific”) is the 2nd largest IT setup (after Paris Head Office)” for Crédit Agricole CIB's worldwide business. We work daily with international branches located in 30 markets by:
+- Envisioning and preparing the Bank’s futures information systems
+- Partnering and supporting core banking flagships and transverse areas in their large scale development projects.
+- Providing premium In-house Banking applications,
+- Are you passionate about resilient and high performance software development?
+- Are you a technology enthusiast and a leader?
+- Do you dream of being part of a groundbreaking Cash Management initiative with a budget 
+exceeding €100 million
+?
+If answer to all these questions is, yes and you think that you are a perfect fit? Join us!
+This project will use cutting-edge technology and agile methodologies and fully transform primary Cash Management operations and Corporate Payments information systems. We are building a next-generation digital platform that will seamlessly integrate all the Cash Management systems from Client Channels until Core Banking and Payment Data Lakes. Join our dynamic and collaborative team, spread across Paris and Singapore, and be instrumental in shaping the future of banking.
+Note - This position is OPEN only for Singaporeans
+Main responsibilities
+ 
+- Manage the application designs, involve in hands development of cloudnative solutions
+- Study, evaluate and provide feedback on functional specifications in terms of technical feasibilities.
+- Provide detailed estimation for development of solutions as part of agile-scrum ceremonies
+- Take care of the technical documentations, quality and standards of program wide software engineering objectives.
+- Supervise and contribute to the non-functional testing
+- Perform design and code review for peers
+- Mentor junior team members
+- Perform level 3 Support of applications in production - analyze and resolve issues as they arise
+ 
+Qualifications and Profile
+ 
+This position requires a minimum of 10+ years of relevant experiences in Java-J2EE/cloudnative software engineering, ideally in a banking environment with cash management / Payments processing domain...at least 3-4 years of experience in cloudnative / Kubernetes & Docker development on Hadoop platform will be added advantage.
+ 
+Functional
+- Basic understanding of payments and cash management domain and related software product development
+- Work on complex systems and a challenging international work environment
+- Good understanding of SDLC, with experience on at least one agile and design methodology (Scrum, XP, TOGAF…).
+ 
+Technical
+- Minimum 10+ years’ experience in web and stand-alone application design & development with Java/JEE/big data technologies in Unix/Linux environment.
+- Strong ability to lead 8-15 technology enthusiasts
+- Excellent understanding and practical experience of Spring Frameworks (IOC, Spring Data, Spring MVC, Spring Integration, Spring Boot etc.) & Spark Streaming Frameworks.
+- Strong knowledge on code version management tools such as GitHub/GitLab/BitBuket.
+- Experience with automated build and deployment tools eg. Helm Charts, ArgoCD, Jenkins, Gitlab runner, Nexus, Harbour, Maven or Gradle.
+- Experience of working in TDD and BDD environment with standard testing frameworks (JUnit, Mockito, Cucumber, selenium and SOAPUI)
+- Development of APIs over REST and gRPC secured over OIDC/oAuth2 mechanisms
+- Strong knowledge on distributed systems particularly on messaging brokers such as IBM MQ, RabbitMQ or Apache Kafka.
+- Good knowledge of RDBMS (Oracle . PostgreSQL) and no SQL (Hbase, MangoDB) database systems
+- Very good understanding of application system design, development, testing, deployment and maintenance using UML.
+- Ability to assess interdependence and impact of a change at application level.
+- Practical experience on shell scripting & Ansible equivalents for deployments and pipelines
+- Good understanding on container technologies such as Docker and orchestrations through Kubernetes.
+- Experience Polyglot & sustainable developments through GO, Rust, Python etc are good to have 
+ 
+Other Professional Skills and Mindset
+ 
+- Work on complex systems and a challenging international work environment
+- Good exposure to software engineering phases and best practices
+- Highly analytic and detail oriented in approach with Excellent communication and presentation skills, with experience converting highly complex information into clear, concise documentation.
+- Capable to effectively interact with peers / stakeholders
+- Strives to deliver the solution in the most effective and timely manner
+- Proactive with excellent verbal and written communication skills in English        
+            
+                            
+            "
+Senior Software Engineer,Jobscentral,Singapore,2024-10-04,https://www.linkedin.com/jobs/view/4040869848/,Could not find Job Description
+Senior Software Engineer,SEPHORA,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4020612194/,Could not find Job Description
+Senior Software Engineer,Singapore-ETH Centre,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4038846308/,"The Singapore-ETH Centre (SEC) is home to a community of doctoral,postdoctoral and professorial researchers working in three main programmes: Future Cities Laboratory, Future Resilient Systems, and Future Health Technologies. The centre provides a multicultural and interdisciplinary environment to researchers working on diverse themes, with the shared vision of translating research to practical solutions for more sustainable and liveable cities, resilient physical and social urban systems, and patient-centric healthcare systems.
+Project Background
+Future Cities Lab (FCL) Global is a research community with the mission to shape sustainable future cities and settlement systems. We are 120 people strong and hail from over 35 countries with diverse backgrounds, including architecture, urban design, engineering and environmental, computer, material sciences working in multidisciplinary teams on the common mission.
+FCL Global is part of the Singapore-ETH Centre (SEC) and ETH Zurich and was established in partnership with Singapore's National Research Foundation (NRF), Nanyang Technological University (NTU), National University of Singapore (NUS), and Singapore University of Technology and Design (SUTD). FCL Global has two hubs, one in Singapore and another Zurich, and strong international partner network spanning academia, government, industry and civil society.
+Job Description
+The Senior Software Engineer who job focus will be designing, developing, and maintaining AI-based systems and will work closely with researchers, software engineers, User Experience/User Interface Designers and project manager on the FCL Global Engagement Platform that is a cyber-physical space to bridge between the two hubs in Singapore and Zurich.
+Duties and Responsibilities
+The scope of work shall comprise of but shall not be limited to:
+- Application of your skills in machine learning, programming, data analytics, and other technologies to create intelligent applications that can learn from data and make decisions
+- Application of your knowledge and experience in full lifecycle software development to develop high quality, innovative and fully performing software that complies with coding standards, and technical design.
+- Developing well-designed, testable and efficient code using practices like unit testing and test-driven development.
+- Conducting code reviews, suggesting improvements and maintaining software by other engineers.
+- Gathering user requirements and develop flowcharts,layouts,technical specifications and documentation to identify requirements and solutions.
+- Architecting and designing the systems and software framework to enhance extensibility and scalability using modern practices such as caching, continuous integration/continuous deployment, containerisation and container management, and Cloud practices
+- Mentoring and coaching other Engineers in best practices.
+Necessary Requirements
+- You have completed your studies in computer science or equivalent related field (bachelor's/master's) and are currently a Technology leader with at least 5 years of proven work experience and have gained a broad knowledge of different full stack technologies,methods, and architectures.
+- Your architectural decisions are characterised by non-functional requirements such as availability, flexibility, stability, ease of maintenance and security.
+- You have experience in data modelling and engineering using tools such as Apache Spark, Hadoop, and AWS S3 to acquire, clean, and transform data into a suitable format for analysis.
+- You have experience in Big data analysis using big tools such as SparkSQL, Apache Flink, and to query and manipulate large datasets.
+- You have experience in Machine learning models and how to evaluate the performance of these models.
+- You are familiar with cloud-based AI and machine learning services offered by major providers such as AWS, Azure, and Google Cloud Platform.
+- You have experience in using tools such as Docker and Kubernetes for containerization, configuration management, and orchestrating deployments as well as monitoring and maintaining the performance of AI systems post-deployment.
+- You have experience implementing strong data security and privacy measures in order to ensure the confidentiality, integrity, and availability of the data you handle as well as understanding regulations related to ethical user of AI and data protection, such as the General Data Protection Regulation (GDPR) and implementing secure AI frameworks that comply with these regulations.
+- You have experience in development languages like Java, Python as well as PHP for web development as well as relational and NoSQL databases. You are also familiar with technologies like REST, web services and messaging.
+- In addition to your experience in Java, Python and PHP, you have experience to implement solutions using modern JavaScript frameworks like ReactJS and Angular.
+- You are still an active hands-on contributor in software engineering with the above; expect that we will require you to demonstrate that your skills are current in the interview process.
+- You have experience with Cloud Technologies and are familiar with modern CI/CD practices in both development and production environments.
+- You have worked in interdisciplinary teams using a modern and agile approach to software engineering.
+- You are willing to actively shape and develop the career of your colleagues.
+- You are experienced leader and a decisive success factor for the agile development process in project teams. This involves close cooperation with the project management.
+- You are aware of the concrete effects of your architectural decisions at the code level, and you discuss them with developers.
+- You have strong communication skills, and you are sensitive to different requirements.
+Salary range: SGD7,500- 11,500
+Salary will commensurate with educational qualification and working experience.
+Applications via email or postal services will not be considered.
+Work Location: 
+1 Create Way, CREATE Tower, Singapore 138602 (NUS University Town)
+The Singapore-ETH-Centre is an equal opportunity and family-friendly employer. All candidates will evaluated on their merits and qualifications, without regards to gender, race, age or religion.        
+            
+                            
+            "
+Senior Software Engineer (Full Stack),Jobscentral,Singapore,2024-10-02,https://www.linkedin.com/jobs/view/4039033142/,Could not find Job Description
+Senior Software Engineer in Testing,HoYoverse,Singapore,2024-10-09,https://www.linkedin.com/jobs/view/3818895412/,Could not find Job Description
+Software Control Engineer,HP,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4028803878/,"What a Software Control Engineer
+ (Measurement and Technology Solution) does in HP:
+- Enable and support R&D and manufacturing vision systems to evaluate print quality.
+- Develop image evaluation solutions to quantify quality of printed content.
+- Develop technical expertise on in-house image evaluation software and hardware.
+- Improve algorithm on image processing.
+- Partner with other teams and groups to develop, validate, and integrate new solutions.
+- Develop and improve image evaluation processes and capabilities to support next generation product development.
+- Provide image evaluation expertise to machine vision system design projects Work environment is a hybrid of remote and in-person, with regular on-site integration work expected.
+- Contribute to end-to-end vision system design in the areas of cameras, scanners, optics, color science, lighting, hardware, software, algorithms, etc. in collaboration with the team and our partners.
+Individuals who will do well in this role in HP, usually possess:
+- Bachelor, Masters, or PhD in engineering/physics science degree, computer science, computer engineering, or with relevant software experience.
+- C++, MATLAB, Python, C#, Java or other programming coursework and/or experience, and understanding of good coding practices.
+- Understanding of motion control and electric motor concepts.
+- Understanding and familiarity with common process control sensors: Digital and analog inputs and outputs.
+- Experience with hardware and software integration and troubleshooting.
+- Ability to exercise engineering judgment and work within defined policies and practices as needed.
+- Able to determine best methods for accomplishing work and achieving deliverables.
+- Exhibit solid planning, organizational, and documentation skills.
+- Familiarity with MFC, WinForms, WPF, STL, .NET, Visual Studio IDE, Smart Git (or Git) a plus.
+- Experience with hardware and software integration and troubleshooting.
+- Familiarity with Thermal InkJet writing systems and/or previous experience with printing technologies.
+Sustainable impact is HP’s commitment to create positive, lasting change for the planet, its people, and our communities. This serves as a guiding principle for delivering on our corporate vision – to create technology that makes life better for everyone, everywhere.
+HP is a Human Capital Partner – we commit to human capital development and adopting progressive workplace practices in Singapore.        
+            
+                            
+            "
+Software Development Engineer In Test,Autodesk,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4009271171/,"Position Overview
+The Autodesk Connected Delivery Team enables internal and external developers to seamlessly integrate Autodesk solutions across Desktop and the Web. We are seeking a motivated Software Engineer in Test to join us in Singapore and be a part of our journey in building the next-generation software delivery platform.
+You will be part of a team of diverse, smart, and driven engineers. You will be responsible for designing, building, and testing various components, services, and frameworks, while collaborating with teams across multiple locations.
+Responsibilities
+- Design, develop and execute automation tests and test frameworks for desktop products, cloud services and web applications
+- Perform black box testing and set up test environments wherever needed
+- Align with team goals that connect to the wider organization goals
+- Collaborate with teams over varied time zones to influence the architecture and design of software and help bring quality into the design of the product
+Minimum Qualifications
+- BS or MS in Computer Science or related technical field
+- 0-2 years of software engineering experience
+- Strong background in programming and software testing
+- Strong programming skills in languages like C++, Python or C# Knowledge in Java or JavaScript will be a bonus
+- Excellent problem-solving abilities
+- Strong verbal and written communication skills
+- Enjoys working collaboratively in a team with high trust
+- Experience in cross platform test automation frameworks like Selenium will be a bonus
+- Experience with scrum and agile processes will be a bonus
+- Familiarity with secure engineering practices will be a bonus
+The Ideal Candidate 
+- understand what it takes to build and support business critical desktop clients, components, services, and frameworks
+- love programming, automation
+- are passionate about quality and challenging the status quo
+- are passionate about constant learning
+- are customer oriented, and drive towards addressing customer pain points
+- believe in taking initiative, ownership and driving towards high standards
+At Autodesk, we're building a diverse workplace and an inclusive culture to give more people the chance to imagine, design, and make a better world. Autodesk is proud to be an equal opportunity employer and considers all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender, gender identity, national origin, disability, veteran status or any other legally protected characteristic. We also consider for employment all qualified applicants regardless of criminal histories, consistent with applicable law.
+Autodesk has always valued flexibility in how we work. We continue to provide employees flexibility to support their work preferences wherever possible and nearly all roles are hybrid or remote, unless otherwise indicated.
+Are you an existing contractor or consultant with Autodesk? Please search for open jobs and apply internally (not on this external site). If you have any questions or require support, contact Autodesk Careers.        
+            
+                            
+            "
+Software Engineer,,Singapore,2024-10-09,https://www.linkedin.com/jobs/view/4044638857/,Could not find Job Description
+Software Engineer,BIPO,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4042517557/,"A leading one-stop, global Human Resource service provider, BIPO helps companies scale-up their HR operations with ease.
+Our award-winning cloud and mobile-based Human Resource Management System (HRMS) platform simplifies complicated HR processes. We understand companies need to stay agile, efficient, and cost-effective. That is why we have designed a comprehensive suite of HR solutions – Payroll Outsourcing, Attendance Automation, HR Consulting, Recruitment & Business Process Outsourcing, Flexible Employee Management – to help digitise and transform HR.
+Since 2004, we have built an extensive global network. Our APAC Headquarters in Singapore and R&D Centres in Singapore, Shanghai, Indonesia and Malaysia serve as our hub for the region. We are operating in more than 40 countries in the world our global reach enables us to serve our clients’ needs in a more targeted and effective manner.
+Role & Responsibilities:
+- Under direct supervision, performs assigned software maintenance, enhancement and/ or development tasks to support project delivery, product support and/or development activities.
+- Participate in research and development of innovative and high-quality software products for 
+Payroll Module and Data Interfaces
+.
+- May develop or enhance existing functionality to user interfaces.
+- Assist with bug fix designs and present to senior engineers for review.
+- Implement the accepted design within the scheduled time and budget.
+- Stay current with the state-of-the-art and cutting-edge technology; apply the latest technology in software projects.
+- Write and review product documents in English.
+Job Requirements:
+- Bachelor or Master Degree in Computer/ IT or equivalent
+- Medium to Senior level, at least 1-3 years of working experience in the related field
+- Required Skill(s): C#, .NET, SQL, Server, Web-MVC
+- Experience in 
+Payroll related software or database application will be a plus
+- Strong leadership to lead the juniors and excellent team-work experience
+- hands-on with practical knowledge in a large/ medium size system development
+- Can-Do attitude with strong responsibility and tasks ownership
+- Communication skills and able to converse in English
+- Relevant internships or academic projects are a plus; fresh graduates will be considered.        
+            
+                            
+            "
+Software Engineer,Micron Technology,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4042563947/,"Our vision is to transform how the world uses information to enrich life for all.
+Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are pursuing.
+JR64171 Software Engineer
+What do we have to offer? 
+Our IT Team presents phenomenal opportunity for a highly motivated and results-oriented individual. Join us in the adventure to explore innovative technologies to run state of art, operationally efficient and secure datacenters.
+Looking to advance your career? 
+Micron is the place for you to expand your caliber by working on major projects, developing the leader in you! We provide online learning opportunities and on-the-job training to upgrade your skills.
+What’s more? We provide peer mentorship to guide you through the process of learning new systems.
+An Ordinary Day Of Work Would Include The Following
+- Involving in the application lifecycle management for software systems in a highly automated semiconductor manufacturing environment.
+- Working with partners to conduct user requirement analysis and collaborate with global IT team to implement and deliver IT solutions for Manufacturing operations.
+- Planning and leading user training and acceptance testing/verification for new software to ensure a good quality software release to production.
+- Performing applications software and hardware maintenance to ensure high uptime
+- Supervising system performance actively to identify abnormalities and develop capabilities to prevent unscheduled downtime.
+This Job Is For You If You
+﻿
+- Possess a Bachelor’s Degree in Electrical & Electronics/Computer Engineering, Computer Science or equivalent experience.
+- Knowledge in any programming language such as C#/C++ programming, Java, Perl, HTML5 and SQL.
+- Creative and have passion in implementing innovative IT solutions to tackle meaningful business problems.
+- Good interpersonal and communication skills. Willing to work in a clean room work environment and dynamic team environment to achieve a common goal through effective collaboration and dedication.
+- Able to provide 24/7 standby operation support.
+- Able to travel when required.
+- Applicant who have proven good software project management skill and had exposure to agile development methodology will be advantageous.
+About Micron Technology, Inc.
+We are an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life 
+for all
+. With a relentless focus on our customers, technology leadership, and manufacturing and operational excellence, Micron delivers a rich portfolio of high-performance DRAM, NAND, and NOR memory and storage products through our Micron® and Crucial® brands. Every day, the innovations that our people create fuel the data economy, enabling advances in artificial intelligence and 5G applications that unleash opportunities — from the data center to the intelligent edge and across the client and mobile user experience.
+To learn more, please visit micron.com/careers
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.
+To request assistance with the application process and/or for reasonable accommodations, please contact hrsupport_sg@micron.com
+Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.
+Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.        
+            
+                            
+            "
+Software Engineer,Wipro,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4040825456/,Could not find Job Description
+Software Engineer (.NET/Angular),Capgemini,Singapore,2024-10-09,https://www.linkedin.com/jobs/view/4046363828/,Could not find Job Description
+Software Engineer (Data & BI Systems),Zenith Infotech,Singapore,2024-10-09,https://www.linkedin.com/jobs/view/4044642189/,"Software Engineer (System)
+ 
+Working Location: Bedok
+ 
+Responsibilities
+As part of a back-office development team, you will play a key role in the design and delivery of a robust software solution for the high-volume, performance-critical back-office of an Automatic Fare Collection (AFC) system. Your responsibilities will include:
+- Gathering and analyzing software requirements.
+- Designing, developing, and maintaining software components.
+- Preparing and submitting required deliverables throughout the software development lifecycle (SDLC), including but not limited to Business Rules, Software Requirement Specifications, Software Architecture Documents, Design Specifications, Interface Specifications, Source Code, Testing Specifications, Operations & Maintenance Manuals, Training Manuals, and other documentation as per industry standards.
+- Assisting with daily application support and troubleshooting issues.
+- Collaborating with users and stakeholders on requirements, design, and testing matters.
+Qualifications & Requirements
+- Bachelor's degree in Computer Science, IT, or Engineering with a minimum of 5 years' experience in software development.
+- Hands-on experience in at least one full software development lifecycle (SDLC), including producing SDLC documentation.
+- Extensive expertise in analyzing requirements, designing, developing, and delivering complex enterprise applications in UNIX/Linux and Windows environments.
+- Proficiency in database systems and SQL for crafting complex queries and performance tuning.
+- Significant experience with 
+Data Engineering
+ and 
+Business Intelligence (BI) tools
+ such as IBM DataStage, Informatica, Cognos Analytics, and Power BI.
+- In-depth understanding of 
+OLAP
+, 
+ETL/ELT processes
+, and 
+BI design principles
+ and best practices.
+- Exposure to Cloud Data platforms like 
+Snowflake
+, 
+Databricks
+, and 
+AWS Redshift
+ is an advantage.
+- Experience with Automatic Fare Collection (AFC) systems is a plus.
+- Strong analytical and problem-solving skills.
+- Excellent written and verbal communication skills.        
+            
+                            
+            "
+Software Engineer (University Graduate) (Singapore),Meta,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042297960/,Could not find Job Description
+Software Engineer - B,Capgemini,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/3990676818/,"About Capgemini
+The Capgemini Global Service Line entitled Digital Customer Experience (DCX), helps organizations understand and implement the right mix of business focused digital capabilities, deployed within the right framework for transformation – to fundamentally change how they do business and serve their customers. Digitally mature organizations deliver on improving customer advocacy and driving growth. Available worldwide and across all industry sectors, the consolidated offer from Capgemini helps enterprises to embed digital customer experiences into the heart of their organizations, while transforming their future business models and processes. DCX addresses the need to achieve and sustain business value via digital initiatives, from the back end right through to the front line.
+Salesforce Developer
+Job Description
+- Work with architects, functional consultants and analysts with the aim of delivering overall value to the customer with Salesforce as the core solution.
+- Refer to technical requirements, actively own and act on work items to complete the desired functionalities.
+- If applicable, propose alternative solutions based on your experience and other point of views with the team.
+- Develop automation using Apex and custom UI using LWC / OmniScript / Visualforce.
+- As appropriate, collaborate with functional team members in customizing objects including objects creation, page layouts, fields, record types etc.
+- Follow established technical governance and best practices in all development work.
+- Contribute to technical related documentation such as technical specifications.
+- Participate actively in all activities throughout the project lifecycle.
+- Promptly assist in the resolution of bugs identified.
+- Proactively identify development and technical risks, propose mitigation plans and flag to the team accordingly.
+Job Requirements
+- For experienced hires: Minimum 2 years of experience in Salesforce Development; Certified in Salesforce Platform Developer I, Administrator.
+- For entry level / graduates: required knowledge of Java / OOP / JavaScript / HTML / CSS. Previous coursework or projects related to web development or Salesforce.
+- The following Salesforce certificates will be an added advantage: OmniStudio Developer, Platform Developer II, JavaScript Developer I, Salesforce Consultant Certificates.
+- Experience in writing Apex classes, triggers, LWC, Visualforce etc. is desired
+- Knowledge or understanding of project lifecycle
+- Knowledge or working experience in public sector is preferred but not mandatory
+- Deep understanding of Salesforce technical requirements, system configuration, development and deployment
+- Experience with CI/CD tools, release management and integration are preferred
+- Ability to work/meet deadlines
+Let's talk about what's in it for you!
+Passionate people are Capgemini's Ace of Spades - join us to discover a career that will challenge, support and inspire you. Working at Capgemini you'll find the rewards are more than just financial. You will work alongside some very smart and inspiring people on exciting projects and you will also enjoy incredible benefits. We offer flexible work practices and 40 hours of self-development every year with a huge selection of learning opportunities to choose from.
+As ""Architects of Positive Futures"", Capgemini actively supports the community in 3 ways:
+Diversity and Inclusion
+ - we believe diversity of thought fuels excellence and innovation, which is why we positively encourage applications from suitably qualified candidates regardless of their gender identity, ethnicity, sexual orientation, religion, ability, intersex status or age. To support our commitment to diversity and inclusion, we celebrate special events and days of significance that are important to our employees such as Diwali, Bastille Day, Pride, IDAHOBIT, IWD and International day of people with Disabilities. Our Employee Resource Groups Women@Capgemini and OutFront support the grassroots passion of employees to drive our diversity agenda and effect change.
+Digital inclusion
+ - at Capgemini we are using our skills to drive social impact initiatives focusing on helping society address the impact of the digital and automation revolution. We also provide employees with opportunities to give back to the community through charity projects and volunteer days.
+Environmental Sustainability
+ - Capgemini joined the CDP's (Carbon Disclosure Project) prestigious ""A list"" for its commitment to the Net-Zero economy. We are focusing on helping our clients transform towards more sustainable business models and committing to reduce our own carbon emissions (GHG) by 20% per employee by2020
+.
+Recognized by Ethisphere as one of the 
+World's Most Ethical Companies 
+for the last 8 years in a row, ethics and values are at the heart of Capgemini's corporate culture and business. Embedded in our DNA, our seven values - Honesty, Boldness, Trust, Team Spirit, Freedom, Fun and Modesty - have remained the same since company inception in 1967. To see how we bring these values to life, click here to listen to some of our employee’s stories.
+Come join us, bring your whole self to work, create new possibilities for you, your customers and your community and help us to be Architects of Positive Futures.
+                
+            
+                            
+            "
+Software Engineer - BSS,StarHub,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4038856696/,"Job Description
+As a CRM Software Engineer at StarHub – IS Divisions, you will be a key contributor in designing, developing, and maintaining CRM solutions that enhance customer engagement and optimize business processes. Working in a dynamic, fast-paced and maintain robust, high-performance applications that power the BSS – platform. you will collaborate with cross-functional teams to deliver scalable and efficient CRM solutions, driving both operational excellence and efficiency in delivering superior customer experiences.
+Key Responsibilities
+-  Design, develop, and maintain Java-based applications using the Spring Boot framework, tailored specifically for the BSS platform such as billing, customer management, product catalog, order management and revenue management. 
+-  Utilize PostgreSQL for database management, ensuring optimal performance and scalability in BSS platform deployments. 
+-  Work with CRM, OSS, and other enterprise systems to integrate and ensure seamless data flow between different telecom platforms. 
+-  Develop, implement APIs for integration between the BSS platform and internal/external systems, ensuring accurate and real-time data exchange. 
+-  Participate in the full software development lifecycle, including requirements gathering, design, coding, testing, deployment, and maintenance of BSS solutions. 
+-  Deploy, manage, and optimize applications within a containerized environment using Docker and Kubernetes, supporting the DevOps model. 
+-  Collaborate with cross-functional teams, including business stakeholders, product owners, and quality assurance, to define, design, and release new features aligned with the strategic goals of the Telco BSS platform. 
+Qualifications
+-  Bachelor's degree in Computer Science, Software Engineering, Information Technology, or a related field. A master's degree is a plus. 
+-  Proven experience in Java development with the Spring Boot framework, specifically within Telecommunications BSS platforms such as CompaxDigital, any BSS providers. 
+-  Strong expertise in high-performance and scalable software architecture, with experience in containerized environments using Kubernetes and Docker. 
+-  Proficiency in Python and shell scripting for process automation and task optimization. 
+-  Strong working knowledge of PostgreSQL for database management, performance tuning, and optimization in a BSS context. 
+-  Demonstrated experience with AWS cloud services, particularly in deploying and managing scalable cloud applications in a DevOps framework. 
+-  Extensive experience with CI/CD pipelines, deployment automation, and related DevOps tools. 
+-  Agile mindset with knowledge of agile development methods such as Scrum. 
+-  An absolute team player with a solution-oriented and innovative work style. 
+-  Excellent problem-solving abilities, with attention to detail and the capacity to work in fast-paced, dynamic environments. 
+-  Strong interpersonal and communication skills, with the ability to work collaboratively across multiple teams and stakeholders.        
+            
+                            
+            "
+Software Engineer - Crypto Technology,Westbury Partners - Boutique Executive Search,"Singapore, Singapore",2024-10-03,https://www.linkedin.com/jobs/view/4041463381/,Could not find Job Description
+Software Engineer - Fresh Grad,PayPal,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4043321174/,Could not find Job Description
+Software Engineer - Java (Asset & Custody),OKX,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/3989326170/,"OKX will be prioritising applicants who have a current right to work in Singapore, and do not require OKX's sponsorship of a visa.
+Who We Are
+At OKX, we believe that the future will be reshaped by Crypto, ultimately contributing to every individual's freedom. OKX began as a crypto exchange giving millions of people access to crypto trading and over time becoming among the largest platforms in the world. In recent years, we have developed one of the most connected Web3 wallets used by millions to access decentralized crypto applications (dApps). OKX is a trusted brand by hundreds of large institutions seeking access to crypto markets on a reliable platform that seamlessly connects with global banking and payments. In the last year, OKX has expanded into new markets including Australia, Brazil, Netherlands, Singapore and Turkey, with plans to launch in the US, Belgium and the UAE.
+We are deeply committed to shaping a fairer, more transparent and accessible society through blockchain technology. This is why we publish proof of reserves monthly, and continue to ship new innovative security features.
+What You’ll Be Doing
+- Ride on the momentum of a greenfield project and brand-new team with one of the biggest crypto exchanges in the world.
+- Design and implement of high-performing and scalable while flexible user centre services for our ever-growing users across the globe and continuously changing regulatory requirements.
+- Work closely with Product, Design and Marketing teams to drive rapid innovation in cross-functional teams.
+What We Look For In You
+- Experience in Microservice/API development with Java/SpringBoot/SpringCloud.
+- Knowledgeable in multi-threading and distributed architecture. Understanding of mainstream messaging frameworks including Kafka, Tibco, Informatica UM etc.
+- Solid experience with relational databases.
+- Comfortable with cloud-based Linux environment.
+- Embrace agile development process including TDD, CI and Scrum.
+- Experience working with teams across offices and time zones.
+Nice to Haves
+-  Knowledge in Spring Security is a plus. 
+Perks & Benefits
+- Competitive total compensation package 
+- L&D programs and Education subsidy for employees' growth and development 
+- Various team building programs and company events 
+- Wellness and meal allowances 
+- Comprehensive healthcare schemes for employees and dependants 
+- More that we love to tell you along the process!        
+            
+                            
+            "
+Software Engineer Intern,Keysight Technologies,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4036395923/,Could not find Job Description
+Software Engineer in Testing - Fresh Grad,HoYoverse,Singapore,2024-10-09,https://www.linkedin.com/jobs/view/3984759484/,Could not find Job Description
+"Software Engineer, Algorithm Engineering Intern - 2025 Start",TikTok,Singapore,2024-10-04,https://www.linkedin.com/jobs/view/4006861068/,Could not find Job Description
+"Software Engineer, Front End",Meta,Singapore,2024-10-03,https://www.linkedin.com/jobs/view/3988226761/,Could not find Job Description
+"Software Engineer, Google Pay, Core",Google,Singapore,2024-10-04,https://www.linkedin.com/jobs/view/4023139466/,Could not find Job Description
+"Software Engineer, New Grad",Stripe,"Singapore, Singapore",2024-10-05,https://www.linkedin.com/jobs/view/4008209637/,Could not find Job Description
+"Software Engineer, Real Time Communication",ByteDance,Singapore,2024-10-03,https://www.linkedin.com/jobs/view/3969055429/,"Responsibilities
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok and Helo as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+Why Join Us
+Creation is the core of ByteDance's purpose. Our products are built to help imaginations thrive. This is doubly true of the teams that make our innovations possible.
+Together, we inspire creativity and enrich life - a mission we aim towards achieving every day.
+To us, every challenge, no matter how ambiguous, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At ByteDance, we create together and grow together. That's how we drive impact - for ourselves, our company, and the users we serve.
+Join us.
+Team Introduction
+RTC is a world-leading Real-Time Communication service that provides instant and quality multimedia interaction among our customers across the globe. We are building the next generation audio/video processing and compression platform, along with the fastest delivery networks and the richest cloud services.
+As a Senior Software Engineer in the RTC team, you will
+- Design, build and maintain a global scale, multi-regional Real Time Communication system.
+- Research and development of distributed traffic scheduling platform, stability assurance platform, unified configuration center, real-time message middleware and other core systems.
+- Uphold excellent engineering practices in the codebase and system designs
+- Design and implement the RTC system to work effectively among data centers
+- Optimize the network transmission of streaming media
+- Collaborate with internal product and engineering teams
+Qualifications
+Minimum Qualifications:
+- Working experience in software engineering
+- Bachelor's degree in Computer Science or a related technical background involving software/system engineering, or equivalent working experience
+- Good programming experience with at least one of the following languages: C, C++, Java, Python, or Go.
+- Expertise in designing, analyzing, and troubleshooting large-scale distributed systems.
+- Experience with networking, e.g. TCP/IP, DNS, CDN, NAT, Load Balancer, Proxy, etc
+- Familiar with Unix/Linux operating systems
+- Familiar with commonly used database systems, such as MySQL, Redis, etc
+Preferred Qualifications
+- Familiar with Zipkin and other link tracking tools, familiar with commonly used RPC frameworks such as grpc, thrift, spring cloud, Dubbo, Motan, etc.
+- Experience with message queue middleware such as Kafka, NSQ, RabbitMQ is preferred
+- Experience with WebRTC, CDN, Live Streaming and Multimedia is a bonus.
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            "
+"Software Engineer, Sustaining Engineering",Canonical,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4044749238/,Could not find Job Description
+Software QA Engineer,IMDA,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/3785474085/,"Job Description
+At IMDA, we recognize the vital role that Quality Assurance (QA) plays in ensuring the quality and reliability of our software products. We are seeking a skilled QA Engineer with a keen interest in DevOps to join our forward-thinking team. This role bridges the gap between quality and reliability, contributing to the seamless functioning of our systems.
+What to expect:
+- Collaborate closely with development and platform engineering teams to ensure the reliability and quality of our software applications.
+- Design, develop, and execute comprehensive test plans and test cases that encompass functional and non-functional requirements.
+- Develop and maintain automated testing frameworks and scripts to ensure thorough testing coverage, including performance and resilience testing.
+- Participate in incident reviews, root cause analyses, and post-mortem discussions to identify and address quality and reliability concerns.
+- Collaborate with development teams to ensure seamless integration of quality practices into the software development lifecycle.
+- Champion a culture of quality and reliability across teams, sharing knowledge and promoting best practices.
+- Contribute to strengthen DevOps methodologies, processes, and best practices within the organization.
+How to succeed:
+- Bachelor's degree in Computer Science, Engineering, or related field (or equivalent work experience).
+- 3-5 years of work experience as a QA Engineer and software testing, with a strong interest and understanding of DevOps.
+- Proficiency in one or more programming/scripting languages (python, nodejs, etc.).
+- Experience with QA testing methodologies, tools, and frameworks (jest, pytest, playwright, Selenium, etc.).
+- Experience with performance testing tools and methodologies.
+- Experience with software development lifecycles, CI/CD and agile methodologies.
+- Strong analytical and problem-solving skills, with the ability to troubleshoot complex technical issues.
+- Excellent communication and collaboration skills, comfortable to work cross-functional teams.
+- Knowledge of cloud platform is a plus.        
+            
+                            
+            "
+Software Test Engineer (All Level),Rockwell Automation,Singapore,2024-10-07,https://www.linkedin.com/jobs/view/4045055392/,"Rockwell Automation is a global technology leader focused on helping the world’s manufacturers be more productive, sustainable, and agile. With more than 28,000 employees who make the world better every day, we know we have something special. Behind our customers - amazing companies that help feed the world, provide life-saving medicine on a global scale, and focus on clean water and green mobility - our people are energized problem solvers that take pride in how the work we do changes the world for the better.
+We welcome all makers, forward thinkers, and problem solvers who are looking for a place to do their best work. And if that’s you we would love to have you join us!
+Job Description
+As a Software Test Engineer for Rockwell Automation, you will work together with a team of product managers and software developers to develop industry-leading commercial software known for its innovation and usability. You will develop test strategy, create and execute test plans to ensure the quality of the products. You will report to Senior Manager, Software.
+You will be an important player in feature design, implementation, and testing. You will play an active role in all the stages of the development lifecycle and support your team throughout the process. You will also help ensure that developed products meet requirements and are within total quality management standards. You will collaborate with multiple global teams and may also require you to be the technical lead of a small-scale feature or portion of a feature.
+When you join our software engineering group, you become part of a team that believes in knowledge sharing and collaboration and that is committed to using reliable and well-thought-out engineering practices and technology to overcome any challenges.
+We are looking for someone who will use a diverse set of technical backgrounds and opinions by encouraging a team-oriented environment and the use of open and direct communications, and respect. You will also seek knowledge of new developments in the software engineering, computer engineering, and test automation fields and will identify and pursue career development opportunities.
+Your Responsibilities
+- Collect, contribute to and document requirements for a feature and its components, ensuring the information required to develop software and corresponding test cases are contained in the specifications.
+- Develop test plans for new features or help existing ones ensuring they meet the established requirements.
+- Establish a timeline and determine the resources needed to complete a test plan. Considers tradeoffs between requirements, speed, cost and coverage. Provide progress reports.
+- Create test cases and related documents that meets the product quality requirements, including traceability.
+- Create test automation plans and automate required test cases.
+- Conduct manual or automated tests, reports anomalies, and characterizes the anomalies based on company quality criteria.
+- Participate in reviews of requirement documents, test cases and user documentation.
+- Take the lead on identifying and recommending software development capability improvements in software development practices, development tools, and test automation.
+- Be willing to research and explore new avenues by using the latest technologies and standards.
+The Essentials - You Will Have
+- Bachelor's Degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent
+- More than 5 years of experience in a software product development environment for a Senior Engineer role
+- Fresh graduates are encouraged to apply for junior roles
+The Preferred - You Might Also Have
+- Direct experience creating test plans and test cases for embedded software products; familiar with manual and automated testing methodologies
+- Direct experience writing automated test cases using Python, C/C++, JavaScript/TypeScript
+- Knowledge of test automation and familiar with test automation framework such as TestCafe
+- Direct experience with Agile software development process
+- Apply knowledge of testing cloud-based software products
+- Experience approaching a problem from different angles, analyzing pros and cons of different solutions
+- Direct experience collaborating with local and global technical development teams
+What We Offer
+- Health Insurance including comprehensive In-patient coverage
+- Out-Patient benefits including clinical consultation, prescribed medication, telemedicine, health screening, dental & vision.
+- Life and Accident Protection – covering death and disability due to natural cause, illness, and accident.
+- Hybrid and flexible work options.
+At Rockwell Automation we are dedicated to building a diverse, inclusive and authentic workplace, so if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right person for this or other roles.
+Rockwell Automation’s hybrid policy aligns that employees are expected to work at a Rockwell location at least Mondays, Tuesdays, and Thursdays unless they have a business obligation out of the office.        
+            
+                            
+            "
+Software Test Engineer - Life Sciences Technology,Emerson,Singapore,2024-10-09,https://www.linkedin.com/jobs/view/4025409940/,"Job Summary
+ JOB DESCRIPTION 
+If you are a Software Tester looking for an opportunity to grow, Emerson has a great opportunity for you in our Life Sciences R&D Team! Based in Singapore, you will contribute to the software development life cycle as a member of an agile development team to test a first-of-its-kind turn-key integration solution for business and manufacturing systems for the Life Sciences Industry. This solution will revolutionize how these systems integrate with business processes, featuring cutting-edge information architecture, data modeling, data warehousing, data lakes, and data transformation.
+In this Role, Your Responsibilities Will Be:
+- Test features of cloud-based, SaaS systems and plug-in application components including:
+- - Designing test cases
+- - Implementing automated tests
+- - Performing manual tests
+- - Recording test results
+- - Maintaining test systems
+- - Discover, isolate and document product defects
+- - Validate repaired defects/faults
+- Develop and execute comprehensive automated tests, including unit, API, integration, and regression tests, to ensure full coverage and reliability of the product.
+- Collaborate with developers, other testers, product marketing, etc. to understand and document both functional and non-functional (e.g. performance, up-time, etc.) requirements.
+- Troubleshoot and correct issues with automated test cases and execution system.
+- Contribute to the software development life cycle as a member of an agile development team, including participating in standard agile activities such as sprint planning, daily stand-up, sprint review, retrospectives, etc.
+- Improve operations by conducting systems analysis and recommending changes in policies and procedures.
+- Ensure products are developed and tested in accordance with cybersecurity best-practices and policies.
+Who You Are:
+You quickly and decisively take action in fast-changing, unpredictable situations. You encourage others to learn and adopt new technologies. You move beyond traditional ways of doing things. You facilitate an open dialogue with a wide variety of contributors and customers. You deliver messages in a clear, compelling, and concise manner.
+For This Role, You Will Need:
+- At least 1-3 years experience testing supporting software development through manual and automated testing.
+- Experience with various testing methodologies (functional testing, system testing, integration testing, performance testing).
+- Ability to quickly understand and evaluate complex and evolving functional requirements.
+- Proficiency with one or more common automated testing frameworks (e.g. Selenium, Cypress, etc.)
+- Familiarity with B2MML, MQTT, Sparkplug B, and related technologies.
+- Familiarity with modern web development stacks, preferably MERN or MEAN, and .NET web development technologies.
+- Strong communication skills and the ability to work effectively with multi-functional teams.
+Preferred Qualifications that Set You Apart:
+- Bachelor’s Degree in Computer Science, Mathematics, Computer Engineering, Data Science or a related STEM field or equivalent.
+- ISTQB Foundation Certified
+- Familiarity with cloud platforms such as AWS, Azure, or Google Cloud.
+- Experience with CI/CD pipelines and DevOps practices.
+- Experience in the development and implementation of technology standards.
+- Experience with the Life Sciences industry or adjacent technologies (e.g. MES, ERP, CMMS, DCS, LIMS, etc.).
+- Experience working in an Agile software development environment, preferably using Scrum or the Scaled Agile Framework (SAFe).
+Our Offer To You:
+By joining Emerson, you will be given the opportunity to make a difference through the work you do.
+Emerson's compensation and benefits programs are designed to be 
+competitive within the industry and local labor markets
+. We also offer a 
+comprehensive medical and insurance coverage
+ to meet the needs of our employees.
+We are committed to creating a global workplace that 
+supports diversity, equity and embraces inclusion
+.
+We attract, develop, and retain exceptional people in an inclusive environment, where all
+ employees can reach their greatest potential
+. We are dedicated to the ongoing development of our employees because we know that it is critical to our success as a global company.
+We have established our Remote Work Policy for eligible roles to promote 
+Work-Life Balance
+ through a hybrid work set up where our team members can take advantage of working both from home and at the office.
+Safety is paramount to us, and we are relentless in our pursuit to provide a 
+Safe Working Environment
+ across our global network and facilities.
+Through our benefits, development opportunities, and an inclusive and safe work environment, we aim to create an organization our people are proud to represent.
+Our Commitment to Diversity, Equity & Inclusion
+At Emerson, we are committed to fostering a culture where every employee is valued and respected for their unique experiences and perspectives. We believe a diverse and inclusive work environment contributes to the rich exchange of ideas and diversity of thoughts, that inspires innovation and brings the best solutions to our customers.
+This philosophy is fundamental to living our company’s values and our responsibility to leave the world in a better place. Learn more about our Culture & Values and about Diversity, Equity & Inclusion at Emerson .
+If you have a disability and are having difficulty accessing or using this website to apply for a position, please contact: idisability.administrator@emerson.com .
+About Us
+WHY EMERSON
+Our Commitment to Our People
+At Emerson, we are motivated by a spirit of collaboration that helps our diverse, multicultural teams across the world drive innovation that makes the world healthier, safer, smarter, and more sustainable. And we want you to join us in our bold aspiration.
+We have built an engaged community of inquisitive, dedicated people who thrive knowing they are welcomed, trusted, celebrated, and empowered to solve the world’s most complex problems — for our customers, our communities, and the planet. You’ll contribute to this vital work while further developing your skills through our award-winning employee development programs. We are a proud corporate citizen in every city where we operate and are committed to our people, our communities, and the world at large. We take this responsibility seriously and strive to make a positive impact through every endeavor.
+At Emerson, you’ll see firsthand that our people are at the center of everything we do. So, let’s go. Let’s think differently. Learn, collaborate, and grow. Seek opportunity. Push boundaries. Be empowered to make things better. Speed up to break through. Let’s go, together.
+Accessibility Assistance or Accommodation
+If you have a disability and are having difficulty accessing or using this website to apply for a position, please contact: idisability.administrator@emerson.com .
+About Emerson
+Emerson is a global leader in automation technology and software. Through our deep domain expertise and legacy of flawless execution, Emerson helps customers in critical industries like life sciences, energy, power and renewables, chemical and advanced factory automation operate more sustainably while improving productivity, energy security and reliability.
+With global operations and a comprehensive portfolio of software and technology, we are helping companies implement digital transformation to measurably improve their operations, conserve valuable resources and enhance their safety.
+We offer equitable opportunities, celebrate diversity, and embrace challenges with confidence that, together, we can make an impact across a broad spectrum of countries and industries. Whether you’re an established professional looking for a career change, an undergraduate student exploring possibilities, or a recent graduate with an advanced degree, you’ll find your chance to make a difference with Emerson. Join our team – let’s go!
+No calls or agencies please.        
+            
+                            
+            "
+Solutions System Engineer,Achieve Group,"Singapore, Singapore",2024-10-04,https://www.linkedin.com/jobs/view/4040367713/,Could not find Job Description
+Sr Software Engineer_24WD81176,Jobscentral,Singapore,2024-10-04,https://www.linkedin.com/jobs/view/4040869849/,Could not find Job Description
+System Engineer,Carrier,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4044371696/,"Country
+Singapore
+Location: 
+#08-01/02, Perennial Business City, 1 Venture Avenue, Singapore 608521
+Build a career with confidence
+Carrier Global Corporation, global leader in intelligent climate and energy solutions is committed to creating solutions that matter for people and our planet for generations to come. From the beginning, we've led in inventing new technologies and entirely new industries. Today, we continue to lead because we have a world-class, diverse workforce that puts the customer at the center of everything we do.
+About The Role
+- Develops and fosters good personal customer relationships with prospective accounts to influence opportunities.
+- Aids in and supports business development activities for prospects within defined customers segment to support the business strategy.
+- Strong interest to pick up the HVAC knowledge and provide technical clarification to client.
+- Willing to have a personal significant growth within the industry through networking with key stakeholders from Building owners, Main Contractors and M&E Contractors.
+- Willing to be a team player in a MNC collaborating within the organization.
+Role Responsibilities
+- Responsible for the promotion of company's values and solution to all levels from customers.
+- Establishes prospects and develops a professional relationship to understand the customer needs and suggest products and/or services that meet the customer needs.
+- Prospects bid opportunities, participates in the preparation of bid responses and the negotiation with potential customers to achieve company's goals and targets assigned.
+- Create and pursue leads proactively and convert them into orders in timebound manner.
+- Provide monthly report on sales progression to management.
+- Responsible for payment collections.
+- Develops proactively with existing and new customer contact leads for new opportunities.
+- Attends trade shows at times to increase the visibility of the organization and potentially influence prospects.
+- Minimum traveling with customers for solution performance testing.
+Minimum Requirements
+- Bachelor Degree or above, preferably in Mechanical, Electrical or HVAC Engineering.
+- Minimum 2 to 5 working experience as sales/marketing position in direct selling.
+- Strong interpersonal, presentation and convincing skill.
+- Self motivated, diligent, positive mindset in multi-tasking activities.
+- Possess a hunter role personality.
+- Able to work both independently and as a team.
+- Basic knowledge in Excel, Words and Powerpoint.
+Benefits
+We are committed to offering competitive benefits programs for all of our employees, and enhancing our programs when necessary.
+Our commitment to you
+Our greatest assets are the expertise, creativity and passion of our employees. We strive to provide a great place to work that attracts, develops and retains the best talent, promotes employee engagement, fosters teamwork and ultimately drives innovation for the benefit of our customers. We strive to create an environment where you feel that you belong, with diversity and inclusion as the engine to growth and innovation. We develop and deploy best-in-class programs and practices, providing enriching career opportunities, listening to employee feedback and always challenging ourselves to do better. This is 
+The Carrier Way
+.
+Join us and make a difference.
+Apply Now!
+Carrier is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.
+Job Applicant's Privacy Notice
+Click on this link to read the Job Applicant's Privacy Notice
+                
+            
+                            
+            "
+System Engineer,Digital Realty,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4009802456/,Could not find Job Description
+System Engineer,Xtremax,"Singapore, Singapore",2024-10-07,https://www.linkedin.com/jobs/view/4044549398/,"This job position is suitable for individuals who are constant learners, problem solvers and multi-taskers. Candidates who thrive in a fast-paced environment, steps up to face challenges, and are able to deliver results, are welcome to apply. We are looking for candidates who are interested in doing Implementation and Operation of Infrastructure in Cloud. 
+Responsibilities:  
+- Responsible to deploy and Maintaining Server (Windows or Linux) deployed in Cloud Infrastructure  
+- Ensure that all OS, software and cloud services are up to date to support the cloud infrastructure  
+- Provide support related to customer issue with the Cloud Infrastructure.   
+- Work closely with IT security to monitor privacy and develop incident-response procedures  
+Requirements
+- Bachelor's degree in computer science, Information Technology, or related field
+- Must have minimum of 4 years' experience working with Linux and architecture
+- Proven experience in: Building and managing both Windows and Linux servers in cloud environments. Strong scripting and automation skills (e.g., Python, Bash and PowerShell)
+- Minimum 2 years of experience with cloud providers (AWS or Google Cloud Platform)
+- Must have Linux/Unix system administration experience (e.g. system troubleshooting, install software, modify operating system and application configuration)
+- Require networking knowledge for troubleshooting network routing and firewall issues
+- Excellent problem-solving and troubleshooting skills
+- Strong communication and collaboration skills
+- Configure Agency's existing Log Management System(s) to forward logs to GCSOC
+- Set up LMS(s) at Agency (if they don't have), either on physical server or virtual machine
+- Only Singaporean / SPR that may apply        
+            
+                            
+            "
+Systems Engineer,Searidge Technologies,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4046254641/,Could not find Job Description
+"Urgent!!! Software Engineer (C#, JavaScript, SQL)",,"Singapore, Singapore",2024-10-09,https://www.linkedin.com/jobs/view/4043366235/,Could not find Job Description
+[Tech Cooperative Internship 2025] Software Engineer Intern – Full-stack team (6 months),Agoda,"Singapore, Singapore",2024-10-08,https://www.linkedin.com/jobs/view/4027298577/,Could not find Job Description
+iOS Software Engineer - Global E-commerce (Customer Business),Jobscentral,Singapore,2024-10-08,https://www.linkedin.com/jobs/view/4042963743/,"About TikTok
+TikTok will be prioritizing applicants who have a current right to work in Singapore, and do not require TikTok sponsorship of a visa.
+-  TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible. Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day. To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always. At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve. Join us.
+About The Team
+The e-commerce industry has seen tremendous growth in recent years and has become a hotly contested space amongst leading Internet companies, and its future growth cannot be underestimated. With millions of loyal users globally, we believe TikTok is an ideal platform to deliver a brand new and better e-commerce experience to our users. We aim to bring discovery, inspiration, and joy back to shopping by making TikTok the commerce channel of choice for merchants, creators, and affiliates.With millions of loyal users globally, we believe TikTok is an ideal platform to deliver a brand new and better e-commerce experience to our users. We are looking for passionate and talented people to join our product and operations team, to build an e-commerce ecosystem that is innovative, secure and intuitive for our users and brands.
+-  About the team:
+The team is responsible for developing all of TTS South East Asia businesses - which will involve exciting projects covering user growth, homepage, discovery channel. You'll be tasked with creating a Global e-Commerce Shopping Platform, collaborating closely with engineers around the globe.
+Responsibilities
+-  Develop efficient, highly scalable, and secured services to build/integrate e-Commerce solutions for TikTok Shop.
+-  Collaborate with Product Managers, Designers, and other disciplines to explore the next generation of shopping experiences on TikTok.
+-  Be responsible for building an intuitive and reliable shopping experience, including browsing product details, check-out, shopping, return, refund etc.
+-  Be responsible for TikTok's Shop Tab, building platforms and tools for merchants, clients, and businesses to manage campaigns, deliver the best results, and receive actionable insights.
+-  Research, analyse and evaluate requirements for existing or new web and mobile applications.
+-  Design, develop, test and maintain web and mobile solutions to meet the requirements.
+-  Evaluate programming codes to ensure that they are properly structured, meet industry standards and are compatible with browsers and devices.
+-  Develop website infrastructure and integrate websites with other computer applications.
+Qualifications
+-  Bachelor's or higher degree in Computer Science, Information Technology, Programming & System Analysis, Science (Computer Studies) or related discipline.
+-  Candidates should have at least 5 years of experience in a native iOS development environment using Objective-C or Swift.
+-  Ability to understand and debug large and complex code bases.
+-  Good team communication and collaboration skills.
+-  Passion and experience building consumer-facing products is a huge plus.
+-  Experience with E-Commerce is a plus.
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.
+                
+            
+                            
+            "
