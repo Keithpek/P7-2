@@ -8,7 +8,7 @@
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
-            background-color: #f4f4f4;
+            background-color: #000000;
             margin: 0;
             padding: 0;
         }
@@ -80,12 +80,6 @@
             border: 2px solid #ccc;
         }
 
-        /* Company profile section */
-        .company-profile {
-            display: none;
-            margin-top: 20px;
-        }
-
         /* Form container */
         .form-container {
             max-width: 300px;
@@ -142,7 +136,7 @@
 </header>
 
 <nav>
-    <a href="#home">Home</a>
+    <a href="ui_testzx.html">Home</a>
     <a href="about.html">About Us</a>
     <a href="CompanyProfile.html">Company Profile</a>
 </nav>
@@ -166,16 +160,16 @@
         <div class="column">
             <h3>Job Categories</h3>
             <ul>
-                <li><a href="#">IT</a></li>
-                <li><a href="#">Marketing</a></li>
-                <li><a href="#">Finance</a></li>
-                <li><a href="#">Healthcare</a></li>
-                <li><a href="#">Education</a></li>
+                <li><a href="#" onclick="filterJobs('IT')">IT</a></li>
+                <li><a href="#" onclick="filterJobs('Marketing')">Marketing</a></li>
+                <li><a href="#" onclick="filterJobs('Finance')">Finance</a></li>
+                <li><a href="#" onclick="filterJobs('Healthcare')">Healthcare</a></li>
+                <li><a href="#" onclick="filterJobs('Education')">Education</a></li>
             </ul>
         </div>
         <div class="column">
             <h3>Company Profile</h3>
-            <img src="company-logo.jpg" alt="Company Logo" style="width:100%;">
+            <img src="logo.jpg" alt="Company Logo" style="width:100%;">
             <p>JobScout Pro is a tool to extract critical information on potential jobs.</p>
             <a href="CompanyProfile.html">Company Profile</a>
         </div>
@@ -193,6 +187,15 @@
 <script>
 // JavaScript code for countries and form submission
 const countries = ['Singapore', 'Malaysia', 'Thailand', 'Indonesia', 'Philippines']; // Example countries
+
+// Predefined job titles categorized by sector
+const jobs = {
+    IT: ['Software Developer', 'System Administrator', 'Network Engineer'],
+    Marketing: ['Digital Marketing Specialist', 'Content Writer', 'SEO Expert'],
+    Finance: ['Financial Analyst', 'Accountant', 'Investment Banker'],
+    Healthcare: ['Nurse', 'Pharmacist', 'Medical Technologist'],
+    Education: ['Teacher', 'Curriculum Developer', 'School Counselor']
+};
 
 // Get the select element for location list
 const selectLocation = document.getElementById('location');
@@ -267,10 +270,27 @@ function submitForm(event) {
     });
 }
 
-// Function to show the company profile section
-function showCompanyProfile() {
-    const profileSection = document.getElementById('companyProfile');
-    profileSection.style.display = profileSection.style.display === 'none' ? 'block' : 'none';
+// Function to filter jobs by category
+function filterJobs(category) {
+    const jobTitles = jobs[category] || [];
+    const resultsContainer = document.getElementById('results');
+
+    // Clear previous results
+    resultsContainer.innerHTML = `<div class="column"><h3>Jobs in ${category}</h3><ul></ul></div>`;
+    const jobList = resultsContainer.querySelector('ul');
+
+    if (jobTitles.length === 0) {
+        jobList.innerHTML = `<li>No jobs available in ${category}.</li>`;
+    } else {
+        jobTitles.forEach(job => {
+            const listItem = document.createElement('li');
+            listItem.textContent = job;
+            listItem.onclick = function() {
+                document.getElementById('title').value = job; // Populate the search input
+            };
+            jobList.appendChild(listItem);
+        });
+    }
 }
 </script>
 
