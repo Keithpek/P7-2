@@ -18,7 +18,7 @@
 
         /* Header */
         header {
-            background-color: #008080;
+            background-color: #00aeff;
             color: white;
             padding: 20px;
             text-align: center;
@@ -27,15 +27,15 @@
 
         header img {
             position: absolute;
-            top: 10px;
-            left: 10px;
-            width: 50px; /* Adjust size as needed */
+            top: 0px;
+            left: 0px;
+            width: 120px; /* Adjust size as needed */
             height: auto;
         }
 
         /* Navigation tabs */
         nav {
-            background-color: #005757;
+            background-color: #ff9e01;
             padding: 10px;
             text-align: center;
         }
@@ -47,7 +47,7 @@
             border-radius: 5px;
         }
         nav a:hover {
-            background-color: #007575;
+            background-color: #00aeff;
         }
 
         /* Main container */
@@ -189,8 +189,19 @@ countries.forEach(location => {
 // Submits form and sends data to Flask backend
 function submitForm(event) {
     event.preventDefault(); // Prevents form submission
-    const title = document.getElementById('title').value;
+    const title = document.getElementById('title').value.trim();
     const location = document.getElementById('location').value;
+
+    if (!title) {
+        alert('Please enter a job title.');
+        return;
+    }
+
+    // Show loading message
+    const resultsContainer = document.getElementById('results');
+    const loadingMessage = document.createElement('div');
+    loadingMessage.innerHTML = '<p>Loading...</p>';
+    resultsContainer.appendChild(loadingMessage);
 
     // Prepare data to send
     const data = { 
@@ -206,17 +217,25 @@ function submitForm(event) {
         },
         body: JSON.stringify(data), // Convert data into JSON
     })
-    .then(response => response.json())
+    .then(response => {
+        if (!response.ok) throw new Error('Network response was not ok');
+        return response.json();
+    })
     .then(data => {
         console.log('Response from Python program', data.message);
+        // Clear loading message
+        resultsContainer.removeChild(loadingMessage);
+
         // Display confirmation message in the results container
-        const resultsContainer = document.getElementById('results');
         const resultDiv = document.createElement('div');
         resultDiv.innerHTML = `<p><strong>Submitted Job:</strong> ${title} <br><strong>Location:</strong> ${location}</p>`;
         resultsContainer.appendChild(resultDiv);
     })
     .catch((error) => {
         console.error('Error:', error);
+        // Clear loading message
+        resultsContainer.removeChild(loadingMessage);
+        alert('An error occurred: ' + error.message);
     });
 }
 </script>
