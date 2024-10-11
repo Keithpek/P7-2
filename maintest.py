@@ -15,6 +15,7 @@ import subprocess
 import webbrowser
 import time
 import os
+import platform
 
 #Comment this line if you have already downloaded the stopwords
 #nltk.download('stopwords')
@@ -201,7 +202,7 @@ def cleanfile():
 
     #-----Cleaning job_description column-----
     #Removes URLs
-    url_pattern = re.compile(r'https?://\S+|www\.\S+')
+    url_pattern = re.compile(r'\b(?:https?|ftp|file):\/\/\S+|www\.\S+\b')
     df['job_description'] = df['job_description'].str.replace(url_pattern, '', regex=True) 
     #Removes special characters
     df['job_description'] = df['job_description'].str.replace(r'[^a-zA-Z0-9\s]', '', regex=True) 
@@ -278,7 +279,8 @@ def openweb():
     webbrowser.open_new_tab(file_url)
 
 if __name__ == "__main__":
-    subprocess.Popen(['python', 'flask_test.py']) #Runs flask code in non-blocking way
+    python_command = 'python3' if platform.system() != 'Windows' else 'python'
+    subprocess.Popen([python_command, 'flask_test.py']) #Runs flask code in non-blocking way
     wait_for_flask()
     reset_form_submission()
     openweb() #Runs html file
