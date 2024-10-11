@@ -8,3 +8,6 @@ pysocks
 openai
 pdfminer.six
 flask_cors
+webbrowser
+nltk
+stopwords
