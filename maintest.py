@@ -298,9 +298,9 @@ def openweb():
 
 if __name__ == "__main__":
     subprocess.Popen(['python3', 'flask_test.py']) #Runs flask code in non-blocking way
-    openweb() #Runs html file
     wait_for_flask()
     reset_form_submission()
+    openweb() #Runs html file
     wait_for_html()
     config_file = 'config.json'  # default config file
     main(config_file)
