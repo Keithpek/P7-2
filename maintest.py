@@ -298,7 +298,7 @@ def reset_form_submission():
 
 def openweb():
 
-    filename = 'ui_test.html'
+    filename = 'index.html'
     filepath = os.getcwd()
     file_url = 'file:///' + filepath + '/' + filename
     webbrowser.open_new_tab(file_url)
@@ -306,7 +306,7 @@ def openweb():
 if __name__ == "__main__":
     cleanup()
     python_command = 'python3' if platform.system() != 'Windows' else 'python'
-    subprocess.Popen([python_command, 'flask_test.py']) #Runs flask code in non-blocking way
+    subprocess.Popen([python_command, 'flask_server.py']) #Runs flask code in non-blocking way
     wait_for_flask()
     reset_form_submission()
     openweb() #Runs html file
