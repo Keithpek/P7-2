@@ -14,6 +14,7 @@ from nltk.corpus import stopwords
 import subprocess
 import webbrowser
 import time
+import os
 
 #Comment this line if you have already downloaded the stopwords
 #nltk.download('stopwords')
@@ -288,9 +289,16 @@ def reset_form_submission():
     except requests.exceptions.ConnectionError:
         print("Error connecting to server to reset form submission")
 
+def openweb():
+
+    filename = 'ui_test.html'
+    filepath = os.getcwd()
+    file_url = 'file:///' + filepath + '/' + filename
+    webbrowser.open_new_tab(file_url)
+
 if __name__ == "__main__":
-    subprocess.Popen(['python', 'flask_test.py']) #Runs flask code in non-blocking way
-    webbrowser.open('ui_test.html') #Runs html file
+    subprocess.Popen(['python3', 'flask_test.py']) #Runs flask code in non-blocking way
+    openweb() #Runs html file
     wait_for_flask()
     reset_form_submission()
     wait_for_html()

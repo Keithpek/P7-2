@@ -26,5 +26,5 @@
     "rounds": 3,
     "days_to_scrape": 10,
     "app_table": "jobs",
-    "form_submitted": true
+    "form_submitted": false
 }
