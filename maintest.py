@@ -101,28 +101,6 @@ def safe_detect(text):
     except LangDetectException:
         return 'en'
 
-'''
-def remove_irrelevant_jobs(joblist, config):
-    # Filter out jobs based on description, title, and language. Set up in config.json.
-    new_joblist = [job for job in joblist if
-                   not any(word.lower() in job['job_description'].lower() for word in config['desc_words'])]
-    new_joblist = [job for job in new_joblist if
-                   not any(word.lower() in job['title'].lower() for word in config['title_exclude'])] if len(
-        config['title_exclude']) > 0 else new_joblist
-    new_joblist = [job for job in new_joblist if
-                   any(word.lower() in job['title'].lower() for word in config['title_include'])] if len(
-        config['title_include']) > 0 else new_joblist
-    new_joblist = [job for job in new_joblist if safe_detect(job['job_description']) in config['languages']] if len(
-        config['languages']) > 0 else new_joblist
-    new_joblist = [job for job in new_joblist if
-                   not any(word.lower() in job['company'].lower() for word in config['company_exclude'])] if len(
-        config['company_exclude']) > 0 else new_joblist
-
-    return new_joblist
-'''
-
-
-
 def remove_duplicates(joblist, config):
     # Remove duplicate jobs in the joblist. Duplicate is defined as having the same title and company.
     joblist.sort(key=lambda x: (x['title'], x['company']))
@@ -156,11 +134,11 @@ def exporttoexcel(all_jobs):
 def extract_skills(text, skillset):
     pattern = '|'.join([re.escape(skill) for skill in skillset])
     found_skills = re.findall(pattern, text, flags=re.IGNORECASE)
-    return ', '.join(set([skill.lower() for skill in found_skills]))
+    return ', '.join(set([skill for skill in found_skills]))
 
 def cleanfile():
     stop = stopwords.words('english')
-    new_words = ['show','less','Could','not','find','Job','Description']
+    new_words = ['show','less','Could','not','find','Job','Description', 'go']
     stop = stop + new_words
 
     #List of skillsets
@@ -228,7 +206,7 @@ def cleanfile():
     #Removes special characters
     df['job_description'] = df['job_description'].str.replace(r'[^a-zA-Z0-9\s]', '', regex=True) 
     #Removes stopwords
-    df['job_description'] = df['job_description'].apply(lambda x: ' '.join([word for word in x.split() if word.lower() not in (stop)])) 
+    df['job_description'] = df['job_description'].apply(lambda x: ' '.join([word for word in x.split() if word not in (stop)])) 
     #Extracts skills
     df['job_description'] = df['job_description'].apply(lambda x: extract_skills(x, skills))
     #-----End of job_description column cleaning-----
@@ -242,14 +220,17 @@ def main(config_file):
     all_jobs = get_jobcards(config)
     job_list = []
     if len(all_jobs) > 0:
+        print("Now scraping job descriptions...")
         for job in all_jobs:
             desc_soup = get_with_retry(job['job_url'], config)
             job['job_description'] = transform_job(desc_soup)
             job_list.append(job)
-            df = pd.DataFrame(job_list) 
-            df.to_csv('jobs.csv', index=False, header=True)
+        print("Finished scraping job descriptions")
+        df = pd.DataFrame(job_list) 
+        df.to_csv('jobs.csv', index=False, header=True)
     exporttoexcel(all_jobs)
     cleanfile()
+    #END OF CODE5
 
 def wait_for_flask():
     while True:
@@ -297,7 +278,7 @@ def openweb():
     webbrowser.open_new_tab(file_url)
 
 if __name__ == "__main__":
-    subprocess.Popen(['python3', 'flask_test.py']) #Runs flask code in non-blocking way
+    subprocess.Popen(['python', 'flask_test.py']) #Runs flask code in non-blocking way
     wait_for_flask()
     reset_form_submission()
     openweb() #Runs html file
