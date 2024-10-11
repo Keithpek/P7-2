@@ -1,0 +1,13 @@
+Flask
+flask_cors
+requests
+beautifulsoup4
+pandas
+langdetect
+pysocks
+openai
+pdfminer.six
+flask_cors
+webbrowser
+nltk
+stopwords
