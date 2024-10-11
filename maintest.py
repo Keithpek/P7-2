@@ -16,6 +16,16 @@ import webbrowser
 import time
 import os
 import platform
+import matplotlib.pyplot as plt
+from collections import Counter
+
+png_file = 'job_skills_distribution.png'
+
+# Cleanup function to delete the PNG file
+def cleanup():
+    if os.path.exists(png_file):
+        os.remove(png_file)
+        print(f"Deleted file: {png_file}")
 
 #Comment this line if you have already downloaded the stopwords
 #nltk.download('stopwords')
@@ -25,6 +35,20 @@ def load_config(file_name):
     with open(file_name) as f:
         return json.load(f)
 
+def piechart():
+    df = pd.read_csv('jobs_cleaned.csv')
+    skills_series = df['job_description']
+    skills = skills_series.str.cat(sep=',').split(',')
+    skills_count = Counter(skills)    
+    totalskills = sum(skills_count.values())
+    #filter for > 2%
+    filtered_skills = {skill:count for skill, count in skills_count.items() if (count/totalskills)>= 0.02}
+    plt.figure(figsize=(8,8))
+    plt.pie(filtered_skills.values(),labels=filtered_skills.keys(),autopct='%1.1f%%',startangle=140)
+    plt.title('Job Skills Distribution')
+    plt.axis('equal')
+    plt.savefig('job_skills_distribution.png')
+    plt.close()  # Close the plot to free memory
 
 def get_with_retry(url, config, retries=3, delay=1):
     # Get the URL with retries and delay
@@ -214,6 +238,7 @@ def cleanfile():
 
     #Save the cleaned dataframe to a new csv file
     df.to_csv('jobs_cleaned.csv', index=False)
+    piechart()
 
 
 def main(config_file):
@@ -279,6 +304,7 @@ def openweb():
     webbrowser.open_new_tab(file_url)
 
 if __name__ == "__main__":
+    cleanup()
     python_command = 'python3' if platform.system() != 'Windows' else 'python'
     subprocess.Popen([python_command, 'flask_test.py']) #Runs flask code in non-blocking way
     wait_for_flask()
