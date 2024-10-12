@@ -2,7 +2,7 @@ import requests
 import json
 import sys
 from bs4 import BeautifulSoup
-import time
+import time as tm
 from itertools import groupby
 import pandas as pd
 from urllib.parse import quote
@@ -228,7 +228,7 @@ def wait_for_flask():
                 break
         except requests.exceptions.ConnectionError:
             print("Flask is not running yet, waiting...")
-            time.sleep(1)
+            tm.sleep(1)
 
 def wait_for_html():
     while True:
@@ -245,7 +245,7 @@ def wait_for_html():
                 print("Error checking form input")
         except requests.exceptions.ConnectionError:
             print("Waiting for form input...")
-        time.sleep(1)
+        tm.sleep(1)
 
 def reset_form_submission():
     try:
