@@ -2,7 +2,7 @@ import requests
 import json
 import sys
 from bs4 import BeautifulSoup
-import time as tm
+import time
 from itertools import groupby
 import pandas as pd
 from urllib.parse import quote
@@ -13,7 +13,6 @@ import nltk
 from nltk.corpus import stopwords 
 import subprocess
 import webbrowser
-import time
 import os
 import platform
 import matplotlib.pyplot as plt
@@ -27,11 +26,9 @@ def cleanup():
         os.remove(png_file)
         print(f"Deleted file: {png_file}")
 
-#Comment this line if you have already downloaded the stopwords
-#nltk.download('stopwords')
+# nltk.download('stopwords')
 
 def load_config(file_name):
-    # Load the config file
     with open(file_name) as f:
         return json.load(f)
 
@@ -41,17 +38,16 @@ def piechart():
     skills = skills_series.str.cat(sep=',').split(',')
     skills_count = Counter(skills)    
     totalskills = sum(skills_count.values())
-    #filter for > 2%
-    filtered_skills = {skill:count for skill, count in skills_count.items() if (count/totalskills)>= 0.02}
+    filtered_skills = {skill:count for skill, count in skills_count.items() if (count/totalskills) >= 0.02}
+    
     plt.figure(figsize=(8,8))
-    plt.pie(filtered_skills.values(),labels=filtered_skills.keys(),autopct='%1.1f%%',startangle=140)
+    plt.pie(filtered_skills.values(), labels=filtered_skills.keys(), autopct='%1.1f%%', startangle=140)
     plt.title('Job Skills Distribution')
     plt.axis('equal')
-    plt.savefig('job_skills_distribution.png')
-    plt.close()  # Close the plot to free memory
+    plt.savefig(png_file)
+    plt.close()
 
 def get_with_retry(url, config, retries=3, delay=1):
-    # Get the URL with retries and delay
     for i in range(retries):
         try:
             if len(config['proxies']) > 0:
@@ -66,9 +62,7 @@ def get_with_retry(url, config, retries=3, delay=1):
             print(f"An error occurred while retrieving the URL: {url}, error: {e}")
     return None
 
-
 def transform(soup):
-    # Parsing the job card info (title, company, location, date, job_url) from the beautiful soup object
     joblist = []
     try:
         divs = soup.find_all('div', class_='base-search-card__info')
@@ -99,18 +93,14 @@ def transform(soup):
         joblist.append(job)
     return joblist
 
-def transform_job(soup):#Function to get the job description from the job details page
+def transform_job(soup):
     div = soup.find('div', class_='description__text description__text--rich')
     if div:
-        # Remove unwanted elements
         for element in div.find_all(['span', 'a']):
             element.decompose()
-
-        # Replace bullet points
         for ul in div.find_all('ul'):
             for li in ul.find_all('li'):
                 li.insert(0, '-')
-
         text = div.get_text(separator='\n').strip()
         text = text.replace('\n\n', '')
         text = text.replace('::marker', '-')
@@ -127,19 +117,16 @@ def safe_detect(text):
         return 'en'
 
 def remove_duplicates(joblist, config):
-    # Remove duplicate jobs in the joblist. Duplicate is defined as having the same title and company.
     joblist.sort(key=lambda x: (x['title'], x['company']))
     joblist = [next(g) for k, g in groupby(joblist, key=lambda x: (x['title'], x['company']))]
     return joblist
 
-
 def get_jobcards(config):
-    # Function to get the job cards from the search results page
     all_jobs = []
     for k in range(0, config['rounds']):
         for query in config['search_queries']:
-            keywords = quote(query['keywords'])  # URL encode the keywords
-            location = quote(query['location'])  # URL encode the location
+            keywords = quote(query['keywords'])
+            location = quote(query['location'])
             for i in range(0, config['pages_to_scrape']):
                 url = f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={keywords}&location={location}&f_TPR=&f_WT={query['f_WT']}&geoId=&f_TPR={config['timespan']}&start={25 * i}"
                 soup = get_with_retry(url, config)
@@ -151,7 +138,6 @@ def get_jobcards(config):
     print("Total job cards after removing duplicates: ", len(all_jobs))
     return all_jobs
 
-
 def exporttoexcel(all_jobs):
     df = pd.DataFrame(all_jobs)
     df.to_csv('jobs.csv', index=False, header=True)
@@ -159,87 +145,63 @@ def exporttoexcel(all_jobs):
 def extract_skills(text, skillset):
     pattern = '|'.join([re.escape(skill) for skill in skillset])
     found_skills = re.findall(pattern, text, flags=re.IGNORECASE)
-    return ', '.join(set([skill for skill in found_skills]))
+    
+    # Use a set to avoid duplicates and normalize to lowercase
+    unique_skills = set(skill.lower() for skill in found_skills)
+    
+    # Join the unique skills back to a string, capitalizing only the first letter of each word
+    return ', '.join(skill.capitalize() for skill in unique_skills)
 
 def cleanfile():
     stop = stopwords.words('english')
     new_words = ['show','less','Could','not','find','Job','Description', 'go']
     stop = stop + new_words
 
-    #List of skillsets
     skills = [
-        # Programming & Development
-        'Python', 'Typescript', 'Java', 'JavaScript', 'C#', 'C++', 'PHP', 'Ruby', 'Swift', 'Go', 'Kotlin', 'Perl', 'Bash', 'Shell Scripting', 'PowerShell',
-        'React', 'Angular', 'Vue.js', 'Node.js', 'Express.js', 'Django', 'Flask', 'Laravel', 'Spring', '.NET', 'jQuery', 'Bootstrap', 'SASS', 'LESS',
-        'Android', 'iOS', 'React Native', 'Flutter', 'Kotlin', 'Swift', 'Xamarin',
-        
-        # Cloud Computing
-        'AWS', 'Amazon Web Services', 'GCP', 'Google Cloud Platform', 'Microsoft Azure', 'Oracle Cloud', 'IBM Cloud', 'DigitalOcean', 'Heroku', 'Firebase',
-        
-        # Data Engineering & Analytics
-        'SQL', 'NoSQL', 'MySQL', 'PostgreSQL', 'MongoDB', 'Cassandra', 'Redis', 'Elasticsearch', 'MariaDB', 'DynamoDB', 'BigQuery', 'Snowflake', 'Hadoop', 'Spark', 
-        'ETL', 'Informatica', 'DBT', 'Tableau', 'Power BI', 'Talend', 'Airflow',
-        
-        # DevOps & Automation
-        'Jenkins', 'CircleCI', 'GitLab CI', 'Travis CI', 'Bamboo', 'Terraform', 'Ansible', 'Chef', 'Puppet', 'Docker', 'Kubernetes', 'Helm', 'OpenShift',
-        
-        # Networking & Security
-        'TCP/IP', 'DNS', 'SSL/TLS', 'VPN', 'SSH', 'IAM', 'OAuth', 'Firewall', 'Penetration Testing', 'Vulnerability Assessment', 'GDPR', 'CEH', 'CISSP',
-        
-        # Project Management & Methodologies
-        'Agile', 'Scrum', 'Kanban', 'Lean', 'Waterfall', 'SAFe', 'PMP', 'PRINCE2', 'Six Sigma', 'Lean Six Sigma', 'CSM',
-        
-        # Business Analysis & Strategy
-        'Business Analysis', 'Process Improvement', 'Risk Management', 'SWOT Analysis', 'Stakeholder Management',
-        
-        # Finance & Accounting
-        'QuickBooks', 'Xero', 'SAP FICO', 'CPA', 'CIMA', 'Taxation', 'Auditing', 'Financial Reporting',
-        
-        # Marketing & Sales
-        'SEO', 'SEM', 'Google Analytics', 'Salesforce', 'HubSpot', 'CRM', 'Lead Generation', 'Sales Forecasting', 'Account Management', 'Shopify',
-        
-        # Creative & Design
-        'Photoshop', 'Illustrator', 'InDesign', 'Sketch', 'Figma', 'Final Cut Pro', 'Canva', 'WordPress',
-        
-        # Healthcare
-        'Medical Coding', 'EHR', 'HIPAA Compliance', 'Patient Care', 'Nursing', 'Telemedicine', 'Pharmacy Management',
-        
-        # Supply Chain & Logistics
-        'Procurement', 'Vendor Management', 'Inventory Management', 'Shipping', 'Demand Forecasting', 'Lean Manufacturing', 'ERP',
-        
-        # Customer Service
-        'Zendesk', 'Freshdesk', 'Salesforce Service Cloud', 'Complaint Resolution', 'Technical Support',
-        
-        # Education & Training
-        'Curriculum Development', 'Lesson Planning', 'Instructional Design', 'Learning Management Systems', 'Corporate Training',
-        
-        # General Soft Skills
-        'Leadership', 'Teamwork', 'Time Management', 'Communication', 'Problem-solving', 'Adaptability', 'Emotional Intelligence', 'Multitasking'
+        'Python', 'Typescript', 'Java', 'JavaScript', 'C#', 'C++', 'PHP', 'Ruby', 'Swift', 'Go', 'Kotlin', 'Perl', 'Bash', 
+        'Shell Scripting', 'PowerShell', 'React', 'Angular', 'Vue.js', 'Node.js', 'Express.js', 'Django', 'Flask', 'Laravel', 
+        'Spring', '.NET', 'jQuery', 'Bootstrap', 'SASS', 'LESS', 'Android', 'iOS', 'React Native', 'Flutter', 'Kotlin', 
+        'Swift', 'Xamarin', 'AWS', 'Amazon Web Services', 'GCP', 'Google Cloud Platform', 'Microsoft Azure', 'Oracle Cloud', 
+        'IBM Cloud', 'DigitalOcean', 'Heroku', 'Firebase', 'SQL', 'NoSQL', 'MySQL', 'PostgreSQL', 'MongoDB', 'Cassandra', 
+        'Redis', 'Elasticsearch', 'MariaDB', 'DynamoDB', 'BigQuery', 'Snowflake', 'Hadoop', 'Spark', 'ETL', 'Informatica', 
+        'DBT', 'Tableau', 'Power BI', 'Talend', 'Airflow', 'Jenkins', 'CircleCI', 'GitLab CI', 'Travis CI', 'Bamboo', 
+        'Terraform', 'Ansible', 'Chef', 'Puppet', 'Docker', 'Kubernetes', 'Helm', 'OpenShift', 'TCP/IP', 'DNS', 'SSL/TLS', 
+        'VPN', 'SSH', 'IAM', 'OAuth', 'Firewall', 'Penetration Testing', 'Vulnerability Assessment', 'GDPR', 'CEH', 'CISSP', 
+        'Agile', 'Scrum', 'Kanban', 'Lean', 'Waterfall', 'SAFe', 'PMP', 'PRINCE2', 'Six Sigma', 'Lean Six Sigma', 'CSM', 
+        'Business Analysis', 'Process Improvement', 'Risk Management', 'SWOT Analysis', 'Stakeholder Management', 
+        'QuickBooks', 'Xero', 'SAP FICO', 'CPA', 'CIMA', 'Taxation', 'Auditing', 'Financial Reporting', 
+        'SEO', 'SEM', 'Google Analytics', 'Salesforce', 'HubSpot', 'CRM', 'Lead Generation', 'Sales Forecasting', 
+        'Account Management', 'Shopify', 'Photoshop', 'Illustrator', 'InDesign', 'Sketch', 'Figma', 
+        'Final Cut Pro', 'Canva', 'WordPress', 'Medical Coding', 'EHR', 'HIPAA Compliance', 'Patient Care', 'Nursing', 
+        'Telemedicine', 'Pharmacy Management', 'Procurement', 'Vendor Management', 'Inventory Management', 'Shipping', 
+        'Demand Forecasting', 'Lean Manufacturing', 'ERP', 'Zendesk', 'Freshdesk', 'Salesforce Service Cloud', 
+        'Complaint Resolution', 'Technical Support', 'Curriculum Development', 'Lesson Planning', 'Instructional Design', 
+        'Learning Management Systems', 'Corporate Training', 'Leadership', 'Teamwork', 'Time Management', 
+        'Communication', 'Problem-solving', 'Adaptability', 'Emotional Intelligence', 'Multitasking'
     ]
 
-    #convert excel_file into a dataframe
+    # Convert excel_file into a dataframe
     excel_file = 'jobs.csv'
     df = pd.read_csv(excel_file)
 
-    #Removes leading and trailing whitespaces
+    # Remove leading and trailing whitespaces
     df = df.apply(lambda x: x.str.strip() if x.dtype == "object" else x) 
 
-    #-----Cleaning job_description column-----
-    #Removes URLs
+    # -----Cleaning job_description column-----
+    # Remove URLs
     url_pattern = re.compile(r'\b(?:https?|ftp|file):\/\/\S+|www\.\S+\b')
     df['job_description'] = df['job_description'].str.replace(url_pattern, '', regex=True) 
-    #Removes special characters
+    # Remove special characters
     df['job_description'] = df['job_description'].str.replace(r'[^a-zA-Z0-9\s]', '', regex=True) 
-    #Removes stopwords
+    # Remove stopwords
     df['job_description'] = df['job_description'].apply(lambda x: ' '.join([word for word in x.split() if word not in (stop)])) 
-    #Extracts skills
+    # Extract skills
     df['job_description'] = df['job_description'].apply(lambda x: extract_skills(x, skills))
-    #-----End of job_description column cleaning-----
+    # -----End of job_description column cleaning-----
 
-    #Save the cleaned dataframe to a new csv file
+    # Save the cleaned dataframe to a new csv file
     df.to_csv('jobs_cleaned.csv', index=False)
     piechart()
-
 
 def main(config_file):
     config = load_config(config_file)
@@ -256,7 +218,6 @@ def main(config_file):
         df.to_csv('jobs.csv', index=False, header=True)
     exporttoexcel(all_jobs)
     cleanfile()
-    #END OF CODE5
 
 def wait_for_flask():
     while True:
@@ -297,7 +258,6 @@ def reset_form_submission():
         print("Error connecting to server to reset form submission")
 
 def openweb():
-
     filename = 'index.html'
     filepath = os.getcwd()
     file_url = 'file:///' + filepath + '/' + filename
@@ -306,10 +266,10 @@ def openweb():
 if __name__ == "__main__":
     cleanup()
     python_command = 'python3' if platform.system() != 'Windows' else 'python'
-    subprocess.Popen([python_command, 'flask_server.py']) #Runs flask code in non-blocking way
+    subprocess.Popen([python_command, 'flask_server.py'])  # Runs flask code in non-blocking way
     wait_for_flask()
     reset_form_submission()
-    openweb() #Runs html file
+    openweb()  # Runs html file
     wait_for_html()
     config_file = 'config.json'  # default config file
     main(config_file)
