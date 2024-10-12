@@ -36,11 +36,14 @@ def piechart():
     df = pd.read_csv('jobs_cleaned.csv')
     skills_series = df['job_description']
     skills = skills_series.str.cat(sep=',').split(',')
+    skills = [skill.strip().lower() for skill in skills]
+    
+    # Count skills
     skills_count = Counter(skills)    
     totalskills = sum(skills_count.values())
-    filtered_skills = {skill:count for skill, count in skills_count.items() if (count/totalskills) >= 0.02}
-    
-    plt.figure(figsize=(8,8))
+    filtered_skills = {skill.capitalize(): count for skill, count in skills_count.items() if (count / totalskills) >= 0.02}
+
+    plt.figure(figsize=(8, 8))
     plt.pie(filtered_skills.values(), labels=filtered_skills.keys(), autopct='%1.1f%%', startangle=140)
     plt.title('Job Skills Distribution')
     plt.axis('equal')
@@ -143,11 +146,12 @@ def exporttoexcel(all_jobs):
     df.to_csv('jobs.csv', index=False, header=True)
 
 def extract_skills(text, skillset):
-    pattern = '|'.join([re.escape(skill) for skill in skillset])
+    normalized_skills = [skill.lower().strip() for skill in skillset]
+    pattern = '|'.join([re.escape(skill) for skill in normalized_skills])
     found_skills = re.findall(pattern, text, flags=re.IGNORECASE)
     
     # Use a set to avoid duplicates and normalize to lowercase
-    unique_skills = set(skill.lower() for skill in found_skills)
+    unique_skills = set(skill.lower().strip() for skill in found_skills)
     
     # Join the unique skills back to a string, capitalizing only the first letter of each word
     return ', '.join(skill.capitalize() for skill in unique_skills)
